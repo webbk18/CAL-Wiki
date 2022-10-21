@@ -6,7 +6,7 @@ layout: page
 ---
 
 ## Artorian's Archives
-- [Skyspear Academy](_Atlas/Skyspear%20Academy.md)
+- [Skyspear Academy](_Atlas/SkyspearAcademy.md)
 
 
 ## Completionist Chronicles

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Atlas/TheShoe.md",
+                "file": "Atlas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Atlas/TheShoe.md",
+                "file": "Atlas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Atlas/TheShoe.md",
+                "file": "Atlas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Atlas/TheShoe.md"
+                "file": "Atlas.md"
               }
             }
           }
@@ -141,9 +141,9 @@
   },
   "active": "af358f4f768f7b3a",
   "lastOpenFiles": [
-    "Atlas.md",
-    "_Atlas/Skyspear Academy.md",
+    "_Atlas/SkyspearAcademy.md",
     "_Atlas/TheShoe.md",
+    "Atlas.md",
     "_Bestiary/Golem.md",
     "_Books/Hunt.md",
     "_Characters/Artorian.md",
