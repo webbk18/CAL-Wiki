@@ -1,6 +1,6 @@
 ---
 title: "README"
 permalink: /README
-layout: default
+layout: null
 ---
 Wiki for the Divine Dungeon Expanded Universe
