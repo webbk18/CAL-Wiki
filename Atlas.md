@@ -8,11 +8,11 @@ layout: page
 ---
 
 ## Artorian's Archives
-- [[_Atlas/Skyspear Academy]]
+- [Skyspear Academy](_Atlas/Skyspear%20Academy.md)
 
 
 ## Completionist Chronicles
-- [[_Atlas/The Shoe]]
+- [The Shoe](_Atlas/The%20Shoe.md)
 
 ## Divine Dungeon
 

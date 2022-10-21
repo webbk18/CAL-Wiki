@@ -6,16 +6,16 @@ layout: page
 # Characters
 ---
 ## Artorian's Archives
-- [[_Characters/Artorian]]
+- [Artorian](_Characters/Artorian.md)
 
 ## Completionist Chronicles
-- [[_Characters/Jake]]
+- [Jake](_Characters/Jake.md)
 
 ## Divine Dungeon
 - [Artorian](_Characters/Artorian.md)
 
 ## Lion's Lineage
-- [[_Characters/Garron]]
+- [Garron](_Characters/Garron.md)
 
 ## Wolfman Warlock
-- [[_Characters/Sam]]
+- [Sam](_Characters/Sam.md)
