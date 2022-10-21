@@ -3,7 +3,6 @@ permalink: /Atlas
 layout: page
 ---
 
-# Atlas
 ---
 
 ## Artorian's Archives
