@@ -2,7 +2,6 @@
 title: "Artorian"
 permalink: /Artorian/
 layout: default
-category : character
 ---
 # Artorian
 ---

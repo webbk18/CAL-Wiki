@@ -1,8 +1,7 @@
 ---
 title: "Sam"
 permalink: /Sam/
-layout: character
-category : character
+layout: default
 ---
 # Sam
 ---

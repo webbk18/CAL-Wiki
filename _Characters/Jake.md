@@ -1,8 +1,7 @@
 ---
 title: "Jake"
 permalink: /Jake/
-layout: character
-category : character
+layout: page
 ---
 # Jake
 ---
