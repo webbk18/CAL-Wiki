@@ -10,7 +10,7 @@ layout: page
 
 
 ## Completionist Chronicles
-- [The Shoe](TheShoe.md)
+- [The Shoe](_Atlas/TheShoe.md)
 
 ## Divine Dungeon
 
