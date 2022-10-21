@@ -13,12 +13,12 @@ author: CAL Wiki Team
 ###############################################
 
 navbar-links:
-  Home: "index"
-  Atlas: "atlas"
-  Bestiary: "bestiary"
-  Books: "books"
-  Characters: "characters"
-  Lexicon: "lexicon"
+  Home: "index.md"
+  Atlas: "Atlas.md"
+  Bestiary: "Bestiary.md"
+  Books: "Books.md"
+  Characters: "Characters.md"
+  Lexicon: "Lexicon.md"
 
 theme: minima
 
