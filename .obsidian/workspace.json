@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Books/WolfmanWarlock/Libriohexer.md",
+                "file": "_Characters/TheWolfpack.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Books/WolfmanWarlock/Libriohexer.md",
+                "file": "_Characters/TheWolfpack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Books/WolfmanWarlock/Libriohexer.md",
+                "file": "_Characters/TheWolfpack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Books/WolfmanWarlock/Libriohexer.md"
+                "file": "_Characters/TheWolfpack.md"
               }
             }
           }
@@ -150,15 +150,15 @@
   },
   "active": "e6e9bd9efc1bc717",
   "lastOpenFiles": [
-    "_Atlas/Narvik.md",
     "_Books/WolfmanWarlock/Libriohexer.md",
+    "_Atlas/Narvik.md",
     "Bill.md",
     "_Characters/Kai.md",
     "Books.md",
-    "_Atlas/The Forest of Chlorophyll Chaos.md",
+    "_Atlas/TheForestofChlorophyllChaos.md",
     "_Characters/Artorian.md",
     "_Atlas/Barracks.md",
-    "_Characters/The Wolfpack.md",
+    "_Characters/TheWolfpack.md",
     "_Characters/Sphinx.md"
   ]
 }

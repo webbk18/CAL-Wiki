@@ -19,4 +19,4 @@ layout: page
 
 ## Wolfman Warlock
 - [Sam](_Characters/Sam.md)
-- [Rabid Inquisitors](_Characters/Rabid%20Inquisitors.md)
+- [RabidInquisitors](_Characters/RabidInquisitors.md)
