@@ -1,14 +1,8 @@
 ---
-title: "DDEU Wiki"
+title: "_Home"
 permalink: /
 layout: default
 ---
-
-[index](Home.md)
-[Atlas](Atlas.md)
-
-
-
 
 Text here
 
