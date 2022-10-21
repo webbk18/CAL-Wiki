@@ -4,6 +4,6 @@
 [Vulcan](Vulcan.md)
 [Sphinx](Sphinx.md)
 [Sam](Sam.md)
-	[Bill](Bill.md)
+	[Bill](../../_Characters/Bill.md)
 
 
