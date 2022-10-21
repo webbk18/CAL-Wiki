@@ -12,11 +12,6 @@ collections:
     output: true
     permalink: /:collection/:name
 
-  - Bestiary
-  - Books
-  - Characters
-  - Lexicon
-
 # Exclude these files from production site
 exclude:
   - README.md
@@ -28,3 +23,10 @@ include:
   _Books
   _Characters
   _Lexicon
+
+# Plugins
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
