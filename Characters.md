@@ -1,4 +1,5 @@
 ---
+title: Characters
 permalink: /Characters
 layout: page
 ---

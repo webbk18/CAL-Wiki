@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas.md",
+                "file": "Lexicon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas.md",
+                "file": "Lexicon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas.md",
+                "file": "Lexicon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas.md"
+                "file": "Lexicon.md"
               }
             }
           }
@@ -141,13 +141,13 @@
   },
   "active": "af358f4f768f7b3a",
   "lastOpenFiles": [
+    "Characters.md",
+    "Books.md",
+    "Bestiary.md",
+    "Atlas.md",
     "index.md",
     "_Books/Hunt.md",
-    "Books.md",
-    "Atlas.md",
     "Lexicon.md",
-    "Characters.md",
-    "Bestiary.md",
     "_Characters/Sam.md",
     "_Characters/Jake.md",
     "_Characters/Garron.md"
