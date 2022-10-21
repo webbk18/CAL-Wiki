@@ -1,6 +1,6 @@
 ---
 title: "Jake"
-permalink: /Characters/Jake
+permalink: /Characters/Jake/
 layout: character
 category : character
 ---

@@ -1,6 +1,6 @@
 ---
 title: Atlas
-permalink: /Atlas
+permalink: /Atlas/
 layout: page
 ---
 

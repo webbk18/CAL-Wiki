@@ -1,6 +1,6 @@
 ---
 title: Lexicon
-permalink: /Lexicon
+permalink: /Lexicon/
 layout: page
 ---
 

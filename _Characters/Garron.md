@@ -1,6 +1,6 @@
 ---
 title: "Garron"
-permalink: /Characters/Garron
+permalink: /Characters/Garron/
 layout: character
 category : character
 ---

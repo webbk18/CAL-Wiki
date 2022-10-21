@@ -1,5 +1,5 @@
 ---
 title: "Golem"
-permalink: /Bestiary/Golem
+permalink: /Bestiary/Golem/
 layout: default
 ---

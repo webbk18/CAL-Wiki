@@ -1,6 +1,6 @@
 ---
 title: Bestiary
-permalink: /Bestiary
+permalink: /Bestiary/
 layout: page
 ---
 ---

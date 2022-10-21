@@ -1,6 +1,6 @@
 ---
 title: Characters
-permalink: /Characters
+permalink: /Characters/
 layout: page
 ---
 
