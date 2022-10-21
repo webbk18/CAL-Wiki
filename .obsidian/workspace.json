@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Books/Hunt.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Books/Hunt.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Books/Hunt.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Books/Hunt.md"
+                "file": "index.md"
               }
             }
           }
@@ -139,8 +139,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d36f357566882793",
+  "active": "af358f4f768f7b3a",
   "lastOpenFiles": [
+    "_Books/Hunt.md",
     "Books.md",
     "index.md",
     "Atlas.md",
@@ -149,7 +150,6 @@
     "Bestiary.md",
     "_Characters/Sam.md",
     "_Characters/Jake.md",
-    "_Characters/Garron.md",
-    "_Characters/Artorian.md"
+    "_Characters/Garron.md"
   ]
 }
