@@ -1,6 +1,5 @@
 ---
 title: Atlas
-permalink: /Atlas/
 layout: page
 ---
 
@@ -11,7 +10,7 @@ layout: page
 
 
 ## Completionist Chronicles
-- [The Shoe](_Atlas/The%20Shoe)
+- [The Shoe](TheShoe.md)
 
 ## Divine Dungeon
 
