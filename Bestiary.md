@@ -11,7 +11,7 @@ layout: page
 
 
 ## Completionist Chronicles
-- [Golem](_Bestiary/Golem.md)
+- [Golem](_Bestiary/Golem)
 
 ## Divine Dungeon
 
