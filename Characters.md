@@ -19,4 +19,10 @@ layout: page
 
 ## Wolfman Warlock
 - [Sam](_Characters/Sam.md)
-- [RabidInquisitors](_Characters/RabidInquisitors.md)
+- [Rabid Inquisitors](_Characters/RabidInquisitors.md)
+- [Arrow](_Characters/Arrow.md)
+- [Kai](_Characters/Kai.md)
+- [Dizzy](_Characters/Dizzy.md)
+- [Vulcan](_Characters/Vulcan.md)
+- [Sphinx](_Characters/Sphinx.md)
+- [Bill](../../_Characters/Bill.md)
