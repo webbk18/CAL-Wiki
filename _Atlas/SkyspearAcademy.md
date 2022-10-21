@@ -1,5 +1,8 @@
 ---
 title: "Skyspear Academy"
-permalink: //Skyspear_Academy/
+permalink: /Skyspear_Academy/
 layout: default
+---
+
+# Skyspear Academy
 ---
