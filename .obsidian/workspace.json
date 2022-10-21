@@ -11,8 +11,12 @@
             "id": "af358f4f768f7b3a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_Characters/Artorian.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Characters/TheWolfpack.md",
+                "file": "_Characters/Sam.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Characters/TheWolfpack.md",
+                "file": "_Characters/Artorian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Characters/TheWolfpack.md",
+                "file": "_Characters/Artorian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Characters/TheWolfpack.md"
+                "file": "_Characters/Artorian.md"
               }
             }
           }
@@ -148,17 +151,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e6e9bd9efc1bc717",
+  "active": "af358f4f768f7b3a",
   "lastOpenFiles": [
-    "_Characters/Sphinx.md",
-    "_Characters/TheWolfpack.md",
+    "index.md",
     "Characters.md",
+    "_Characters/Sam.md",
+    "_Characters/TheWolfpack.md",
+    "_Characters/Sphinx.md",
     "_Books/WolfmanWarlock/Libriohexer.md",
     "_Atlas/Narvik.md",
     "_Characters/Bill.md",
     "_Characters/Kai.md",
-    "Books.md",
-    "_Atlas/TheForestofChlorophyllChaos.md",
-    "_Characters/Artorian.md"
+    "Books.md"
   ]
 }
