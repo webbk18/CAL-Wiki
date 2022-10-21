@@ -11,6 +11,18 @@ collections:
   Atlas:
     output: true
     permalink: /:collection/:name
+  Bestiary:
+    output: true
+    permalink: /:collection/:name
+  Books:
+    output: true
+    permalink: /:collection/:name
+  Characters:
+    output: true
+    permalink: /:collection/:name
+  Lexicon:
+    output: true
+    permalink: /:collection/:name
 
 # Exclude these files from production site
 exclude:
