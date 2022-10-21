@@ -1,2 +1,6 @@
-# Cal-wiki
-wiki for the Divine Dungeon Expanded Universe
+---
+title: "README"
+permalink: /README
+layout: default
+---
+Wiki for the Divine Dungeon Expanded Universe

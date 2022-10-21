@@ -1,5 +1,5 @@
 ---
-title: "Wiki for the Divine Dungeon Universe"
+title: "DDEU Wiki"
 permalink: /
 layout: default
 ---
