@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas.md",
+                "file": "_Atlas/TheShoe.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas.md",
+                "file": "_Atlas/TheShoe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas.md",
+                "file": "_Atlas/TheShoe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas.md"
+                "file": "_Atlas/TheShoe.md"
               }
             }
           }
@@ -139,8 +139,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d36f357566882793",
+  "active": "af358f4f768f7b3a",
   "lastOpenFiles": [
+    "Atlas.md",
     "_Atlas/Skyspear Academy.md",
     "_Atlas/TheShoe.md",
     "_Bestiary/Golem.md",
@@ -149,7 +150,6 @@
     "_Characters/Garron.md",
     "_Characters/Jake.md",
     "_Characters/Sam.md",
-    "Lexicon.md",
-    "index.md"
+    "Lexicon.md"
   ]
 }
