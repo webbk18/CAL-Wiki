@@ -2,7 +2,7 @@
 permalink: /Characters
 layout: page
 ---
-# Characters
+
 ---
 ## Artorian's Archives
 - [Artorian](_Characters/Artorian.md)

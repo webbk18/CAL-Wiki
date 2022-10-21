@@ -2,10 +2,8 @@
 permalink: /Bestiary
 layout: page
 ---
-# Bestiary
 ---
 
-# Atlas
 
 ## Artorian's Archives
 - 

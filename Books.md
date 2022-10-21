@@ -2,7 +2,7 @@
 permalink: /Books
 layout: page
 ---
-# Books
+
 ---
 ## Artorian's Archives
 
