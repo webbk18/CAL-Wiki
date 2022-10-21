@@ -21,31 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Characters/The Wolfpack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4319843719d465de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Characters/Artorian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82415e78617d1a8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Books/ArtoriansArchives/ArtoriansArchives.md",
+                "file": "_Books/WolfmanWarlock/Libriohexer.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Characters/The Wolfpack.md",
+                "file": "_Books/WolfmanWarlock/Libriohexer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Characters/The Wolfpack.md",
+                "file": "_Books/WolfmanWarlock/Libriohexer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Characters/The Wolfpack.md"
+                "file": "_Books/WolfmanWarlock/Libriohexer.md"
               }
             }
           }
@@ -174,15 +150,15 @@
   },
   "active": "e6e9bd9efc1bc717",
   "lastOpenFiles": [
-    "_Characters/Sphinx.md",
-    "_Characters/The Wolfpack.md",
-    "_Characters/Vulcan.md",
-    "_Characters/Dizzy.md",
-    "_Characters/Artorian.md",
-    "_Characters/Arrow.md",
-    "_Characters/Kai.md",
+    "_Atlas/Narvik.md",
     "_Books/WolfmanWarlock/Libriohexer.md",
+    "Bill.md",
+    "_Characters/Kai.md",
     "Books.md",
-    "Characters.md"
+    "_Atlas/The Forest of Chlorophyll Chaos.md",
+    "_Characters/Artorian.md",
+    "_Atlas/Barracks.md",
+    "_Characters/The Wolfpack.md",
+    "_Characters/Sphinx.md"
   ]
 }
