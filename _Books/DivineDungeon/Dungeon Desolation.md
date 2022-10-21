@@ -1,5 +1,5 @@
 ---
 title: "Dungeon Desolation"
-permalink: /Dungeon Desolation/
+permalink: /Divine_Dungeon/Dungeon Desolation/
 layout: default
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Skyspear Academy"
-permalink: /Skyspear_Academy/
+permalink: /Atlas/Skyspear_Academy/
 layout: default
 ---
 

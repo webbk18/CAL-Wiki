@@ -1,5 +1,5 @@
 ---
 title: "Essence"
-permalink: /Essence/
+permalink: /Expanded_Universe/Essence/
 layout: default
 ---

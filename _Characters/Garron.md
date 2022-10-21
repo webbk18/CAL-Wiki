@@ -1,6 +1,6 @@
 ---
 title: "Garron"
-permalink: /Garron/
+permalink: /Characters/Garron/
 layout: page
 ---
 

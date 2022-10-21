@@ -1,5 +1,5 @@
 ---
 title: "Dungeon Madness"
-permalink: /Dungeon_Madness/
+permalink: /Divine_Dungeon/Dungeon_Madness/
 layout: default
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dungeon Calamity"
-permalink: /Dungeon_Calamity/
+permalink: /Divine_Dungeon/Dungeon_Calamity/
 layout: default
 ---

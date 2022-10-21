@@ -1,5 +1,5 @@
 ---
 title: "Annex"
-permalink: /Annex/
+permalink: /Artorians_Archives/Annex/
 layout: default
 ---

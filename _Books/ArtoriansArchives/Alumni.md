@@ -1,5 +1,5 @@
 ---
 title: "Alumni"
-permalink: /Alumni/
+permalink: /Artorians_Archives/Alumni/
 layout: default
 ---

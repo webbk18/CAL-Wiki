@@ -1,5 +1,5 @@
 ---
 title: "Acme"
-permalink: /Acme/
+permalink: /Artorians_Archives/Acme/
 layout: default
 ---

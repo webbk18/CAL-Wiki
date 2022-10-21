@@ -1,5 +1,5 @@
 ---
 title: "Irondown Barracks"
-permalink: /Barracks/
+permalink: /Atlas/Barracks/
 layout: default
 ---

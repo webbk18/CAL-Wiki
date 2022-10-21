@@ -1,5 +1,5 @@
 ---
 title: "Artifact"
-permalink: /Artifact/
+permalink: /Artorians_Archives/Artifact/
 layout: default
 ---

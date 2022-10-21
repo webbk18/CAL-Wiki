@@ -1,6 +1,6 @@
 ---
 title: "The Shoe"
-permalink: /The_Shoe/
+permalink: /Atlas/The_Shoe/
 layout: default
 ---
 

@@ -1,5 +1,5 @@
 ---
 title: "Anima"
-permalink: /Anima/
+permalink: /Artorians_Archives/Anima/
 layout: default
 ---

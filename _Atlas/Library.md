@@ -1,5 +1,5 @@
 ---
 title: "Irondown Library"
-permalink: /Library/
+permalink: /Atlas/Library/
 layout: default
 ---

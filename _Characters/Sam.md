@@ -1,6 +1,6 @@
 ---
 title: "Sam"
-permalink: /Sam/
+permalink: /Characters/Sam/
 layout: default
 ---
 # Sam

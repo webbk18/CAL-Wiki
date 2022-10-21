@@ -1,5 +1,5 @@
 ---
 title: "Raze"
-permalink: /Raze/
+permalink: /Completionist_Chronicles/Raze/
 layout: default
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ruthless"
-permalink: /Ruthless/
+permalink: /Completionist_Chronicles/Ruthless/
 layout: default
 ---

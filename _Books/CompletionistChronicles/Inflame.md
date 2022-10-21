@@ -1,5 +1,5 @@
 ---
 title: "Inflame"
-permalink: /Inflame/
+permalink: /Completionist_Chronicles/Inflame/
 layout: default
 ---

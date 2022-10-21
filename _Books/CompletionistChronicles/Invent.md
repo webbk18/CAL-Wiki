@@ -1,5 +1,5 @@
 ---
 title: "Invent"
-permalink: /Invent/
+permalink: /Completionist_Chronicles/Invent/
 layout: default
 ---

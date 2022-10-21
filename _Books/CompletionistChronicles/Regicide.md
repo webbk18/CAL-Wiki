@@ -1,5 +1,5 @@
 ---
 title: "Regicide"
-permalink: /Regicide/
+permalink: /Completionist_Chronicles/Regicide/
 layout: default
 ---

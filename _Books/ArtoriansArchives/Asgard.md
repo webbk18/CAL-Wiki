@@ -1,5 +1,5 @@
 ---
 title: "Asgard"
-permalink: /Asgard/
+permalink: /Artorians_Archives/Asgard/
 layout: default
 ---

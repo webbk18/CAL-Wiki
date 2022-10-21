@@ -1,5 +1,5 @@
 ---
 title: "Arsenal"
-permalink: /Arsenal/
+permalink: /Artorians_Archives/Arsenal/
 layout: default
 ---

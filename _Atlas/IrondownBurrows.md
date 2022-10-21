@@ -1,6 +1,6 @@
 ---
 title: "Irondown Burrows"
-permalink: /Irondown_Burrows/
+permalink: /Atlas/Irondown_Burrows/
 layout: default
 ---
 

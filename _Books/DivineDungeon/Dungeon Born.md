@@ -1,5 +1,5 @@
 ---
 title: "Dungeon Born"
-permalink: /Dungeon_Born/
+permalink: /Divine_Dungeon/Dungeon_Born/
 layout: default
 ---

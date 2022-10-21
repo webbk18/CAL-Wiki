@@ -1,5 +1,5 @@
 ---
 title: "Hunt"
-permalink: /Hunt/
+permalink: /Lions_Lineage/Hunt/
 layout: default
 ---

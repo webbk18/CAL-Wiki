@@ -1,5 +1,5 @@
 ---
 title: "Rexus"
-permalink: /Rexus/
+permalink: /Completionist_Chronicles/Rexus/
 layout: default
 ---

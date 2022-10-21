@@ -1,5 +1,5 @@
 ---
 title: "Axiom"
-permalink: /Axiom/
+permalink: /Artorians_Archives/Axiom/
 layout: default
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ritualist"
-permalink: /Ritualist/
+permalink: /Completionist_Chronicles/Ritualist/
 layout: default
 ---

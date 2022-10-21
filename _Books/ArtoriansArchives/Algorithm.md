@@ -1,5 +1,5 @@
 ---
 title: "Algorithm"
-permalink: /Algorithm/
+permalink: /Artorians_Archives/Algorithm/
 layout: default
 ---
