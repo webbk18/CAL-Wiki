@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Atlas/TheShoe.md",
+                "file": "_Books/WolfmanWarlock/Libriohexer.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Atlas/TheShoe.md",
+                "file": "_Books/WolfmanWarlock/Libriohexer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Atlas/TheShoe.md",
+                "file": "_Books/WolfmanWarlock/Libriohexer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Atlas/TheShoe.md"
+                "file": "_Books/WolfmanWarlock/Libriohexer.md"
               }
             }
           }
@@ -162,15 +162,15 @@
   },
   "active": "e6e9bd9efc1bc717",
   "lastOpenFiles": [
+    "Books.md",
+    "Characters.md",
+    "Atlas.md",
+    "_Atlas/TheShoe.md",
     "_Atlas/SkyspearAcademy.md",
     "_Atlas/Narvik.md",
     "_Atlas/Library.md",
     "_Atlas/IrondownBurrows.md",
     "_Atlas/Barracks.md",
-    "_Books/WolfmanWarlock/Bibliomancer.md",
-    "_Books/ExpandedUniverse/Essence.md",
-    "_Books/ExpandedUniverse/ExpandedUniverse.md",
-    "_Books/LionsLineage/Hunt.md",
-    "_Books/DivineDungeon/Dungeon Madness.md"
+    "_Books/WolfmanWarlock/Bibliomancer.md"
   ]
 }

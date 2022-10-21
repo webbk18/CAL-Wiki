@@ -18,3 +18,4 @@ layout: page
 
 ## Wolfman Warlock
 - [Irondown Burrows](_Atlas/IrondownBurrows.md)
+- [Narvik](_Atlas/Narvik.md)
