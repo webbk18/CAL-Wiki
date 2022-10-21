@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_Atlas/Skyspear Academy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_Atlas/Skyspear Academy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "_Atlas/Skyspear Academy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "_Atlas/Skyspear Academy.md"
               }
             }
           }
@@ -141,15 +141,15 @@
   },
   "active": "af358f4f768f7b3a",
   "lastOpenFiles": [
-    "Artorian.md",
-    "index.md",
+    "_Atlas/The Shoe.md",
+    "_Atlas/Skyspear Academy.md",
     "Lexicon.md",
-    "Sam.md",
     "Characters.md",
-    "Garron.md",
-    "Jake.md",
+    "Books.md",
     "Bestiary.md",
     "Atlas.md",
-    "Golem.md"
+    "index.md",
+    "_Characters/Artorian.md",
+    "_Characters/Sam.md"
   ]
 }

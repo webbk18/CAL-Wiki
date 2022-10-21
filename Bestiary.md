@@ -1,7 +1,7 @@
 ---
-title: "Bestiary"
+title: Bestiary
 permalink: /Bestiary
-layout: default
+layout: page
 ---
 # Bestiary
 ---
@@ -13,7 +13,7 @@ layout: default
 
 
 ## Completionist Chronicles
-- [[Golem]]
+- [[_Bestiary/Golem]]
 
 ## Divine Dungeon
 

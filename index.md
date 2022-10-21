@@ -1,7 +1,7 @@
 ---
 title: "Home"
 permalink: /
-layout: default
+layout: home
 ---
 
 Text here

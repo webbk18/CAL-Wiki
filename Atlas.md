@@ -1,18 +1,18 @@
 ---
-title: "Atlas"
+title: Atlas
 permalink: /Atlas
-layout: default
+layout: page
 ---
 
 # Atlas
 ---
 
 ## Artorian's Archives
-- [[Skyspear Academy]]
+- [[_Atlas/Skyspear Academy]]
 
 
 ## Completionist Chronicles
-- [[The Shoe]]
+- [[_Atlas/The Shoe]]
 
 ## Divine Dungeon
 

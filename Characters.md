@@ -1,21 +1,21 @@
 ---
-title: "Characters"
+title: Characters
 permalink: /Characters
-layout: default
+layout: page
 ---
 # Characters
 ---
 ## Artorian's Archives
-- [[Artorian]]
+- [[_Characters/Artorian]]
 
 ## Completionist Chronicles
-- [[Jake]]
+- [[_Characters/Jake]]
 
 ## Divine Dungeon
-- [Artorian](Artorian.md)
+- [Artorian](_Characters/Artorian.md)
 
 ## Lion's Lineage
-- [[Garron]]
+- [[_Characters/Garron]]
 
 ## Wolfman Warlock
-- [[Sam]]
+- [[_Characters/Sam]]

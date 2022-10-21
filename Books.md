@@ -1,7 +1,7 @@
 ---
-title: "Books"
+title: Books
 permalink: /Books
-layout: default
+layout: page
 ---
 # Books
 ---

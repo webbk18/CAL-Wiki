@@ -1,7 +1,7 @@
 ---
-title: "Lexicon"
+title: Lexicon
 permalink: /Lexicon
-layout: default
+layout: page
 ---
 # Lexicon
 ---

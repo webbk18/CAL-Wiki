@@ -6,3 +6,11 @@ description: "Wiki for the Divine Dungeon Expanded Universe"
 # Build settings
 remote_theme: jekyll/minima
 
+
+
+collections:
+  - Atlas
+  - Bestiary
+  - Books
+  - Characters
+  - Lexicon
