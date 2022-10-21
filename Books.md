@@ -2,6 +2,7 @@
 title: Books
 permalink: /Books/
 layout: page
+cssclass: [dashboard]
 ---
 
 ---

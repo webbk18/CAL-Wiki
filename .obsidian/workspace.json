@@ -11,10 +11,18 @@
             "id": "af358f4f768f7b3a",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "817feb32371ba0fd",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "_Characters/Artorian.md",
-                "mode": "source",
+                "file": "Books.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -31,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Characters/Artorian.md",
+                "file": "Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Characters/Artorian.md",
+                "file": "Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Characters/Artorian.md"
+                "file": "Books.md"
               }
             }
           }
@@ -151,17 +160,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "af358f4f768f7b3a",
+  "active": "817feb32371ba0fd",
   "lastOpenFiles": [
+    "Lexicon.md",
+    "markdown reference.md",
     "index.md",
+    "_Characters/Artorian.md",
     "Characters.md",
     "Books.md",
     "2022-10-21.md",
     "Atlas.md",
-    "_Characters/Artorian.md",
     "_Characters/Sam.md",
-    "_Characters/TheWolfpack.md",
-    "_Characters/Sphinx.md",
-    "_Books/WolfmanWarlock/Libriohexer.md"
+    "_Characters/TheWolfpack.md"
   ]
 }
