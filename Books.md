@@ -11,6 +11,6 @@ layout: page
 ## Divine Dungeon
 
 ## Lion's Lineage
-1) [Hunt](Hunt) (2021)
+1) [Hunt](_Books/Hunt.md) (2021)
 
 ## Wolfman Warlock
