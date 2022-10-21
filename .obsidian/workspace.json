@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Characters/Artorian.md",
+                "file": "_Characters/Sam.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Characters/Artorian.md",
+                "file": "_Characters/Sam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Characters/Artorian.md",
+                "file": "_Characters/Sam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Characters/Artorian.md"
+                "file": "_Characters/Sam.md"
               }
             }
           }
@@ -141,15 +141,15 @@
   },
   "active": "af358f4f768f7b3a",
   "lastOpenFiles": [
+    "_Characters/Jake.md",
+    "_Characters/Garron.md",
+    "_Characters/Artorian.md",
     "Lexicon.md",
     "index.md",
     "Characters.md",
     "Books.md",
     "Bestiary.md",
     "Atlas.md",
-    "README.md",
-    "_Atlas/Skyspear Academy.md",
-    "_Atlas/The Shoe.md",
-    "_Characters/Artorian.md"
+    "README.md"
   ]
 }
