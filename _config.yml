@@ -10,11 +10,9 @@ remote_theme: jekyll/minima
 
 collections:
   - Atlas
-      output: true
   - Bestiary
   - Books
   - Characters
-      output: true
   - Lexicon
 
 # Exclude these files from production site
