@@ -1,6 +1,6 @@
 ---
 title: "Artorian"
-permalink: /Characters/Artorian
+permalink: /_Characters/Artorian
 layout: character
 ---
 # Artorian
