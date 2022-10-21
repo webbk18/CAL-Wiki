@@ -17,6 +17,4 @@ collections:
 
 # Exclude these files from production site
 exclude:
-  - CNAME
-  - LICENSE
   - README.md
