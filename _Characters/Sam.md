@@ -1,6 +1,6 @@
 ---
 title: "Sam"
-permalink: /Characters/Sam/
+permalink: /Sam/
 layout: character
 category : character
 ---
