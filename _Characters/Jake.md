@@ -1,7 +1,7 @@
 ---
 title: "Jake"
 permalink: /Jake/
-layout: page
+layout: default
 ---
 # Jake
 ---
