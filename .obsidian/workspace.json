@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lexicon.md",
+                "file": "Sam.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lexicon.md",
+                "file": "Sam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lexicon.md",
+                "file": "Sam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lexicon.md"
+                "file": "Sam.md"
               }
             }
           }
@@ -142,14 +142,14 @@
   "active": "af358f4f768f7b3a",
   "lastOpenFiles": [
     "Characters.md",
-    "Books.md",
+    "Garron.md",
+    "Artorian.md",
+    "Jake.md",
     "Bestiary.md",
     "Atlas.md",
-    "The Shoe.md",
-    "Skyspear Academy.md",
     "Golem.md",
-    "index.md",
+    "Books.md",
     "Lexicon.md",
-    "README.md"
+    "The Shoe.md"
   ]
 }
