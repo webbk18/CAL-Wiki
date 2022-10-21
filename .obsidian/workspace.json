@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Characters/Jake.md",
+                "file": "_Atlas/IrondownBurrows.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6e9bd9efc1bc717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Books/ArtoriansArchives/Alumni.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82415e78617d1a8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Characters/Jake.md",
+                "file": "Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Characters/Jake.md",
+                "file": "Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Characters/Jake.md"
+                "file": "Books.md"
               }
             }
           }
@@ -139,17 +164,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "af358f4f768f7b3a",
+  "active": "82415e78617d1a8f",
   "lastOpenFiles": [
-    "_Characters/Sam.md",
-    "_Characters/Jake.md",
-    "_Characters/Garron.md",
-    "_Characters/Artorian.md",
-    "_Books/Hunt.md",
-    "_Bestiary/Golem.md",
+    "_Books/ArtoriansArchives/ArtoriansArchives.md",
     "Books.md",
-    "Bestiary.md",
-    "_Atlas/TheShoe.md",
-    "_Atlas/SkyspearAcademy.md"
+    "_Books/ArtoriansArchives/Alumni.md",
+    "_Books/ArtoriansArchives/Axiom.md",
+    "_Characters/Artorian.md",
+    "_Atlas/IrondownBurrows.md",
+    "Lexicon.md",
+    "Characters.md",
+    "Atlas.md",
+    "_Atlas/Library.md"
   ]
 }

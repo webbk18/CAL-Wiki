@@ -7,7 +7,7 @@ layout: default
 A dwarven dungeon 
 
 ## Rooms
-[[Barracks]]
+[Barracks](Barracks.md)
    - 30 bunks
    - 
-[[Library]]
+[Library](Library.md)]
