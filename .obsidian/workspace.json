@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books.md",
+                "file": "_Books/WolfmanWarlock/Libriohexer.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books.md",
+                "file": "_Books/WolfmanWarlock/Libriohexer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books.md",
+                "file": "_Books/WolfmanWarlock/Libriohexer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books.md"
+                "file": "_Books/WolfmanWarlock/Libriohexer.md"
               }
             }
           }
@@ -162,15 +162,15 @@
   },
   "active": "e6e9bd9efc1bc717",
   "lastOpenFiles": [
-    "_Books/WolfmanWarlock/WolfmanWarlock.md",
     "Books.md",
+    "_Books/WolfmanWarlock/Bibliomancer.md",
+    "index.md",
+    "_Books/WolfmanWarlock/WolfmanWarlock.md",
     "_Books/DivineDungeon/DivineDungeon.md",
     "_Books/CompletionistChronicles/CompletionistChronicles.md",
     "_Books/ArtoriansArchives/ArtoriansArchives.md",
     "_Books/ArtoriansArchives/Accords.md",
     "_Books/DivineDungeon/Dungeon Eternium.md",
-    "_Books/DivineDungeon/Dungeon Desolation.md",
-    "_Books/DivineDungeon/Dungeon Calamity.md",
-    "_Books/DivineDungeon/Dungeon Madness.md"
+    "_Books/DivineDungeon/Dungeon Desolation.md"
   ]
 }

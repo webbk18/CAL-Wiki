@@ -1,5 +1,5 @@
 ---
 title: "Bibliomancer"
-permalink: /Bibliomancer/
+permalink: /Wolfman_Warlock/Bibliomancer/
 layout: default
 ---

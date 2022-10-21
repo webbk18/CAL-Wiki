@@ -1,5 +1,5 @@
 ---
 title: "Libriohexer"
-permalink: /Librohexer/
+permalink: /Wolfman_Warlock/Librohexer/
 layout: default
 ---
