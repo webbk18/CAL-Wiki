@@ -1,5 +1,4 @@
 ---
-title: Bestiary
 permalink: /Bestiary
 layout: page
 ---
