@@ -1,3 +1,10 @@
+---
+title: "The Wolfpack"
+permalink: /Characters/The_Wolfpack/
+layout: default
+---
+
+
 - [Arrow](_Characters/Arrow.md)
 - [Kai](_Characters/Kai.md)
 - [Dizzy](_Characters/Dizzy.md)
