@@ -7,7 +7,7 @@ layout: default
 
 **Dumpster diving for profit. Creatures most fowl. Blazes of glory.**
 
-[Sam King](../../_Characters/WolfmanWarlock/Sam.md) is enjoying being a Bibliomancer, especially as his powers grow and new doors begin to open for him. Between slapping down people hunting him and the[Wolfmen](../../_Characters/WolfmanWarlock/Wolfmen.md) that he works with, he’s even starting to get fringe benefits that even his handler is surprised by.
+[Sam King](../../_Characters/WolfmanWarlock/Sam.md) is enjoying being a Bibliomancer, especially as his powers grow and new doors begin to open for him. Between slapping down people hunting him and the [Wolfmen](../../_Characters/WolfmanWarlock/Wolfmen.md) that he works with, he’s even starting to get fringe benefits that even his handler is surprised by.
 
 Not everything is sunshine and unicorns. Tasked with advancing his class as well as forming a new den for his team–his pack–the Bibliomancer starts to learn what the costs really are for blazing his own trail. Yet, with every cost comes opportunity, and if he makes the right call, his time in this world will be way more fun than he ever imagined.
 
@@ -25,6 +25,7 @@ Sam didn’t choose the path of a Wolfman Warlock out of a sense of duty, but as
 - [Dizzy](../../_Characters/WolfmanWarlock/Dizzy.md)
 - [Velkan](../../_Characters/WolfmanWarlock/Velkan.md)
 - [Sphinx](../../_Characters/WolfmanWarlock/Sphinx.md)
+- [Finn](../../_Characters/WolfmanWarlock/Finn.md)
 
 ## Book Info
 
@@ -34,7 +35,7 @@ Sam didn’t choose the path of a Wolfman Warlock out of a sense of duty, but as
 |  | [Dakota Krout](../../_Lexicon/DakotaKrout.md) |
 | Narrator| [Nick Podehl](../../_Lexicon/NickPodehl.md) |
 | Publisher | Mountaindale Press |
-| |  |
+
 
 | Book Info |  |
 |---|---|
@@ -57,7 +58,7 @@ Sam didn’t choose the path of a Wolfman Warlock out of a sense of duty, but as
 
 ## Chapter Summaries
 
-1. Ambush of the [Rabid Inquisitors](../../_Characters/WolfmanWarlock/RabidInquisitors.md)
+1. Ambush of the [Rabid Inquisitors](../../_Characters/WolfmanWarlock/RabidInquisitors.md), Sam Hits Level 10
 2. Description of [Narvik](../../_Atlas/Narvik.md) and the occupants 
 3. [Sam](../../_Characters/WolfmanWarlock/Sam.md) and his guild, [TheWolfpack](../../_Characters/WolfmanWarlock/TheWolfpack.md) get the news that [Narvik](../../_Atlas/Narvik.md) is moving to [The Forest of Chlorophyll Chaos](../../_Atlas/TheForestofChlorophyllChaos.md) and that they can't join the wolfmen there.
 5. Sam raises hits his Intelligence threshold and with the help of [Bill](../../_Characters/WolfmanWarlock/Bill.md) connects his mana to the pathways 

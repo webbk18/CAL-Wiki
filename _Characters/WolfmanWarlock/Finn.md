@@ -7,3 +7,4 @@ Finn
 ---
 - self-proclaimed company chef
 - Grew up in a noble house
+- Rouge Mage

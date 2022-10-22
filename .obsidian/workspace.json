@@ -21,7 +21,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Characters/WolfmanWarlock/Sam.md",
+                "file": "Atlas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55b630ceeaf54773",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atlas.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,43 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Characters/WolfmanWarlock/Dizzy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f05df9d0c6c6abd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "_Characters/WolfmanWarlock/Sam.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40d38775f04bc2f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Lexicon/OrbitalTomeofCasting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff72648bc86ec9d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Lexicon/Papier-MacheMage.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,69 +62,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "72e37dd1241bd930",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Lexicon/PaperShuriken.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "203832650b2df703",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Lexicon/Papier-MacheMage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85234d525ba93a75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Books/DivineDungeon/DungeonBorn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cefd13092de58f69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/book-template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6e9bd9efc1bc717",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Characters/WolfmanWarlock/TheWolfpack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -214,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Lexicon/Papier-MacheMage.md",
+                "file": "_Characters/WolfmanWarlock/Sam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Lexicon/Papier-MacheMage.md",
+                "file": "_Characters/WolfmanWarlock/Sam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Lexicon/Papier-MacheMage.md"
+                "file": "_Characters/WolfmanWarlock/Sam.md"
               }
             }
           }
@@ -268,17 +184,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "203832650b2df703",
+  "active": "853a36c3f37cdf77",
   "lastOpenFiles": [
-    "_Lexicon/Fireball.md",
-    "_Lexicon/OrbitalTomeofCasting.md",
-    "_Lexicon/PaperShuriken.md",
-    "_Lexicon/Papier-MacheMage.md",
-    "_Lexicon/DungeonCore.md",
-    "_Lexicon/BillsFoppishHat.md",
+    "_Characters/WolfmanWarlock/TheWolfpack.md",
+    "_Characters/WolfmanWarlock/Finn.md",
+    "Atlas.md",
+    "_Books/WolfmanWarlock/Libriohexer.md",
     "_Characters/WolfmanWarlock/Sam.md",
-    "_Characters/WolfmanWarlock/Velkan.md",
-    "_Characters/WolfmanWarlock/JumboKiwi.md",
-    "_Characters/WolfmanWarlock/RabidInquisitors.md"
+    "_Characters/WolfmanWarlock/Wolfmen.md",
+    "_Atlas/Narvik.md",
+    "Ardania.md",
+    "_Atlas/Barracks.md",
+    "Books.md"
   ]
 }

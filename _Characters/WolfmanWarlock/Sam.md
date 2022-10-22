@@ -10,14 +10,20 @@ Level at start of book 2- lvl 9
 - Aligned with the [Wolfmen](Wolfmen.md) and the [Redmane Tribe](WolfmanWarlock/Redmane%20Tribe.md)
 - Not Much of a coffee drinker, Prefers Earl Grey
 - Has a Soul-Bond with [Bill](Bill.md)
+- Rouge Mage
 
 
 ## Spells
-	- 
+- [Fire Shuriken](../../_Lexicon/FireShuriken.md)
+- [Paper Shuriken](../../_Lexicon/PaperShuriken.md)
+- [Papier-Mache Mage](../../_Lexicon/Papier-MacheMage.md)
+- [Orbital Tome of Casting](../../_Lexicon/OrbitalTomeofCasting.md)
+
 ## Stat Blocks
 
 ### Librohexer Chapter 3
-#### Name: Sam_K ‘Experimental Forger’
+
+##### Name: Sam_K ‘Experimental Forger’
 	- Class: Bibliomancer
 	- Profession 1: Bookbinder
 	- Profession 2: Unassigned
