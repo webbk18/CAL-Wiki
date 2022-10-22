@@ -40,3 +40,6 @@ book blurb / description
 | Format | Published | ASIN ISBN |
 |---|---|---|
 |  |  |  |
+
+## Chapter Summaries
+1. 
