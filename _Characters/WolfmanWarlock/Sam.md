@@ -23,7 +23,8 @@ Level at start of book 2- lvl 9
 
 ### Librohexer Chapter 3
 
-##### Name: Sam_K ‘Experimental Forger’
+```
+Name: Sam_K ‘Experimental Forger’
 	- Class: Bibliomancer
 	- Profession 1: Bookbinder
 	- Profession 2: Unassigned
@@ -42,3 +43,4 @@ Level at start of book 2- lvl 9
 	- Perception: 20 (1.20)
 	- Luck: 14 (1.4)
 	- Karmic Luck: +1
+```
