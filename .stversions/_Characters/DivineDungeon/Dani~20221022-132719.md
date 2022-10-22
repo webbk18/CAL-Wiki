@@ -1,0 +1,5 @@
+---
+title: "Dani"
+permalink: /Characters/Dani/
+layout: default
+---
