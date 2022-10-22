@@ -56,6 +56,14 @@ Sam didn’t choose the path of a Wolfman Warlock out of a sense of duty, but as
 | Audiobook | June 1, 2022 | B0B2X1D88N |
 | Paperback | November 1, 2021 | 978-1637660560 | 
 
+
+|  |  |  |
+|---|---|---|
+| ![libriohexercover](../../images/libriohexercover.jpg) | ![libriohexer_backcover](../../images/libriohexer_backcover.jpg) | ![libriohexer_audiocover](../../images/libriohexer_audiocover.jpg) | 
+
+
+
+
 ## Chapter Summaries
 
 1. Ambush of the [Rabid Inquisitors](../../_Characters/WolfmanWarlock/RabidInquisitors.md), Sam Hits Level 10

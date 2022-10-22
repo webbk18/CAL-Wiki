@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_Books/WolfmanWarlock/Libriohexer.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_Books/WolfmanWarlock/Libriohexer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "_Books/WolfmanWarlock/Libriohexer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "_Books/WolfmanWarlock/Libriohexer.md"
               }
             }
           }
@@ -174,15 +174,15 @@
   },
   "active": "853a36c3f37cdf77",
   "lastOpenFiles": [
-    "Atlas.md",
+    "_Books/WolfmanWarlock/Bibliomancer.md",
+    "Books.md",
     "index.md",
+    "Atlas.md",
     "_Characters/WolfmanWarlock/Sam.md",
     "_Characters/WolfmanWarlock/TheWolfpack.md",
     "_Characters/WolfmanWarlock/Finn.md",
     "_Books/WolfmanWarlock/Libriohexer.md",
     "_Characters/WolfmanWarlock/Wolfmen.md",
-    "_Atlas/Narvik.md",
-    "_Atlas/Ardania.md",
-    "_Atlas/Barracks.md"
+    "_Atlas/Narvik.md"
   ]
 }
