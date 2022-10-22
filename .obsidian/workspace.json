@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters.md",
+                "file": "_Characters/Artorian.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters.md",
+                "file": "_Characters/Artorian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters.md",
+                "file": "_Characters/Artorian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters.md"
+                "file": "_Characters/Artorian.md"
               }
             }
           }
@@ -186,6 +186,7 @@
   },
   "active": "817feb32371ba0fd",
   "lastOpenFiles": [
+    "Characters.md",
     "_Books/WolfmanWarlock/Libriohexer.md",
     "_Books/WolfmanWarlock/Bibliomancer.md",
     "_Atlas/MagesCollege.md",
@@ -194,7 +195,6 @@
     "_Characters/Sam.md",
     "templates/book-template.md",
     "_Books/DivineDungeon/DungeonBorn.md",
-    "_Lexicon/NickPodehl.md",
-    "_Lexicon/JamesHunter.md"
+    "_Lexicon/NickPodehl.md"
   ]
 }
