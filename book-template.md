@@ -20,16 +20,23 @@ book blurb / description
 | General Info |  |
 |---|---|
 | Author|  |
-| Narrator| |
-| Publisher|  |
+| Narrator|  |
+| Publisher | |
+| |  |
 
 | Book Info |  |
 |---|---|
-| Pages |  |
-| Audio Duration| hours minutes|
+| Series |  |
+| Book Number | book  |
+| Pages |  pages |
+| Audio Duration|  hours  minutes |
 
-| Publication |  | |
+| Previous Book | Following Book |
+|---|---|
+|  |  |
+
+## Publication Information
+
+| Format | Published | ASIN ISBN |
 |---|---|---|
-| Published| Format | ASIN / ISBN |
-|  | | 
-
+|  |  |  |
