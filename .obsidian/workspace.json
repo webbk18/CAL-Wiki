@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Books/DivineDungeon/DungeonMadness.md",
+                "file": "_Characters/Artorian.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Books/DivineDungeon/DungeonMadness.md",
+                "file": "_Characters/Artorian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Books/DivineDungeon/DungeonMadness.md",
+                "file": "_Characters/Artorian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Books/DivineDungeon/DungeonMadness.md"
+                "file": "_Characters/Artorian.md"
               }
             }
           }
@@ -162,15 +162,15 @@
   },
   "active": "817feb32371ba0fd",
   "lastOpenFiles": [
+    "README.md",
+    "markdown reference.md",
+    "_Characters/Artorian.md",
+    "_Books/WolfmanWarlock/Libriohexer.md",
     "Books.md",
+    "_Books/WolfmanWarlock/Bibliomancer.md",
+    "_Books/DivineDungeon/DungeonMadness.md",
     "_Books/DivineDungeon/DungeonBorn.md",
     "_Books/DivineDungeon/DungeonEternium.md",
-    "_Characters/Sam.md",
-    "_Characters/Redmane Tribe.md",
-    "_Characters/Wolfmen.md",
-    "_Characters/TheWolfpack.md",
-    "_Characters/Vulcan.md",
-    "_Characters/RabidInquisitors.md",
-    "_Characters/Garron.md"
+    "_Characters/Sam.md"
   ]
 }
