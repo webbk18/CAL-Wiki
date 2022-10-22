@@ -27,8 +27,8 @@ When a threat he doesn’t fully comprehend bares its many teeth, Cal is determi
 
 | General Info |  |
 |---|---|
-| Author| [DakotaKrout](../../_Lexicon/DakotaKrout.md) |
-| Narrator| [VikasAdam](../../_Lexicon/VikasAdam.md) |
+| Author| [Dakota Krout](../../_Lexicon/DakotaKrout.md) |
+| Narrator| [Vikas Adam](../../_Lexicon/VikasAdam.md) |
 | Publisher | Mountaindale Press |
 | | Tantor Audio |
 
@@ -38,7 +38,7 @@ When a threat he doesn’t fully comprehend bares its many teeth, Cal is determi
 | Audio Duration| 12 hours 32 minutes |
 
 ## Publication Information
-| Format | Published | ASIN / ISBN |
+| Format | Published | ASIN \/ ISBN |
 |---|---|---|
 | Ebook (1st Edition) | October 9, 2016 | B07RR97GXF |
 | Ebook (2nd Edition) | May 9, 2019 | B07RR97GXF |
