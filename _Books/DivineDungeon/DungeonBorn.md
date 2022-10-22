@@ -37,6 +37,16 @@ When a threat he doesn’t fully comprehend bares its many teeth, Cal is determi
 | Pages | 401 |
 | Audio Duration| 12 hours 32 minutes |
 
+## Publication Information test
+| Format | Published |
+|---|---|
+| Ebook (1st Edition) | October 9, 2016 |
+| Ebook (2nd Edition) | May 9, 2019 |
+| Audiobook | March 28, 2019 |
+| Audio CD | March 1, 2021 |
+| Hardcover | January 17, 2022 |
+| Paperback | May 22, 2019 |
+
 ## Publication Information
 | Format | Published | ASIN ISBN |
 |---|---|---|
