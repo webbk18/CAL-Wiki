@@ -43,3 +43,6 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+
+# Theme and Colors
+page-col: "#363636"
