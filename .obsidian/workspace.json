@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Characters/Artorian.md",
+                "file": "Characters.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Characters/Artorian.md",
+                "file": "Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Characters/Artorian.md",
+                "file": "Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Characters/Artorian.md"
+                "file": "Characters.md"
               }
             }
           }
@@ -162,15 +162,15 @@
   },
   "active": "817feb32371ba0fd",
   "lastOpenFiles": [
+    "_Characters/Artorian.md",
+    "_Characters/Bill.md",
+    "_Characters/Dizzy.md",
     "README.md",
     "markdown reference.md",
-    "_Characters/Artorian.md",
     "_Books/WolfmanWarlock/Libriohexer.md",
     "Books.md",
     "_Books/WolfmanWarlock/Bibliomancer.md",
     "_Books/DivineDungeon/DungeonMadness.md",
-    "_Books/DivineDungeon/DungeonBorn.md",
-    "_Books/DivineDungeon/DungeonEternium.md",
-    "_Characters/Sam.md"
+    "_Books/DivineDungeon/DungeonBorn.md"
   ]
 }
