@@ -12,14 +12,14 @@ layout: page
 
 ## Completionist Chronicles
 - [The Shoe](_Atlas/TheShoe.md)
-- [Ardania](Ardania.md)
+- [Ardania](_Atlas/Ardania.md)
 
 ## Divine Dungeon
 
 ## Lion's Lineage
 
 ## Wolfman Warlock
-- [Ardania](Ardania.md)
+- [Ardania](_Atlas/Ardania.md)
 - [Irondown Burrows](_Atlas/IrondownBurrows.md)
 - [Narvik](_Atlas/Narvik.md)
 - [TheForestofChlorophyllChaos](_Atlas/TheForestofChlorophyllChaos.md)

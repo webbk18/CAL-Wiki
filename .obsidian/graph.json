@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "file:index",
@@ -91,10 +91,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.42967809143425184,
+  "centerStrength": 0.395833333333333,
+  "repelStrength": 9.25,
+  "linkStrength": 0.545833333333333,
+  "linkDistance": 247,
+  "scale": 0.28165328146789365,
   "close": true
 }
