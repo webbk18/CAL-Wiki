@@ -17,11 +17,12 @@ When a threat he doesn’t fully comprehend bares its many teeth, Cal is determi
 
 #### Main Characters
 
--   [Cal](../../_Characters/Cal.md)
--  [Dale](../../_Characters/Dale.md)
+- [Cal](../../_Characters/Cal.md)
+- [Dale](../../_Characters/Dale.md)
 
 #### Supporting Characters
--   [Dani](../../_Characters/Dani.md)
+- [Dani](../../_Characters/Dani.md)
+- [Tim](../../_Characters/Tim.md)
 
 ## Book Info
 

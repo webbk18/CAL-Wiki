@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "85234d525ba93a75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Characters/Tim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cefd13092de58f69",
             "type": "leaf",
             "state": {
@@ -174,15 +186,15 @@
   },
   "active": "817feb32371ba0fd",
   "lastOpenFiles": [
-    "book-template.md",
+    "_Characters/Tim.md",
+    "_Characters/Bill.md",
     "_Books/DivineDungeon/DungeonBorn.md",
+    "book-template.md",
     "_Lexicon/DakotaKrout.md",
     "_Lexicon/VikasAdam.md",
     "_Lexicon/DungeonCore.md",
     "_Characters/Dani.md",
     "Lexicon.md",
-    "Atlas.md",
-    "Bestiary.md",
-    "Books.md"
+    "Atlas.md"
   ]
 }
