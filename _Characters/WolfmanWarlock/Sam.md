@@ -7,7 +7,7 @@ layout: default
 ---
 Level at start of book 2- lvl 9
 
-- Aligned with the [Wolfmen](Wolfmen.md) and the [Redmane Tribe](WolfmanWarlock/Redmane%20Tribe.md)
+- Aligned with the [Wolfmen](Wolfmen.md) and the [Redmane Tribe](RedmaneTribe.md)
 - Not Much of a coffee drinker, Prefers Earl Grey
 - Has a Soul-Bond with [Bill](Bill.md)
 - Rouge Mage
