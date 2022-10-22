@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "af358f4f768f7b3a",
+            "id": "00660362ba935671",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -21,7 +21,91 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Characters/Artorian.md",
+                "file": "_Characters/WolfmanWarlock/Sam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "853a36c3f37cdf77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Characters/WolfmanWarlock/Dizzy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f05df9d0c6c6abd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Characters/WolfmanWarlock/Sam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40d38775f04bc2f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Lexicon/OrbitalTomeofCasting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff72648bc86ec9d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Lexicon/Papier-MacheMage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfe8e3d89d1c8f38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Lexicon/OrbitalTomeofCasting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72e37dd1241bd930",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Lexicon/PaperShuriken.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "203832650b2df703",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Lexicon/Papier-MacheMage.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,14 +141,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Characters/TheWolfpack.md",
+                "file": "_Characters/WolfmanWarlock/TheWolfpack.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -130,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Characters/Artorian.md",
+                "file": "_Lexicon/Papier-MacheMage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Characters/Artorian.md",
+                "file": "_Lexicon/Papier-MacheMage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Characters/Artorian.md"
+                "file": "_Lexicon/Papier-MacheMage.md"
               }
             }
           }
@@ -184,17 +268,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "817feb32371ba0fd",
+  "active": "203832650b2df703",
   "lastOpenFiles": [
-    "Characters.md",
-    "_Books/WolfmanWarlock/Libriohexer.md",
-    "_Books/WolfmanWarlock/Bibliomancer.md",
-    "_Atlas/MagesCollege.md",
-    "_Atlas/Narvik.md",
-    "_Characters/TheWolfpack.md",
-    "_Characters/Sam.md",
-    "templates/book-template.md",
-    "_Books/DivineDungeon/DungeonBorn.md",
-    "_Lexicon/NickPodehl.md"
+    "_Lexicon/Fireball.md",
+    "_Lexicon/OrbitalTomeofCasting.md",
+    "_Lexicon/PaperShuriken.md",
+    "_Lexicon/Papier-MacheMage.md",
+    "_Lexicon/DungeonCore.md",
+    "_Lexicon/BillsFoppishHat.md",
+    "_Characters/WolfmanWarlock/Sam.md",
+    "_Characters/WolfmanWarlock/Velkan.md",
+    "_Characters/WolfmanWarlock/JumboKiwi.md",
+    "_Characters/WolfmanWarlock/RabidInquisitors.md"
   ]
 }

@@ -9,7 +9,7 @@ layout: default
 
 Conquering dungeons and using them to grow has long been the most efficient way to become a powerful adventurer. The only thing keeping the process from being easy is the Beasts that inhabit these places. Questions plague those entering this particular place of power: Where do the ‘rewards’ of weapons, armor, and heavy gold coins come from? Why is a fluffy bunny charging at me? For abyss-sake, why are there so many monsters?
 
-[Cal](../../_Characters/Cal.md) has all of the answers to these age-old questions for a very simple reason. He is a [Dungeon Core](../../_Lexicon/DungeonCore.md), a soul forced against his will into a magical stone. With the help of an energetic friend, [Cal](../../_Characters/Cal.md) grows a dungeon around himself to bring in new sources of power.
+[Cal](../../_Characters/DivineDungeon/Cal.md) has all of the answers to these age-old questions for a very simple reason. He is a [Dungeon Core](../../_Lexicon/DungeonCore.md), a soul forced against his will into a magical stone. With the help of an energetic friend, [Cal](../../_Characters/DivineDungeon/Cal.md) grows a dungeon around himself to bring in new sources of power.
 
 When a threat he doesn’t fully comprehend bares its many teeth, Cal is determined to survive the attempt on his life. Unfortunately for adventurers, the only way for him to achieve his goal is to eat anyone that enters his depths.
 
@@ -17,12 +17,12 @@ When a threat he doesn’t fully comprehend bares its many teeth, Cal is determi
 
 #### Main Characters
 
-- [Cal](../../_Characters/Cal.md)
+- [Cal](../../_Characters/DivineDungeon/Cal.md)
 - [Dale](../../_Characters/Dale.md)
 
 #### Supporting Characters
-- [Dani](../../_Characters/Dani.md)
-- [Tim](../../_Characters/Tim.md)
+- [Dani](../../_Characters/DivineDungeon/Dani.md)
+- [Tim](../../_Characters/DivineDungeon/Tim.md)
 
 ## Book Info
 

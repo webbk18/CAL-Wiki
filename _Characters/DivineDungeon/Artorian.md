@@ -11,4 +11,4 @@ The main character of the Artorian's Archives series. He cares a lot for those h
 
 **Artorian's Archives** appendix entry: The main character of the series. If you weren’t expecting shenanigans, grab some popcorn. It only gets more intense from here on. He’s a little flighty, deeply interested, and a miser of mischief. He is referred to by the Wood Elves as Starlight Spirit.
 
-![EmperorArty \| 100](../images/EmperorArty.png)
+![EmperorArty \| 100](../../images/EmperorArty.png)
