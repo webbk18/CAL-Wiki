@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Books/DivineDungeon/DungeonBorn.md",
+                "file": "_Lexicon/VikasAdam.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Books/DivineDungeon/DungeonBorn.md",
+                "file": "_Lexicon/VikasAdam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Books/DivineDungeon/DungeonBorn.md",
+                "file": "_Lexicon/VikasAdam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Books/DivineDungeon/DungeonBorn.md"
+                "file": "_Lexicon/VikasAdam.md"
               }
             }
           }
@@ -186,12 +186,12 @@
   },
   "active": "817feb32371ba0fd",
   "lastOpenFiles": [
-    "_Lexicon/VikasAdam.md",
-    "book-template.md",
-    "_Books/DivineDungeon/DungeonBorn.md",
-    "_Lexicon/DakotaKrout.md",
-    "_Characters/Dani.md",
     "_Lexicon/DungeonCore.md",
+    "_Lexicon/DakotaKrout.md",
+    "_Lexicon/VikasAdam.md",
+    "_Books/DivineDungeon/DungeonBorn.md",
+    "book-template.md",
+    "_Characters/Dani.md",
     "Lexicon.md",
     "Atlas.md",
     "Bestiary.md",
