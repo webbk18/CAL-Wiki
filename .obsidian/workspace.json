@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Books/DivineDungeon/DungeonBorn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Books/DivineDungeon/DungeonBorn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Books/DivineDungeon/DungeonBorn.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -172,10 +167,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "853a36c3f37cdf77",
+  "active": "00660362ba935671",
   "lastOpenFiles": [
-    "_Books/DivineDungeon/DungeonMadness.md",
     "_Books/DivineDungeon/DungeonBorn.md",
+    "_Books/DivineDungeon/DungeonMadness.md",
     "Books.md",
     "_Books/WolfmanWarlock/Bibliomancer.md",
     "_Books/WolfmanWarlock/Libriohexer.md",
