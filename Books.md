@@ -32,11 +32,11 @@ cssclass: [dashboard]
 9. [Implode](_Books/CompletionistChronicles/Implode.md) (2022)
 
 # [Divine Dungeon](_Books/DivineDungeon/DivineDungeon.md)
-1. [Dungeon Born](_Books/DivineDungeon/Dungeon%20Born.md) (2016)
-2. [Dungeon Madness](_Books/DivineDungeon/Dungeon%20Madness.md) (2017)
-3. [Dungeon Calamity](_Books/DivineDungeon/Dungeon%20Calamity.md) (2017)
-4. [Dungeon Desolation](_Books/DivineDungeon/Dungeon%20Desolation.md) (2018)
-5. [Dungeon Eternium](_Books/DivineDungeon/Dungeon%20Eternium.md) (2019)
+1. [DungeonBorn](_Books/DivineDungeon/DungeonBorn.md) (2016)
+2. [DungeonMadness](_Books/DivineDungeon/DungeonMadness.md) (2017)
+3. [DungeonCalamity](_Books/DivineDungeon/DungeonCalamity.md) (2017)
+4. [DungeonDesolation](_Books/DivineDungeon/DungeonDesolation.md) (2018)
+5. [DungeonEternium](_Books/DivineDungeon/DungeonEternium.md) (2019)
 
 # [Lion's Lineage](_Books/LionsLineage/LionsLineage.md)
 1. [Hunt](_Books/LionsLineage/Hunt.md) (2021)
