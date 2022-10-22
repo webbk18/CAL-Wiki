@@ -41,5 +41,9 @@ book blurb / description
 |---|---|---|
 |  |  |  |
 
+| Front Cover | Back Cover | Audiobook Cover |
+|---|---|---|
+| | |
+
 ## Chapter Summaries
 1. 

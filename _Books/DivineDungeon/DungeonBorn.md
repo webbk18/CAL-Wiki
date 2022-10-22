@@ -55,5 +55,15 @@ When a threat he doesn’t fully comprehend bares its many teeth, Cal is determi
 | Hardcover | January 17, 2022 | 978-1637660492 |
 | Paperback | May 22, 2019 | 978-1950914050 |
 
+### First Edition Covers
+| Front Cover | Back Cover | Audiobook Cover |
+|---|---|---|
+| ![dungeonborncover1](../../images/dungeonborncover1.jpg) |   | ![dungeonborn_audiocover1](../../images/dungeonborn_audiocover1.jpg) |
+
+### Second Edition Covers
+| Front Cover | Back Cover | Audiobook Cover |
+|---|---|---|
+| ![dungeonborncover2](../../images/dungeonborncover2.jpg) | ![dungeonborn_backcover](../../images/dungeonborn_backcover.jpg) | ![dungeonborn_audiocover1](../../images/dungeonborn_audiocover2.jpg) |
+
 ## Chapter Summaries
 1. The Creation of Cal

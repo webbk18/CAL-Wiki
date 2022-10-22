@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Books/WolfmanWarlock/Libriohexer.md",
+                "file": "_Books/DivineDungeon/DungeonMadness.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Lexicon/OrbitalTomeofCasting.md",
+                "file": "templates/book-template.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Books/WolfmanWarlock/Libriohexer.md",
+                "file": "_Books/DivineDungeon/DungeonMadness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Books/WolfmanWarlock/Libriohexer.md",
+                "file": "_Books/DivineDungeon/DungeonMadness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Books/WolfmanWarlock/Libriohexer.md"
+                "file": "_Books/DivineDungeon/DungeonMadness.md"
               }
             }
           }
@@ -174,15 +174,15 @@
   },
   "active": "853a36c3f37cdf77",
   "lastOpenFiles": [
-    "_Books/WolfmanWarlock/Bibliomancer.md",
+    "_Books/DivineDungeon/DungeonBorn.md",
     "Books.md",
+    "_Books/WolfmanWarlock/Bibliomancer.md",
+    "_Books/WolfmanWarlock/Libriohexer.md",
+    "templates/book-template.md",
+    "_Lexicon/OrbitalTomeofCasting.md",
     "index.md",
     "Atlas.md",
     "_Characters/WolfmanWarlock/Sam.md",
-    "_Characters/WolfmanWarlock/TheWolfpack.md",
-    "_Characters/WolfmanWarlock/Finn.md",
-    "_Books/WolfmanWarlock/Libriohexer.md",
-    "_Characters/WolfmanWarlock/Wolfmen.md",
-    "_Atlas/Narvik.md"
+    "_Characters/WolfmanWarlock/TheWolfpack.md"
   ]
 }

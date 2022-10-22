@@ -57,7 +57,7 @@ Sam didn’t choose the path of a Wolfman Warlock out of a sense of duty, but as
 | Paperback | November 1, 2021 | 978-1637660560 | 
 
 
-| 1st Edition Cover | Back Cover | Audiobook Cover |
+| Front Cover | Back Cover | Audiobook Cover |
 |---|---|---|
 | ![libriohexercover](../../images/libriohexercover.jpg) | ![libriohexer_backcover](../../images/libriohexer_backcover.jpg) | ![libriohexer_audiocover](../../images/libriohexer_audiocover.jpg) | 
 

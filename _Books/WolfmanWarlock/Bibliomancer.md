@@ -54,6 +54,10 @@ Sam crosses the College and finds himself running for his life with a back-talki
 | Audiobook | February 25, 2020 | B0852ZHRPM |
 | Paperback | September 16, 2019 | 978-1950914203 | 
 
+| Front Cover | Back Cover | Audiobook Cover |
+|---|---|---|
+| ![bibliomancercover](../../images/bibliomancercover.jpg) | ![bibliomancer_backcover](../../images/bibliomancer_backcover.jpg) | ![bibliomancer_audiocover](../../images/bibliomancer_audiocover.jpg) |
+
 ## Chapter Summaries
 
 1.
