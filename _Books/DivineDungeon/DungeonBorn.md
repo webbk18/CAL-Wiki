@@ -56,14 +56,16 @@ When a threat he doesn’t fully comprehend bares its many teeth, Cal is determi
 | Paperback | May 22, 2019 | 978-1950914050 |
 
 ### First Edition Covers
+
 | Front Cover | Back Cover | Audiobook Cover |
 |---|---|---|
-| ![dungeonborncover1](../../images/dungeonborncover1.jpg) |   | ![dungeonborn_audiocover1](../../images/dungeonborn_audiocover1.jpg) |
+| ![dungeonborncover1](../../images/DivineDungeon/DungeonBorn/dungeonborncover1.jpg) |   | ![dungeonborn_audiocover1](../../images/DivineDungeon/DungeonBorn/dungeonborn_audiocover1.jpg) |
 
 ### Second Edition Covers
+
 | Front Cover | Back Cover | Audiobook Cover |
 |---|---|---|
-| ![dungeonborncover2](../../images/dungeonborncover2.jpg) | ![dungeonborn_backcover](../../images/dungeonborn_backcover.jpg) | ![dungeonborn_audiocover1](../../images/dungeonborn_audiocover2.jpg) |
+| ![dungeonborncover2](../../images/DivineDungeon/DungeonBorn/dungeonborncover2.jpg) | ![dungeonborn_backcover](../../images/DivineDungeon/DungeonBorn/dungeonborn_backcover.jpg) | ![dungeonborn_audiocover1](../../images/DivineDungeon/DungeonBorn/dungeonborn_audiocover2.jpg) |
 
 ## Chapter Summaries
 1. The Creation of Cal

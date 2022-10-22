@@ -27,13 +27,13 @@ book blurb / description
 | Book Info |  |
 |---|---|
 | Series |  |
-| Book Number | book  |
+| Book Number | book 2 |
 | Pages |  pages |
 | Audio Duration|  hours  minutes |
 
 | Previous Book | Following Book |
 |---|---|
-|  |  |
+| [DungeonBorn](DungeonBorn.md) | [DungeonCalamity](DungeonCalamity.md) |
 
 ## Publication Information
 

@@ -59,7 +59,7 @@ Sam didn’t choose the path of a Wolfman Warlock out of a sense of duty, but as
 
 | Front Cover | Back Cover | Audiobook Cover |
 |---|---|---|
-| ![libriohexercover](../../images/libriohexercover.jpg) | ![libriohexer_backcover](../../images/libriohexer_backcover.jpg) | ![libriohexer_audiocover](../../images/libriohexer_audiocover.jpg) | 
+| ![libriohexercover](../../images/Wolfman%20Warlock/Libriohexer/libriohexercover.jpg) | ![libriohexer_backcover](../../images/Wolfman%20Warlock/Libriohexer/libriohexer_backcover.jpg) | ![libriohexer_audiocover](../../images/Wolfman%20Warlock/Libriohexer/libriohexer_audiocover.jpg) | 
 
 
 

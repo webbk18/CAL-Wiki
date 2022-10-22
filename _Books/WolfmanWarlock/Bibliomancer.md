@@ -56,7 +56,7 @@ Sam crosses the College and finds himself running for his life with a back-talki
 
 | Front Cover | Back Cover | Audiobook Cover |
 |---|---|---|
-| ![bibliomancercover](../../images/bibliomancercover.jpg) | ![bibliomancer_backcover](../../images/bibliomancer_backcover.jpg) | ![bibliomancer_audiocover](../../images/bibliomancer_audiocover.jpg) |
+| ![bibliomancercover](../../images/Wolfman%20Warlock/Bibliomancer/bibliomancercover.jpg) | ![bibliomancer_backcover](../../images/Wolfman%20Warlock/Bibliomancer/bibliomancer_backcover.jpg) | ![bibliomancer_audiocover](../../images/Wolfman%20Warlock/Bibliomancer/bibliomancer_audiocover.jpg) |
 
 ## Chapter Summaries
 
