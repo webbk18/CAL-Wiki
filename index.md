@@ -4,10 +4,6 @@ permalink: /
 layout: home
 ---
 
-Text here
-
-and here
-
-maybe some more here
-
+# ! Proceeding Past this Page Can and will expose you and yours to SPOILERS !
+You have been warned. :)
 
