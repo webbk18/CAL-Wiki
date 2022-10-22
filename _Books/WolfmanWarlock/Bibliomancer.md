@@ -19,11 +19,11 @@ Sam crosses the College and finds himself running for his life with a back-talki
 - [Bill](../../_Characters/Bill.md)
 
 ### Supporting Characters
-- [Arrow](_Characters/Arrow.md)
-- [Kai](_Characters/Kai.md)
-- [Dizzy](_Characters/Dizzy.md)
-- [Vulcan](_Characters/Vulcan.md)
-- [Sphinx](_Characters/Sphinx.md)
+- [Arrow](../../_Characters/Arrow.md)
+- [Kai](../../_Characters/Kai.md)
+- [Dizzy](../../_Characters/Dizzy.md)
+- [Vulcan](../../_Characters/Vulcan.md)
+- [Sphinx](../../_Characters/Sphinx.md)
 
 ## Book Info
 

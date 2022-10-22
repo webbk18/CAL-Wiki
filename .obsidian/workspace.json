@@ -21,43 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Books/WolfmanWarlock/Bibliomancer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a756b60570b3c410",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Atlas/MagesCollege.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "febee6d86f3d6751",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Lexicon/NickPodehl.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed4dea52eb19bac3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Lexicon/JamesHunter.md",
+                "file": "Characters.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Characters/Sam.md",
+                "file": "_Characters/TheWolfpack.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Books/WolfmanWarlock/Bibliomancer.md",
+                "file": "Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Books/WolfmanWarlock/Bibliomancer.md",
+                "file": "Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Books/WolfmanWarlock/Bibliomancer.md"
+                "file": "Characters.md"
               }
             }
           }
@@ -222,15 +186,15 @@
   },
   "active": "817feb32371ba0fd",
   "lastOpenFiles": [
-    "_Atlas/MagesCollege.md",
-    "_Atlas/Barracks.md",
-    "_Books/WolfmanWarlock/Bibliomancer.md",
     "_Books/WolfmanWarlock/Libriohexer.md",
-    "_Lexicon/NickPodehl.md",
-    "_Lexicon/JamesHunter.md",
-    "_Lexicon/VikasAdam.md",
+    "_Books/WolfmanWarlock/Bibliomancer.md",
+    "_Atlas/MagesCollege.md",
+    "_Atlas/Narvik.md",
     "_Characters/TheWolfpack.md",
+    "_Characters/Sam.md",
+    "templates/book-template.md",
     "_Books/DivineDungeon/DungeonBorn.md",
-    "templates/book-template.md"
+    "_Lexicon/NickPodehl.md",
+    "_Lexicon/JamesHunter.md"
   ]
 }

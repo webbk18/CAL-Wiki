@@ -25,4 +25,4 @@ layout: page
 - [Dizzy](_Characters/Dizzy.md)
 - [Vulcan](_Characters/Vulcan.md)
 - [Sphinx](_Characters/Sphinx.md)
-- [Bill](../../_Characters/Bill.md)
+- [Bill](_Characters/Bill.md)

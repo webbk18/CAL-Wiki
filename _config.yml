@@ -29,6 +29,7 @@ collections:
 exclude:
   - README.md
   - markdown reference.md
+  - /templates
 
 # Include these files from production site
 include:
