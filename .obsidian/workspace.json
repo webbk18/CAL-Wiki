@@ -21,7 +21,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Characters/Artorian.md",
+                "file": "_Books/DivineDungeon/DungeonBorn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08020389a5c796ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Lexicon/VikasAdam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cefd13092de58f69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book-template.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Characters/Artorian.md",
+                "file": "_Books/DivineDungeon/DungeonBorn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Characters/Artorian.md",
+                "file": "_Books/DivineDungeon/DungeonBorn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Characters/Artorian.md"
+                "file": "_Books/DivineDungeon/DungeonBorn.md"
               }
             }
           }
@@ -162,15 +186,15 @@
   },
   "active": "817feb32371ba0fd",
   "lastOpenFiles": [
-    "_Characters/Jake.md",
-    "_Characters/Kai.md",
-    "_Characters/Garron.md",
-    "_Characters/Dizzy.md",
-    "_Characters/Bill.md",
-    "_Characters/Artorian.md",
-    "index.md",
-    "Characters.md",
-    "README.md",
-    "markdown reference.md"
+    "_Lexicon/VikasAdam.md",
+    "book-template.md",
+    "_Books/DivineDungeon/DungeonBorn.md",
+    "_Lexicon/DakotaKrout.md",
+    "_Characters/Dani.md",
+    "_Lexicon/DungeonCore.md",
+    "Lexicon.md",
+    "Atlas.md",
+    "Bestiary.md",
+    "Books.md"
   ]
 }
