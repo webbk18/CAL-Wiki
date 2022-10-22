@@ -42,7 +42,7 @@ When a threat he doesn’t fully comprehend bares its many teeth, Cal is determi
 
 | Previous Book | Following Book |
 |---|---|
-| N/A | [DungeonMadness](DungeonMadness.md)|
+| N/A | [Dungeon Madness](DungeonMadness.md)|
 
 ## Publication Information
 

@@ -5,7 +5,8 @@ description: "Wiki for the Divine Dungeon Expanded Universe"
 
 # Build settings
 remote_theme: jekyll/minima
-
+minima:
+  skin: dark
 
 collections:
   Atlas:
