@@ -17,10 +17,12 @@ layout: default
 
 ## C
 - [Cultivation](_Lexicon/Cultivation.md)
+---
 
 ## D
 - [DakotaKrout](_Lexicon/DakotaKrout.md)
 - [Dungeon Core](_Lexicon/DungeonCore.md)
+---
 
 ## E
 - [Essence](_Lexicon/Essence.md)
