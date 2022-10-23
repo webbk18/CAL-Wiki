@@ -1,6 +1,7 @@
 ---
+title: Books
 permalink: /Books/
-layout: page
+layout: default
 cssclass: [dashboard]
 ---
 ![books](images/banners/books.png)
