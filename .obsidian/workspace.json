@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books.md",
+                "file": "Lexicon.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books.md",
+                "file": "Lexicon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books.md",
+                "file": "Lexicon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books.md"
+                "file": "Lexicon.md"
               }
             }
           }
@@ -174,15 +174,15 @@
   },
   "active": "817feb32371ba0fd",
   "lastOpenFiles": [
-    "Characters.md",
-    "Books.md",
     "Bestiary.md",
-    "Atlas.md",
+    "Books.md",
+    "Characters.md",
     "Lexicon.md",
+    "_Lexicon/Essence.md",
+    "_Characters/WolfmanWarlock/Yurij.md",
+    "_Books/WolfmanWarlock/Libriohexer.md",
+    "Atlas.md",
     "_Books/ArtoriansArchives/ArtoriansArchives.md",
-    "_Books/WolfmanWarlock/WolfmanWarlock.md",
-    "_Books/ExpandedUniverse/ExpandedUniverse.md",
-    "_Books/LionsLineage/LionsLineage.md",
-    "_Books/DivineDungeon/DivineDungeon.md"
+    "_Books/WolfmanWarlock/WolfmanWarlock.md"
   ]
 }
