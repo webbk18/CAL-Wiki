@@ -72,4 +72,4 @@ When a threat he doesn’t fully comprehend bares its many teeth, Cal is determi
 ## Chapter Summaries
 0. The creation and death of [Cal](../../_Characters/DivineDungeon/Cal.md) at the hands of Necromancers
 1. Cal's influence spreads as his puddle gets filled with rain, and he discovers [Moss](../../_Lexicon/Moss.md) and promptly kills the first patch he can touch. Cal meets [Kantor](../../_Characters/DivineDungeon/Kantor.md), a fellow [Dungeon Core](../../_Lexicon/DungeonCore.md)
-2. Cal meets [Dani](../../_Characters/DivineDungeon/Dani.md) and she gives Cal his name. 
+2. Cal meets [Dani](../../_Characters/DivineDungeon/Dani.md) and she gives Cal his name. Cal learns how to use his [Essence](../../_Lexicon/Essence.md) and begins to expand his [Influence](../../_Lexicon/Influence.md). Cal Creates a [[../../_Bestiary/Shroomish]]

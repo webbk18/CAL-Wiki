@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "file:index",
@@ -85,7 +85,7 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -1.2,
   "nodeSizeMultiplier": 1.65166666666667,
@@ -95,6 +95,6 @@
   "repelStrength": 9.25,
   "linkStrength": 0.354166666666667,
   "linkDistance": 269,
-  "scale": 0.2816532814678937,
+  "scale": 0.28165328146789376,
   "close": true
 }

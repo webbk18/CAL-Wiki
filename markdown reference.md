@@ -1,4 +1,4 @@
-
+https://help.obsidian.md/How+to/Format+your+notes
 
 
 # Markdown
@@ -117,6 +117,25 @@ To check the task replace the space between the bracket with "x".
 [ ] Update the website
 [ ] Contact the user
 ```
+
+### Comments
+
+Use `%%` to enclose comments, which will be parsed as Markdown, but will not show up in the preview.
+
+```md
+Here is some inline comments: %%You can't see this text%% (Can't see it in Reading mode)
+
+Here is a block comment:
+%%
+It can span
+multiple lines
+%%
+```
+
+Here is some inline comments: (can't see it in Reading mode)
+
+Here is a block comment: (can't see it in Reading mode either)
+
 
 ## Reference
 

@@ -15,7 +15,11 @@ layout: default
 
 ## Levels
 [Cultivation](../../_Lexicon/Cultivation.md)
-DD1 Chapter 1 Pg 1 - G0
-DD1 Chapter 2 Pg 12 - G1
-DD1 Chapter 2 Pg 22 - G2/G3
-DD1 Chapter 2 Pg 27 - G4
+
+| Book | Chapter | Page | Rank |
+|------|---------|------|------|
+| [Dungeon Born](../../_Books/DivineDungeon/DungeonBorn.md) | Chapter 1 | Pg 1 | G0 |
+| [Dungeon Born](../../_Books/DivineDungeon/DungeonBorn.md) | Chapter 2 | Pg 12 | G1 |
+|[Dungeon Born](../../_Books/DivineDungeon/DungeonBorn.md) | Chapter 2 | Pg 22 | G2/G3 |
+| [Dungeon Born](../../_Books/DivineDungeon/DungeonBorn.md) | Chapter 2 | Pg 27 | G4 |
+| [Dungeon Born](../../_Books/DivineDungeon/DungeonBorn.md) | Chapter 2 | Pg 32 | G5 |

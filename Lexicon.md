@@ -23,6 +23,7 @@ layout: default
 ## D
 - [DakotaKrout](_Lexicon/DakotaKrout.md)
 - [Dungeon Core](_Lexicon/DungeonCore.md)
+- [DungeonMonster](_Lexicon/DungeonMonster.md)
 
 ---
 ## E
@@ -60,6 +61,7 @@ layout: default
 
 ---
 ## M
+- [Mob](_Lexicon/DungeonMonster.md)
 - [Moss](_Lexicon/Moss.md)
 
 ---

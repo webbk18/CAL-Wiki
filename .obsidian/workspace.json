@@ -16,26 +16,6 @@
             }
           },
           {
-            "id": "817feb32371ba0fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fde7c6330d9442c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "853a36c3f37cdf77",
             "type": "leaf",
             "state": {
@@ -48,19 +28,55 @@
             }
           },
           {
-            "id": "cfe8e3d89d1c8f38",
+            "id": "a43e4e959f9faff0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/book-template.md",
+                "file": "Lexicon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4607ee050772458e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bestiary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c52a5eedd97f54e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Lexicon/LivingItem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34d6fdf5704b3e8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,8 +86,94 @@
     "type": "split",
     "children": [
       {
+        "id": "fc0288a3f261f08c",
+        "type": "tabs",
+        "dimension": 29.004854368932037,
+        "children": [
+          {
+            "id": "7df8bcddd48161fa",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Lexicon.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "file:index",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "path:_Bestiary",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14725458
+                      }
+                    },
+                    {
+                      "query": "path:_Characters",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431378
+                      }
+                    },
+                    {
+                      "query": "path:_Lexicon",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5419488
+                      }
+                    },
+                    {
+                      "query": "path:_Books",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11920941
+                      }
+                    },
+                    {
+                      "query": "path:_Atlas",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14111456
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.2816532814678938,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "22b861e010508249",
         "type": "tabs",
+        "dimension": 70.99514563106796,
         "children": [
           {
             "id": "d36f357566882793",
@@ -105,6 +207,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "cfe8e3d89d1c8f38",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -126,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Lexicon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Lexicon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Lexicon.md"
               }
             }
           }
@@ -180,17 +290,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "817feb32371ba0fd",
+  "active": "a43e4e959f9faff0",
   "lastOpenFiles": [
-    "index.md",
-    "markdown reference.md",
     "Bestiary.md",
-    "Atlas.md",
-    "_Atlas/WolfmanWarlock/IrondownLibrary.md",
-    "_Atlas/WolfmanWarlock/IrondownBurrows.md",
-    "_Atlas/WolfmanWarlock/IrondownBarracks.md",
-    "_Atlas/ArtoriansArchives/SkyspearAcademy.md",
-    "Untitled.md",
-    "Characters.md"
+    "_Lexicon/DungeonMonster.md",
+    "_Lexicon/DungeonCore.md",
+    "_Lexicon/Essence.md",
+    "_Bestiary/Shroomish.md",
+    "_Books/DivineDungeon/DungeonBorn.md",
+    "_Characters/DivineDungeon/Cal.md",
+    "Characters.md",
+    "_Characters/ArtoriansArchives/Zephyr.md",
+    "_Lexicon/LivingItem.md"
   ]
 }

@@ -7,4 +7,4 @@ layout: default
 ---
 
 ## Books:
-- [Essence](../../_Lexicon/Essence.md) (2019)
+- [Essence](Essence.md) (2019)

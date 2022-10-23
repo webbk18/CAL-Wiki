@@ -7,6 +7,7 @@ layout: default
 ---
 ## Artorian's Archives
 - [Artorian](_Characters/DivineDungeon/Artorian.md)
+- [Zephyr](_Characters/ArtoriansArchives/Zephyr.md)
 
 ## Completionist Chronicles
 - [Jake](_Characters/Jake.md)
@@ -14,7 +15,7 @@ layout: default
 ## Divine Dungeon
 - [Artorian](_Characters/DivineDungeon/Artorian.md)
 - [Cal](_Characters/DivineDungeon/Cal.md)
-- [[Dale]]
+- [Dale](_Characters/DivineDungeon/Dale.md)
 - [Dani](_Characters/DivineDungeon/Dani.md)
 - [Kantor](_Characters/DivineDungeon/Kantor.md)
 - [Tim](_Characters/DivineDungeon/Tim.md)

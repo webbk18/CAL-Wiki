@@ -14,7 +14,9 @@ layout: default
 - [Golem](_Bestiary/Golem.md)
 
 ## Divine Dungeon
+- [Shroomish](_Bestiary/Shroomish.md)
 
 ## Lion's Lineage
+- 
 
 ## Wolfman Warlock
