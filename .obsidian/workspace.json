@@ -21,10 +21,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lexicon.md",
+                "file": "Bestiary.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "1fde7c6330d9442c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -118,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lexicon.md",
+                "file": "Bestiary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lexicon.md",
+                "file": "Bestiary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lexicon.md"
+                "file": "Bestiary.md"
               }
             }
           }
@@ -174,15 +182,15 @@
   },
   "active": "817feb32371ba0fd",
   "lastOpenFiles": [
-    "Bestiary.md",
-    "Books.md",
+    "Atlas.md",
+    "_Atlas/WolfmanWarlock/IrondownLibrary.md",
+    "_Atlas/WolfmanWarlock/IrondownBurrows.md",
+    "_Atlas/WolfmanWarlock/IrondownBarracks.md",
+    "_Atlas/ArtoriansArchives/SkyspearAcademy.md",
+    "Untitled.md",
     "Characters.md",
     "Lexicon.md",
-    "_Lexicon/Essence.md",
-    "_Characters/WolfmanWarlock/Yurij.md",
-    "_Books/WolfmanWarlock/Libriohexer.md",
-    "Atlas.md",
-    "_Books/ArtoriansArchives/ArtoriansArchives.md",
-    "_Books/WolfmanWarlock/WolfmanWarlock.md"
+    "Bestiary.md",
+    "Books.md"
   ]
 }

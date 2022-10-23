@@ -7,19 +7,22 @@ layout: default
 ---
 
 ## Artorian's Archives
-- [Skyspear Academy](_Atlas/SkyspearAcademy.md)
+- [Skyspear Academy](_Atlas/ArtoriansArchives/SkyspearAcademy.md)
 
 
 ## Completionist Chronicles
-- [The Shoe](_Atlas/TheShoe.md)
-- [Ardania](_Atlas/Ardania.md)
+- [Ardania](_Atlas/CCandDD/Ardania.md)
+- [Mages College](_Atlas/CCandDD/MagesCollege.md)
+- [The Shoe](_Atlas/CompletionistChronicles/TheShoe.md)
 
 ## Divine Dungeon
 
 ## Lion's Lineage
 
 ## Wolfman Warlock
-- [Ardania](_Atlas/Ardania.md)
-- [Irondown Burrows](_Atlas/IrondownBurrows.md)
-- [Narvik](_Atlas/Narvik.md)
-- [TheForestofChlorophyllChaos](_Atlas/TheForestofChlorophyllChaos.md)
+- [Ardania](_Atlas/CCandDD/Ardania.md)
+- [Irondown Barracks](_Atlas/WolfmanWarlock/IrondownBarracks.md)
+- [Irondown Burrows](_Atlas/WolfmanWarlock/IrondownBurrows.md)
+- [Irondown Library](_Atlas/WolfmanWarlock/IrondownLibrary.md)
+- [Narvik](_Atlas/WolfmanWarlock/Narvik.md)
+- [The Forest of Chlorophyll Chaos](_Atlas/WolfmanWarlock/TheForestofChlorophyllChaos.md)

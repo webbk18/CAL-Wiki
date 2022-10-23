@@ -10,7 +10,6 @@ layout: default
 ## Artorian's Archives
 - 
 
-
 ## Completionist Chronicles
 - [Golem](_Bestiary/Golem.md)
 

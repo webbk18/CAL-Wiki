@@ -8,7 +8,7 @@ layout: default
 
 Recent college grad [Sam King](../../_Characters/WolfmanWarlock/Sam.md) was hoping for a backpacking trip across Europe as a graduation present. Instead he’s going to get a different kind of trip: a three-month stint in the ultimate immersive gaming experience. As a lifelong geek, gamer, and outsider, it’s a better gift then he’d ever dreamed.
 
-But when he jumps feet first into the world of Eternium, run by [CAL](../../_Characters/DivineDungeon/Cal.md), the Certified Altruistic Lexicon, it’s not exactly what he expected. All he wants is to quest, game, grind some levels, and get his hands on awesome loot. You know, have fun! But the [Mage's College](../../_Atlas/MagesCollege.md) seems to have a very different definition of fun, one involving study, blisteringly strict regulations, aristocratic hierarchy, and tons of pay to play.
+But when he jumps feet first into the world of Eternium, run by [CAL](../../_Characters/DivineDungeon/Cal.md), the Certified Altruistic Lexicon, it’s not exactly what he expected. All he wants is to quest, game, grind some levels, and get his hands on awesome loot. You know, have fun! But the [Mage's College](../../_Atlas/CCandDD/MagesCollege.md) seems to have a very different definition of fun, one involving study, blisteringly strict regulations, aristocratic hierarchy, and tons of pay to play.
 
 Sam crosses the College and finds himself running for his life with a back-talking book that is far more than it seems and a class that no one has even heard of. If he can navigate the deadly College politics and the looming war with the barbaric [Wolfmen](../../_Characters/WolfmanWarlock/Wolfmen.md), he might just find the fun and adventure he was looking for. 
 
