@@ -1,6 +1,7 @@
 ---
+title: Lexicon
 permalink: /Lexicon/
-layout: page
+layout: default
 ---
 ![lexicon](images/banners/lexicon.png)
 ---

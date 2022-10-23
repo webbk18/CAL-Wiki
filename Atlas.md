@@ -1,6 +1,7 @@
 ---
+title: Atlas
 permalink: /Atlas/
-layout: page
+layout: default
 ---
 ![atlas](images/banners/atlas.png)
 ---

@@ -1,6 +1,7 @@
 ---
+title: Bestiary
 permalink: /Bestiary/
-layout: page
+layout: default
 ---
 ![bestiary](images/banners/bestiary.png)
 ---

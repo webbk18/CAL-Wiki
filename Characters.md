@@ -1,6 +1,7 @@
 ---
+title: Characters
 permalink: /Characters/
-layout: page
+layout: default
 ---
 ![characters](images/banners/characters.png)
 ---
