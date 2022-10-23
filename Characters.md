@@ -1,9 +1,8 @@
 ---
-title: Characters
 permalink: /Characters/
 layout: page
 ---
-![characters](images/banners/characters.jpg)
+![characters](images/banners/characters.png)
 ---
 ## Artorian's Archives
 - [Artorian](_Characters/DivineDungeon/Artorian.md)

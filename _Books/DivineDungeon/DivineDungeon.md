@@ -3,7 +3,7 @@ title: "Divine Dungeon"
 permalink: /Divine_Dungeon/
 layout: default
 ---
-![divinedungeon](../../images/banners/divinedungeon.jpg)
+![divinedungeon](../../images/banners/divinedungeon.png)
 ---
 **A powerful dungeon. A sheep-herder turned Noble. Their path to ascendance through cultivation.**
 
@@ -14,8 +14,8 @@ Cal has all of the answers to these age-old questions for a very simple reason. 
 When a threat he doesn’t fully comprehend bares its many teeth, Cal is determined to survive the attempt on his life. Unfortunately for adventurers, the only way for him to achieve his goal is to eat anyone that enters his depths.
 
 ## Books:
-1) [Dungeon Born](DungeonBorn.md) (2016)
-2) [Dungeon Madness](DungeonMadness.md) (2017)
-3) [Dungeon Calamity](DungeonCalamity.md) (2017)
-4) [Dungeon Desolation](DungeonDesolation.md) (2018)
-5) [Dungeon Eternium](DungeonEternium.md) (2019)
+1. [Dungeon Born](DungeonBorn.md) (2016)
+2. [Dungeon Madness](DungeonMadness.md) (2017)
+3. [Dungeon Calamity](DungeonCalamity.md) (2017)
+4. [Dungeon Desolation](DungeonDesolation.md) (2018)
+5. [Dungeon Eternium](DungeonEternium.md) (2019)

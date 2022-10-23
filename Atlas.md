@@ -1,9 +1,8 @@
 ---
-title: Atlas
 permalink: /Atlas/
 layout: page
 ---
-![atlas](images/banners/atlas.jpg)
+![atlas](images/banners/atlas.png)
 ---
 
 ## Artorian's Archives

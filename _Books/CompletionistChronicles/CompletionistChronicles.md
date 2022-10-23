@@ -3,7 +3,7 @@ title: "Completionist Chronicles"
 permalink: /Completionist_Chronicles/
 layout: default
 ---
-![completionistchronicles](../../images/banners/completionistchronicles.jpg)
+![completionistchronicles](../../images/banners/completionistchronicles.png)
 ---
 
 ## Books:

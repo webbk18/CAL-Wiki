@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Books/ExpandedUniverse/ExpandedUniverse.md",
+                "file": "Books.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Books/ExpandedUniverse/ExpandedUniverse.md",
+                "file": "Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Books/ExpandedUniverse/ExpandedUniverse.md",
+                "file": "Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Books/ExpandedUniverse/ExpandedUniverse.md"
+                "file": "Books.md"
               }
             }
           }
@@ -174,15 +174,15 @@
   },
   "active": "817feb32371ba0fd",
   "lastOpenFiles": [
+    "_Books/ArtoriansArchives/ArtoriansArchives.md",
     "Books.md",
     "_Books/WolfmanWarlock/WolfmanWarlock.md",
+    "_Books/ExpandedUniverse/ExpandedUniverse.md",
     "_Books/LionsLineage/LionsLineage.md",
     "_Books/DivineDungeon/DivineDungeon.md",
     "_Books/CompletionistChronicles/CompletionistChronicles.md",
-    "_Books/ArtoriansArchives/ArtoriansArchives.md",
     "Lexicon.md",
     "Characters.md",
-    "Bestiary.md",
-    "Atlas.md"
+    "Bestiary.md"
   ]
 }

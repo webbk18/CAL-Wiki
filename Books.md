@@ -1,10 +1,9 @@
 ---
-title: Books
 permalink: /Books/
 layout: page
 cssclass: [dashboard]
 ---
-![books](images/banners/books.jpg)
+![books](images/banners/books.png)
 ---
 
 # [Artorians Archives](_Books/ArtoriansArchives/ArtoriansArchives.md)
