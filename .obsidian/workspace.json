@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bestiary.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bestiary.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bestiary.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bestiary.md"
+                "file": "index.md"
               }
             }
           }
@@ -182,15 +182,15 @@
   },
   "active": "817feb32371ba0fd",
   "lastOpenFiles": [
+    "index.md",
+    "markdown reference.md",
+    "Bestiary.md",
     "Atlas.md",
     "_Atlas/WolfmanWarlock/IrondownLibrary.md",
     "_Atlas/WolfmanWarlock/IrondownBurrows.md",
     "_Atlas/WolfmanWarlock/IrondownBarracks.md",
     "_Atlas/ArtoriansArchives/SkyspearAcademy.md",
     "Untitled.md",
-    "Characters.md",
-    "Lexicon.md",
-    "Bestiary.md",
-    "Books.md"
+    "Characters.md"
   ]
 }
