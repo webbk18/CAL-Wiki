@@ -3,8 +3,7 @@ title: "Lion's Lineage"
 permalink: /Lions_Lineage/
 layout: default
 ---
-
-Lion's Lineage
+![lionslineage](../../images/banners/lionslineage.jpg)
 ---
 
 ## Books:

@@ -3,8 +3,7 @@ title: "Wolfman Warlock"
 permalink: /Wolfman_Warlock/
 layout: default
 ---
-
-Wolfman Warlock
+![wolfmanwarlock](../../images/banners/wolfmanwarlock.jpg)
 ---
 
 ## Books:

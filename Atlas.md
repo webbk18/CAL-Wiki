@@ -3,7 +3,7 @@ title: Atlas
 permalink: /Atlas/
 layout: page
 ---
-
+![atlas](images/banners/atlas.jpg)
 ---
 
 ## Artorian's Archives

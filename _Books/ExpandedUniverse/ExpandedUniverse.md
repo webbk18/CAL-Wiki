@@ -3,8 +3,7 @@ title: "Expanded Universe"
 permalink: /Expanded_Universe/
 layout: default
 ---
-
-Expanded Universe
+![expandeduniverse](../../images/banners/expandeduniverse.jpg)
 ---
 
 ## Books:

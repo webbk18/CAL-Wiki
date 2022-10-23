@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas.md",
+                "file": "_Books/ExpandedUniverse/ExpandedUniverse.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Books/ExpandedUniverse/ExpandedUniverse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Books/ExpandedUniverse/ExpandedUniverse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Books/ExpandedUniverse/ExpandedUniverse.md"
+              }
             }
           }
         ]
@@ -167,17 +172,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "00660362ba935671",
+  "active": "817feb32371ba0fd",
   "lastOpenFiles": [
-    "_Books/DivineDungeon/DungeonBorn.md",
-    "_Books/DivineDungeon/DungeonMadness.md",
     "Books.md",
-    "_Books/WolfmanWarlock/Bibliomancer.md",
-    "_Books/WolfmanWarlock/Libriohexer.md",
-    "templates/book-template.md",
-    "_Lexicon/OrbitalTomeofCasting.md",
-    "index.md",
-    "Atlas.md",
-    "_Characters/WolfmanWarlock/Sam.md"
+    "_Books/WolfmanWarlock/WolfmanWarlock.md",
+    "_Books/LionsLineage/LionsLineage.md",
+    "_Books/DivineDungeon/DivineDungeon.md",
+    "_Books/CompletionistChronicles/CompletionistChronicles.md",
+    "_Books/ArtoriansArchives/ArtoriansArchives.md",
+    "Lexicon.md",
+    "Characters.md",
+    "Bestiary.md",
+    "Atlas.md"
   ]
 }

@@ -3,6 +3,7 @@ title: Bestiary
 permalink: /Bestiary/
 layout: page
 ---
+![bestiary](images/banners/bestiary.jpg)
 ---
 
 

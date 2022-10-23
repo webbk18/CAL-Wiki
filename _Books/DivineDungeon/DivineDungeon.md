@@ -3,8 +3,7 @@ title: "Divine Dungeon"
 permalink: /Divine_Dungeon/
 layout: default
 ---
-
-Divine Dungeon
+![divinedungeon](../../images/banners/divinedungeon.jpg)
 ---
 **A powerful dungeon. A sheep-herder turned Noble. Their path to ascendance through cultivation.**
 

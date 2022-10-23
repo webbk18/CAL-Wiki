@@ -3,7 +3,7 @@ title: "Artorian's Archives"
 permalink: /Artorians_Archives/
 layout: default
 ---
-# Artorian's Archives
+![artoriansarchives](../../images/banners/artoriansarchives.jpg)
 ---
 
 ## Books:

@@ -14,7 +14,7 @@ layout: default
 
 
 ## Levels
-[Cultivation](../../Cultivation.md)
+[Cultivation](../../_Lexicon/Cultivation.md)
 DD1 Chapter 1 Pg 1 - G0
 DD1 Chapter 2 Pg 12 - G1
 DD1 Chapter 2 Pg 22 - G2/G3
