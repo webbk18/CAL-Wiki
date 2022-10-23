@@ -17,10 +17,23 @@ A [Dungeon Core](DungeonCore.md) can use [Essence](Essence.md) to alter the worl
 Sentient Creatures such as [[Humans]], [[Elves]], [[Dwarves]] and [[Orcs]] absorb Essence in a process called [[Cultivation]].
 
 # Essence Types
+- Fire
+
 - Water
 	- Water
+- Air
 - Earth
 	- Rocks
+	- Metals
+		- Tungsten
+		- Iron
+		- 
+- Celestial
+- Infernal
+
+
 
 - Plant
+	- Coal
+		- Anthracite
 - Mud (Water + Earth)

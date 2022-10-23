@@ -16,14 +16,19 @@ When a threat he doesn’t fully comprehend bares its many teeth, Cal is determi
 ## Characters
 
 #### Main Characters
-
 - [Cal](../../_Characters/DivineDungeon/Cal.md)
 - [Dale](../../_Characters/DivineDungeon/Dale.md)
+- [Dani](../../_Characters/DivineDungeon/Dani.md)
 
 #### Supporting Characters
-- [Dani](../../_Characters/DivineDungeon/Dani.md)
-- [Tim](../../_Characters/DivineDungeon/Tim.md)
+
 - [Kantor](../../_Characters/DivineDungeon/Kantor.md)
+- Sheephearders
+	- Swarthy Man
+	- [Tim](../../_Characters/DivineDungeon/Tim.md)
+	- Angry Bearded Man
+	- Fourth Man
+	- Guy who falls into the pit
 
 
 ## Book Info
@@ -72,4 +77,7 @@ When a threat he doesn’t fully comprehend bares its many teeth, Cal is determi
 ## Chapter Summaries
 0. The creation and death of [Cal](../../_Characters/DivineDungeon/Cal.md) at the hands of Necromancers
 1. Cal's influence spreads as his puddle gets filled with rain, and he discovers [Moss](../../_Lexicon/Moss.md) and promptly kills the first patch he can touch. Cal meets [Kantor](../../_Characters/DivineDungeon/Kantor.md), a fellow [Dungeon Core](../../_Lexicon/DungeonCore.md)
-2. Cal meets [Dani](../../_Characters/DivineDungeon/Dani.md) and she gives Cal his name. Cal learns how to use his [Essence](../../_Lexicon/Essence.md) and begins to expand his [Influence](../../_Lexicon/Influence.md). Cal Creates a [[../../_Bestiary/Shroomish]]
+2. Cal meets [Dani](../../_Characters/DivineDungeon/Dani.md) and she gives Cal his name. Cal learns how to use his [Essence](../../_Lexicon/Essence.md) and begins to expand his [Influence](../../_Lexicon/Influence.md). Cal Creates a [Shroomish](../../_Bestiary/Shroomish.md), and expands his essence to the mouth of the cave
+3. Cal makes his first [Dungeon Born](../../_Lexicon/DungeonBornC.md) Creatures, some more mushrooms. Dani teaches him how to expand his dungeon, and teaches him about black and white dungeon cores.
+4. Cal rapidly expands his dungeon while Dani is looking for herbs, causing chaos on the surface. Dani comes back with a [Silverwood Tree](../../_Lexicon/SilverwoodTree.md) Seed.  Cal makes his dungeon more dangerous adding traps and making the mushrooms and moss more dangerous.
+5. A Sheephearder party of five stumbles apon Cal's dungeon. An unnammed guy is the first casualty when he falls into a pit (pg 57). The Fourth Man is the second casualty getting eaten by [Dire Shroom](../../_Bestiary/DireShroom.md) Bane (pg 60). Next to die is the swarthy man when he inhales spores and then stumbles and gets a spike through the skull.

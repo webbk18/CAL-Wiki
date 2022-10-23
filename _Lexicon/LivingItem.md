@@ -7,4 +7,4 @@ layout: default
 ---
 description
 
-[[Garuda]]
+[[../_Characters/Garuda]]

@@ -7,7 +7,7 @@ layout: default
 
 **Dumpster diving for profit. Creatures most fowl. Blazes of glory.**
 
-[Sam King](../../_Characters/WolfmanWarlock/Sam.md) is enjoying being a Bibliomancer, especially as his powers grow and new doors begin to open for him. Between slapping down people hunting him and the [Wolfmen](../../_Characters/WolfmanWarlock/Wolfmen.md) that he works with, he’s even starting to get fringe benefits that even his handler is surprised by.
+[Sam King](../../_Characters/WolfmanWarlock/Sam.md) is enjoying being a Bibliomancer, especially as his powers grow and new doors begin to open for him. Between slapping down people hunting him and the [Wolfmen](../../_Lexicon/Wolfmen.md) that he works with, he’s even starting to get fringe benefits that even his handler is surprised by.
 
 Not everything is sunshine and unicorns. Tasked with advancing his class as well as forming a new den for his team–his pack–the Bibliomancer starts to learn what the costs really are for blazing his own trail. Yet, with every cost comes opportunity, and if he makes the right call, his time in this world will be way more fun than he ever imagined.
 

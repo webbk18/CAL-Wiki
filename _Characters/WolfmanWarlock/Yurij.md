@@ -5,4 +5,4 @@ layout: default
 ---
 # Yurij
 ---
-[Wolfman](Wolfmen.md)
+[Wolfman](../../_Lexicon/Wolfmen.md)

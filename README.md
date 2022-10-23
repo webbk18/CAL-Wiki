@@ -10,7 +10,7 @@ Wiki for the Divine Dungeon Expanded Universe
 ```
 ---
 title: "'Title'"
-permalink: /'FileName'
+permalink: /'FileName'/
 layout: default
 ---
 ```
@@ -19,7 +19,7 @@ layout: default
 ```
 ---
 title: "Artorian"
-permalink: /Characters/Artorian
+permalink: /Characters/Artorian/
 layout: default
 ---
 ```
@@ -27,4 +27,28 @@ layout: default
 
 
 
-All new Files must not contain spaces in the file name
+**All new Files must not contain spaces in the file name**
+
+
+# Categories
+
+## Lexicon
+- United Races
+- Hidden Races
+- Shattered Races
+- Terms
+
+## Characters
+- People
+- Guilds
+
+## Beastiary
+- Animals
+- Mobs
+
+## Books
+- Books
+
+## Atlas
+- Places
+- 

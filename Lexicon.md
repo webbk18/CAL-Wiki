@@ -22,11 +22,14 @@ layout: default
 ---
 ## D
 - [DakotaKrout](_Lexicon/DakotaKrout.md)
+- [Dungeon Born](_Lexicon/DungeonBornC.md)
+- [DungeonBoss](_Lexicon/DungeonBoss.md)
 - [Dungeon Core](_Lexicon/DungeonCore.md)
-- [DungeonMonster](_Lexicon/DungeonMonster.md)
+- [Dungeon Monster](_Lexicon/DungeonMonster.md)
 
 ---
 ## E
+- [Elves](_Lexicon/Elves.md)
 - [Essence](_Lexicon/Essence.md)
 
 ---
@@ -71,6 +74,7 @@ layout: default
 ---
 ## O
 - [Orbital Tome of Casting](_Lexicon/OrbitalTomeofCasting.md)
+- [Orcs](_Lexicon/Orcs.md) 
 
 ---
 ## P
@@ -87,7 +91,7 @@ layout: default
 
 ---
 ## S
-- 
+- [Silverwood Tree](_Lexicon/SilverwoodTree.md)
 
 ---
 ## T
@@ -101,6 +105,7 @@ layout: default
 
 ---
 ## W
+- [Wolfmen](_Lexicon/Wolfmen.md)
 
 ---
 ## X

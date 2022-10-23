@@ -5,4 +5,4 @@ layout: default
 ---
 # Narvik
 ---
-[Wolfmen](../../_Characters/WolfmanWarlock/Wolfmen.md) outpost of the [RedmaneTribe](../../_Characters/WolfmanWarlock/RedmaneTribe.md)
+[Wolfmen](../../_Lexicon/Wolfmen.md) outpost of the [RedmaneTribe](../../_Characters/WolfmanWarlock/RedmaneTribe.md)

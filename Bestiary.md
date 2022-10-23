@@ -14,6 +14,8 @@ layout: default
 - [Golem](_Bestiary/Golem.md)
 
 ## Divine Dungeon
+- [Bane](_Bestiary/DireShroom.md)
+- [Dire Shroom](_Bestiary/DireShroom.md)
 - [Shroomish](_Bestiary/Shroomish.md)
 
 ## Lion's Lineage

@@ -7,6 +7,7 @@ layout: default
 ---
 ## Artorian's Archives
 - [Artorian](_Characters/DivineDungeon/Artorian.md)
+- [Garuda](_Characters/Garuda.md)
 - [Zephyr](_Characters/ArtoriansArchives/Zephyr.md)
 
 ## Completionist Chronicles
@@ -38,6 +39,5 @@ layout: default
 - [Sam](_Characters/WolfmanWarlock/Sam.md)
 - [Sphinx](_Characters/WolfmanWarlock/Sphinx.md)
 - [Velkan](_Characters/WolfmanWarlock/Velkan.md)
-- [Wolfmen](_Characters/WolfmanWarlock/Wolfmen.md)
 - [The Wolfpack](_Characters/WolfmanWarlock/TheWolfpack.md)
 - [Yurij](_Characters/WolfmanWarlock/Yurij.md)
