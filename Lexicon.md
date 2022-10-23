@@ -28,14 +28,14 @@ layout: default
 - [Essence](_Lexicon/Essence.md)
 
 ---
-
 ## F
+---
 - [Fireball](_Lexicon/Fireball.md)
 - [FireShuriken](_Lexicon/FireShuriken.md)
 
 ---
-
 ## G
+---
 - 
 
 ## H
