@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCcores.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CCcores.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -248,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCcores.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CCcores.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCcores.md"
+                "file": "index.md"
               }
             }
           }
@@ -304,6 +304,7 @@
   },
   "active": "55758d95d004f181",
   "lastOpenFiles": [
+    "CCcores.md",
     "_Lexicon/ccRanks.md",
     "README.md",
     "_Books/DivineDungeon/DungeonBorn.md",
@@ -312,7 +313,6 @@
     "_Characters/DivineDungeon/Tim.md",
     "_Atlas/CCandDD/PhantomMountains.md",
     "Books.md",
-    "_Lexicon/SilverwoodTree.md",
-    "_Bestiary/Shroomish.md"
+    "_Lexicon/SilverwoodTree.md"
   ]
 }
