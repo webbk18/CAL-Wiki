@@ -21,7 +21,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Lexicon/Essence.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6a9b5a68a986e06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Lexicon/ccRanks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55758d95d004f181",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCcores.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Lexicon/Essence.md",
+                "file": "CCcores.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,7 +174,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2816532814678938,
+                  "scale": 0.18462326225858133,
                   "close": true
                 }
               }
@@ -224,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Lexicon/Essence.md",
+                "file": "CCcores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Lexicon/Essence.md",
+                "file": "CCcores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Lexicon/Essence.md"
+                "file": "CCcores.md"
               }
             }
           }
@@ -278,17 +302,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fd8645100fcf66e4",
+  "active": "55758d95d004f181",
   "lastOpenFiles": [
+    "_Lexicon/ccRanks.md",
+    "README.md",
     "_Books/DivineDungeon/DungeonBorn.md",
+    "_Characters/DivineDungeon/Dale.md",
+    "_Lexicon/Essence.md",
     "_Characters/DivineDungeon/Tim.md",
     "_Atlas/CCandDD/PhantomMountains.md",
     "Books.md",
     "_Lexicon/SilverwoodTree.md",
-    "_Bestiary/Shroomish.md",
-    "_Lexicon/Essence.md",
-    "_Lexicon/DungeonCore.md",
-    "_Lexicon/DungeonMonster.md",
-    "_Bestiary/DireShroom.md"
+    "_Bestiary/Shroomish.md"
   ]
 }
