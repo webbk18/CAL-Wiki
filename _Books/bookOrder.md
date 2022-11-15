@@ -1,17 +1,17 @@
 ---
 title: "Reading Orders"
-permalink: /Books/Reading_Orders/
+permalink: /Books/Reading_Orders/- 
 layout: default
 ---
 
 ## Contents
-[Order by Release Date](bookOrder.md#Order%20by%20Release%20Date)
-[Order by In-canon Chronology](bookOrder.md#Order%20by%20In-canon%20Chronology)
-[Order of Readability](bookOrder.md#Order%20of%20Readability)
-[(Frank's Recommendation)](bookOrder.md#(Frank's%20Recommendation))
-[(Frank's Other Recommendation)](bookOrder.md#(Frank's%20Other%20Recommendation))
-[(Rez's Recommendation)](bookOrder.md#(Rez's%20Recommendation))
-[(Wo'ah's Recommendation)](bookOrder.md#(Wo'ah's%20Recommendation))
+- [Order by Release Date](bookOrder.md#Order%20by%20Release%20Date)
+- [Order by In-canon Chronology](bookOrder.md#Order%20by%20In-canon%20Chronology)
+- [Order of Readability](bookOrder.md#Order%20of%20Readability)
+	- [(Frank's Recommendation)](bookOrder.md#(Frank's%20Recommendation))
+	- [(Frank's Other Recommendation)](bookOrder.md#(Frank's%20Other%20Recommendation))
+	- [(Rez's Recommendation)](bookOrder.md#(Rez's%20Recommendation))
+	- [(Wo'ah's Recommendation)](bookOrder.md#(Wo'ah's%20Recommendation))
 
 ## Order by Release Date
 
