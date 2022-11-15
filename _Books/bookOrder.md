@@ -1,3 +1,9 @@
+---
+title: "Reading Orders"
+permalink: /Books/Reading_Orders/
+layout: default
+---
+
 ## Contents
 [Order by Release Date](bookOrder.md#Order%20by%20Release%20Date)
 [Order by In-canon Chronology](bookOrder.md#Order%20by%20In-canon%20Chronology)
