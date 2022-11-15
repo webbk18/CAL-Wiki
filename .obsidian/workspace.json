@@ -16,79 +16,19 @@
             }
           },
           {
-            "id": "fd8645100fcf66e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6a9b5a68a986e06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Lexicon/ccRanks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "55758d95d004f181",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Lexicon/Towerlaws.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c2bd95d921f4ff6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Atlas/CCandDD/PhantomMountains.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c52a5eedd97f54e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Lexicon/LivingItem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34d6fdf5704b3e8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters.md",
+                "file": "Lexicon.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Lexicon/Towerlaws.md",
+                "file": "Lexicon.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -248,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Lexicon/Towerlaws.md",
+                "file": "Lexicon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Lexicon/Towerlaws.md",
+                "file": "Lexicon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Lexicon/Towerlaws.md"
+                "file": "Lexicon.md"
               }
             }
           }
@@ -301,15 +241,15 @@
   },
   "active": "55758d95d004f181",
   "lastOpenFiles": [
+    "_Lexicon/Towerlaws.md",
+    "_Atlas/CCandDD/PhantomMountains.md",
     "Lexicon.md",
     "_Lexicon/SilverwoodTree.md",
-    "_Lexicon/Towerlaws.md",
     "Books.md",
     "index.md",
     "CCcores.md",
     "_Lexicon/ccRanks.md",
     "README.md",
-    "_Books/DivineDungeon/DungeonBorn.md",
-    "_Characters/DivineDungeon/Dale.md"
+    "_Books/DivineDungeon/DungeonBorn.md"
   ]
 }
