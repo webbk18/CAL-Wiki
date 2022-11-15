@@ -1,6 +1,6 @@
 ---
 title: "Reading Orders"
-permalink: /Books/Reading_Orders/- 
+permalink: /Books/Reading_Orders/
 layout: default
 ---
 
