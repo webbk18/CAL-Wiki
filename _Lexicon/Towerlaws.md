@@ -1,4 +1,12 @@
-<@233766008102453249> Just from my poking about in 10 and 11. I don't have 12 yet to search through, but I'll be adding to my doc when I do 
+---
+title: "Tower Laws"
+permalink: /Lexicon/Tower_Laws/
+layout: default
+---
+
+!! Not Complete List !!
+
+
 Tier    Law
 > 4    Nature
 > 4    Portals

@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books.md",
+                "file": "_Lexicon/Towerlaws.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Books.md",
+                "file": "_Lexicon/Towerlaws.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -248,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books.md",
+                "file": "_Lexicon/Towerlaws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books.md",
+                "file": "_Lexicon/Towerlaws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books.md"
+                "file": "_Lexicon/Towerlaws.md"
               }
             }
           }
@@ -301,6 +301,8 @@
   },
   "active": "55758d95d004f181",
   "lastOpenFiles": [
+    "_Lexicon/SilverwoodTree.md",
+    "Books.md",
     "Lexicon.md",
     "index.md",
     "CCcores.md",
@@ -308,8 +310,6 @@
     "README.md",
     "_Books/DivineDungeon/DungeonBorn.md",
     "_Characters/DivineDungeon/Dale.md",
-    "_Lexicon/Essence.md",
-    "_Characters/DivineDungeon/Tim.md",
-    "_Atlas/CCandDD/PhantomMountains.md"
+    "_Lexicon/Essence.md"
   ]
 }
