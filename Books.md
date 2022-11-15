@@ -6,6 +6,7 @@ cssclass: [dashboard]
 ---
 ![books](images/banners/books.png)
 ---
+[Reading Orders](_Books/bookOrder.md)
 
 # [Artorians Archives](_Books/ArtoriansArchives/ArtoriansArchives.md)
 1. [Axiom](_Books/ArtoriansArchives/Axiom.md) (2019)

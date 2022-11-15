@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Books.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "Books.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -248,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Books.md"
               }
             }
           }
@@ -299,11 +299,10 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "55758d95d004f181",
   "lastOpenFiles": [
+    "Lexicon.md",
+    "index.md",
     "CCcores.md",
     "_Lexicon/ccRanks.md",
     "README.md",
@@ -311,8 +310,6 @@
     "_Characters/DivineDungeon/Dale.md",
     "_Lexicon/Essence.md",
     "_Characters/DivineDungeon/Tim.md",
-    "_Atlas/CCandDD/PhantomMountains.md",
-    "Books.md",
-    "_Lexicon/SilverwoodTree.md"
+    "_Atlas/CCandDD/PhantomMountains.md"
   ]
 }
