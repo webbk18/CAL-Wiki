@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +60,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Characters.md",
+                "file": "_Books/DivineDungeon/DungeonEternium.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters.md",
+                "file": "_Books/DivineDungeon/DungeonEternium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters.md",
+                "file": "_Books/DivineDungeon/DungeonEternium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters.md"
+                "file": "_Books/DivineDungeon/DungeonEternium.md"
               }
             }
           }
@@ -251,8 +251,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "55758d95d004f181",
+  "active": "54d2131e4042bad3",
   "lastOpenFiles": [
+    "Characters.md",
     "_Books/DivineDungeon/DungeonDesolation.md",
     "_Books/DivineDungeon/DungeonEternium.md",
     "_Characters/DivineDungeon/TheMaster.md",
@@ -261,7 +262,6 @@
     "_Characters/ArtoriansArchives/Zephyr.md",
     "_Books/DivineDungeon/DungeonCalamity.md",
     "_Books/DivineDungeon/DungeonMadness.md",
-    "_Books/DivineDungeon/DungeonBorn.md",
-    "images/DivineDungeon/DungeonBorn/dungeonborn_cover2.jpg"
+    "_Books/DivineDungeon/DungeonBorn.md"
   ]
 }

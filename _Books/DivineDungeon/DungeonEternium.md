@@ -42,7 +42,7 @@ The apocalypse is coming. Will honor or greed stand the test of time?
 
 | Previous Book | Following Book |
 |---|---|
-| [Dungeon Calamity](DungeonCalamity.md) | [Dungeon Eternium](DungeonEternium.md) |
+| [DungeonEternium](DungeonEternium.md) | N/A |
 
 ## Publication Information
 
