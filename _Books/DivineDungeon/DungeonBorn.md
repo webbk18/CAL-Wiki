@@ -66,13 +66,13 @@ When a threat he doesn’t fully comprehend bares its many teeth, Cal is determi
 
 | Front Cover | Back Cover | Audiobook Cover |
 |---|---|---|
-| ![dungeonborncover1](../../images/DivineDungeon/DungeonBorn/dungeonborncover1.jpg) |   | ![dungeonborn_audiocover1](../../images/DivineDungeon/DungeonBorn/dungeonborn_audiocover1.jpg) |
+| ![dungeonborncover1](../../images/DivineDungeon/DungeonBorn/dungeonborn_cover1.jpg) |   | ![dungeonborn_audiocover1](../../images/DivineDungeon/DungeonBorn/dungeonborn_audiocover1.jpg) |
 
 ### Second Edition Covers
 
 | Front Cover | Back Cover | Audiobook Cover |
 |---|---|---|
-| ![dungeonborncover2](../../images/DivineDungeon/DungeonBorn/dungeonborncover2.jpg) | ![dungeonborn_backcover](../../images/DivineDungeon/DungeonBorn/dungeonborn_backcover.jpg) | ![dungeonborn_audiocover1](../../images/DivineDungeon/DungeonBorn/dungeonborn_audiocover2.jpg) |
+| ![dungeonborn_cover2](../../images/DivineDungeon/DungeonBorn/dungeonborn_cover2.jpg) | ![dungeonborn_backcover](dungeonborn_backcover.jpg) | ![dungeonborn_audiocover2](../../images/DivineDungeon/DungeonBorn/dungeonborn_audiocover2.jpg) |
 
 ## Chapter Summaries
 0. The creation and death of [Cal](../../_Characters/DivineDungeon/Cal.md) at the hands of Necromancers

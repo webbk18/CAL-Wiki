@@ -21,6 +21,7 @@ cssclass: [dashboard]
 10. [Acyrologia](_Books/ArtoriansArchives/Acyrologia.md) (2022)
 11. [Accords](_Books/ArtoriansArchives/Accords.md) (2022)
 12. [Avalon](_Books/ArtoriansArchives/Avalon.md) (2022)
+13. [[_Books/ArtoriansArchives/Antelucan]] (2023)
 
 # [Completionist Chronicles](_Books/CompletionistChronicles/CompletionistChronicles.md)
 1. [Ritualist](_Books/CompletionistChronicles/Ritualist.md) (2018)

@@ -19,3 +19,4 @@ layout: default
 10. [Acyrologia](_Books/ArtoriansArchives/Acyrologia.md) (2022)
 11. [Accords](_Books/ArtoriansArchives/Accords.md) (2022)
 12. [Avalon](_Books/ArtoriansArchives/Avalon.md) (2022)
+13. [[Antelucan]] (2023)
