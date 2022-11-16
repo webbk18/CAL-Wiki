@@ -58,6 +58,7 @@ Both are aware that they need to keep moving. If they stop, their choices could 
 | Front Cover | Back Cover | Audiobook Cover |
 |---|---|---|
 | ![dungeoncalamity_cover1](../../images/DivineDungeon/DungeonCalamity/dungeoncalamity_cover1.jpg) |   | ![dungeoncalamity_audiocover1](../../images/DivineDungeon/DungeonCalamity/dungeoncalamity_audiocover1.jpg)
+
 ### Second Edition Covers
 
 | Front Cover | Back Cover | Audiobook Cover |

@@ -61,6 +61,7 @@ Madness threatens the land, and it is coming for them
 | Front Cover | Back Cover | Audiobook Cover |
 |---|---|---|
 | ![dungeonmadness_cover1](../../images/DivineDungeon/DungeonMadness/dungeonmadness_cover1.jpg) |   | ![dungeonmadness_audiocover1](../../images/DivineDungeon/DungeonMadness/dungeonmadness_audiocover1.jpg)
+
 ### Second Edition Covers
 
 | Front Cover | Back Cover | Audiobook Cover |
