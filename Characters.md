@@ -20,6 +20,8 @@ layout: default
 - [Dani](_Characters/DivineDungeon/Dani.md)
 - [Kantor](_Characters/DivineDungeon/Kantor.md)
 - [Tim](_Characters/DivineDungeon/Tim.md)
+- [The Master](_Characters/DivineDungeon/TheMaster.md)
+- [Xenocide](_Characters/DivineDungeon/Xenocide.md)
 
 ## Lion's Lineage
 - [Garron](_Characters/Garron.md)

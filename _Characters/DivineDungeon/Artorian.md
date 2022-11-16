@@ -1,6 +1,6 @@
 ---
 title: "Artorian"
-permalink: /Characters/Artorianz/
+permalink: /Characters/Artorian/
 layout: default
 ---
 # Artorian

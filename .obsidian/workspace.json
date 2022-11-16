@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Books/DivineDungeon/DungeonMadness.md",
+                "file": "Characters.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,14 +33,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Books/DivineDungeon/DungeonCalamity.md",
+                "file": "_Books/DivineDungeon/DungeonEternium.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +60,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Books/DivineDungeon/DungeonCalamity.md",
+                "file": "Characters.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Books/DivineDungeon/DungeonCalamity.md",
+                "file": "Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Books/DivineDungeon/DungeonCalamity.md",
+                "file": "Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Books/DivineDungeon/DungeonCalamity.md"
+                "file": "Characters.md"
               }
             }
           }
@@ -251,17 +251,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "54d2131e4042bad3",
+  "active": "55758d95d004f181",
   "lastOpenFiles": [
+    "_Books/DivineDungeon/DungeonDesolation.md",
+    "_Books/DivineDungeon/DungeonEternium.md",
+    "_Characters/DivineDungeon/TheMaster.md",
+    "_Characters/DivineDungeon/Artorian.md",
+    "_Characters/DivineDungeon/Xenocide.md",
+    "_Characters/ArtoriansArchives/Zephyr.md",
+    "_Books/DivineDungeon/DungeonCalamity.md",
     "_Books/DivineDungeon/DungeonMadness.md",
     "_Books/DivineDungeon/DungeonBorn.md",
-    "_Books/DivineDungeon/DungeonCalamity.md",
-    "images/DivineDungeon/DungeonBorn/dungeonborn_cover2.jpg",
-    "Books.md",
-    "_Lexicon/Essence.md",
-    "_Books/ArtoriansArchives/ArtoriansArchives.md",
-    "CCcores.md",
-    "_Books/ArtoriansArchives/Antelucan.md",
-    "_Books/ArtoriansArchives/Accords.md"
+    "images/DivineDungeon/DungeonBorn/dungeonborn_cover2.jpg"
   ]
 }
