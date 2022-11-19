@@ -11,8 +11,24 @@
             "id": "00660362ba935671",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Books.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e44e6820a9d5a108",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "webbk18-Reading Tracker.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -33,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Books/DivineDungeon/DungeonEternium.md",
+                "file": "Books.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Books/DivineDungeon/DungeonEternium.md",
+                "file": "webbk18-Reading Tracker.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -200,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Books/DivineDungeon/DungeonEternium.md",
+                "file": "webbk18-Reading Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Books/DivineDungeon/DungeonEternium.md",
+                "file": "webbk18-Reading Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Books/DivineDungeon/DungeonEternium.md"
+                "file": "webbk18-Reading Tracker.md"
               }
             }
           }
@@ -251,17 +267,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "54d2131e4042bad3",
+  "active": "e44e6820a9d5a108",
   "lastOpenFiles": [
+    "Books.md",
+    "webbk18-Reading Tracker.md",
+    "_Books/ArtoriansArchives/Axiom.md",
+    "_Books/DivineDungeon/DungeonEternium.md",
+    "_Lexicon/DakotaKrout.md",
     "Characters.md",
     "_Books/DivineDungeon/DungeonDesolation.md",
-    "_Books/DivineDungeon/DungeonEternium.md",
     "_Characters/DivineDungeon/TheMaster.md",
     "_Characters/DivineDungeon/Artorian.md",
-    "_Characters/DivineDungeon/Xenocide.md",
-    "_Characters/ArtoriansArchives/Zephyr.md",
-    "_Books/DivineDungeon/DungeonCalamity.md",
-    "_Books/DivineDungeon/DungeonMadness.md",
-    "_Books/DivineDungeon/DungeonBorn.md"
+    "_Characters/DivineDungeon/Xenocide.md"
   ]
 }
