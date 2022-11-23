@@ -18,6 +18,7 @@ layout: default
 - [Cal](_Characters/DivineDungeon/Cal.md)
 - [Dale](_Characters/DivineDungeon/Dale.md)
 - [Dani](_Characters/DivineDungeon/Dani.md)
+- [Eternium](_Characters/ArtoriansArchives/Eternium.md)
 - [Kantor](_Characters/DivineDungeon/Kantor.md)
 - [Tim](_Characters/DivineDungeon/Tim.md)
 - [The Master](_Characters/DivineDungeon/TheMaster.md)

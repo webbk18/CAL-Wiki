@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books.md",
+                "file": "markdown reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Books/webbk18-Reading Tracker.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Books/webbk18-Reading Tracker.md",
+                "file": "markdown reference.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Books/webbk18-Reading Tracker.md",
+                "file": "markdown reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Books/webbk18-Reading Tracker.md",
+                "file": "markdown reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Books/webbk18-Reading Tracker.md"
+                "file": "markdown reference.md"
               }
             }
           }
@@ -279,17 +278,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "55758d95d004f181",
+  "active": "00660362ba935671",
   "lastOpenFiles": [
-    "_Books/bookOrder.md",
-    "_Books/webbk18-Reading Tracker.md",
-    "Untitled.md",
-    "_Lexicon/Towerlaws.md",
-    "_Lexicon/Cultivation.md",
-    "_Lexicon/Essence.md",
     "Lexicon.md",
-    "_Lexicon/DungeonMonster.md",
-    "_Lexicon/Mana.md",
-    "_Lexicon/Elves.md"
+    "markdown reference.md",
+    "README.md",
+    "index.md",
+    "Books.md",
+    "Characters.md",
+    "_Characters/Garuda.md",
+    "_Lexicon/CCcores.md",
+    "_Books/webbk18-Reading Tracker.md",
+    "_Books/bookOrder.md"
   ]
 }
