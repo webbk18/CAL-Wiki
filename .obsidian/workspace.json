@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "webbk18-Reading Tracker.md",
+                "file": "_Books/webbk18-Reading Tracker.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Lexicon/Towerlaws.md",
+                "file": "_Books/webbk18-Reading Tracker.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Lexicon/Towerlaws.md",
+                "file": "_Books/webbk18-Reading Tracker.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Lexicon/Towerlaws.md",
+                "file": "_Books/webbk18-Reading Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Lexicon/Towerlaws.md",
+                "file": "_Books/webbk18-Reading Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Lexicon/Towerlaws.md"
+                "file": "_Books/webbk18-Reading Tracker.md"
               }
             }
           }
@@ -281,15 +281,15 @@
   },
   "active": "55758d95d004f181",
   "lastOpenFiles": [
+    "_Books/bookOrder.md",
+    "_Books/webbk18-Reading Tracker.md",
+    "Untitled.md",
+    "_Lexicon/Towerlaws.md",
     "_Lexicon/Cultivation.md",
     "_Lexicon/Essence.md",
     "Lexicon.md",
     "_Lexicon/DungeonMonster.md",
     "_Lexicon/Mana.md",
-    "_Lexicon/Elves.md",
-    "_Lexicon/Towerlaws.md",
-    "Eternium.md",
-    "markdown reference.md",
-    "Books.md"
+    "_Lexicon/Elves.md"
   ]
 }
