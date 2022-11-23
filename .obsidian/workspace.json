@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters.md",
+                "file": "_Lexicon/Towerlaws.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ddc8dc38f075ec0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Lexicon/Cultivation.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -76,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "webbk18-Reading Tracker.md",
+                "file": "_Lexicon/Cultivation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -216,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "webbk18-Reading Tracker.md",
+                "file": "_Lexicon/Cultivation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "webbk18-Reading Tracker.md",
+                "file": "_Lexicon/Cultivation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "webbk18-Reading Tracker.md"
+                "file": "_Lexicon/Cultivation.md"
               }
             }
           }
@@ -267,17 +279,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e44e6820a9d5a108",
+  "active": "8ddc8dc38f075ec0",
   "lastOpenFiles": [
+    "_Lexicon/Essence.md",
+    "Lexicon.md",
+    "_Lexicon/DungeonMonster.md",
+    "_Lexicon/Mana.md",
+    "_Lexicon/Elves.md",
+    "_Lexicon/Towerlaws.md",
+    "Eternium.md",
+    "markdown reference.md",
     "Books.md",
-    "webbk18-Reading Tracker.md",
-    "_Books/ArtoriansArchives/Axiom.md",
-    "_Books/DivineDungeon/DungeonEternium.md",
-    "_Lexicon/DakotaKrout.md",
-    "Characters.md",
-    "_Books/DivineDungeon/DungeonDesolation.md",
-    "_Characters/DivineDungeon/TheMaster.md",
-    "_Characters/DivineDungeon/Artorian.md",
-    "_Characters/DivineDungeon/Xenocide.md"
+    "Untitled.md"
   ]
 }

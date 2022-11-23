@@ -7,7 +7,7 @@ layout: default
 ---
 Short for 'Quintessence', but as that is a mouthful it is usually shortened.
 
-Essence is the fundamental energy of the universe, the pure power of the heavens and earth that is used by the basic elements to become everything.
+Essence is the fundamental energy of the universe, the pure power of the heavens and earth that is used by the basic elements to become everything. There are six major types are names: Fire, Water, Earth, Air, Celestial, Infernal.
 
 Rocks turn it into earth essence
 Water into water, both are impure forms
@@ -37,3 +37,8 @@ Sentient Creatures such as [Humans](Humans.md)], [Elves](Elves.md), [Dwarves](Dw
 	- Coal
 		- Anthracite
 - Mud (Water + Earth)
+
+Lightning - Earth + Air
+Mud
+Slime
+Quicksand

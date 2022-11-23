@@ -64,6 +64,7 @@ layout: default
 
 ---
 ## M
+- [Mana](_Lexicon/Mana.md)
 - [Mob](_Lexicon/DungeonMonster.md)
 - [Moss](_Lexicon/Moss.md)
 
