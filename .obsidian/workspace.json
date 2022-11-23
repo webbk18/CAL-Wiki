@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "markdown reference.md",
+                "file": "_Books/webbk18-Reading Tracker.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown reference.md",
+                "file": "_Books/webbk18-Reading Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "markdown reference.md",
+                "file": "_Books/webbk18-Reading Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "markdown reference.md"
+                "file": "_Books/webbk18-Reading Tracker.md"
               }
             }
           }
@@ -278,10 +279,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "00660362ba935671",
+  "active": "e44e6820a9d5a108",
   "lastOpenFiles": [
-    "Lexicon.md",
     "markdown reference.md",
+    "Lexicon.md",
     "README.md",
     "index.md",
     "Books.md",
