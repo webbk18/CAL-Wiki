@@ -49,6 +49,7 @@ Tier    Law
  - 98    Revelry
  - 98    Honor
  - 98    Valor
+ - 113    Art
  - 117    Luck
  - 555    ~~Acceptance~~ Sun
  - 720    Chaos
