@@ -51,7 +51,8 @@ Tier    Law
  - 98    Valor
  - 113    Art
  - 117    Luck
- - 555    ~~Acceptance~~ Sun
+ - 555    Sun
+	 - Acceptance
  - 720    Chaos
  - 720    Madness
  - 720    Love ([Arty](../_Characters/DivineDungeon/Artorian.md))
