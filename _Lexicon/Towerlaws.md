@@ -42,6 +42,7 @@ Tier    Law
  - 13    Greed
  - 30    Acceleration
  - 31    Celebration
+ - 42    Hitchhiking
  - 55    Explosion
  - 66    Synergy
  - 79    Aurum
