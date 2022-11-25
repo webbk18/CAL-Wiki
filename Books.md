@@ -50,3 +50,7 @@ cssclass: [dashboard]
 
 # [ExpandedUniverse](_Books/ExpandedUniverse/ExpandedUniverse.md)
 - [Essence](_Books/ExpandedUniverse/Essence.md) (2019)
+
+
+--- 
+## [Pop Culture References](_Books/PopCultureReferences.md)
