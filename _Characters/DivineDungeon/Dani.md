@@ -6,5 +6,5 @@ layout: default
 # Dani
 ---
 - Not tasty
-- [[Wisp]], as in will-of-the
+- [Wisp](../../_Lexicon/Wisp.md), as in will-of-the
 - Pink originally, and purple after bonding with [Cal](Cal.md) 

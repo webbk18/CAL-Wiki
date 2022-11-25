@@ -6,22 +6,23 @@ layout: default
 
 
 ## Pop Culture References By Book
+*Items with a star are empty, but planned*
 
 ### Artorian's Archives:
 --- 
-* [Axiom](References/Axiom.md)
-* [Alumni](References/Alumni.md)
-* [Annex](References/Annex.md)
-* [Arsenal](References/Arsenal.md)
-* [Acme](References/Acme.md)
-* [Anima](References/Anima.md)
-* [Algorithm](References/Algorithm.md)
-* [Artifact](References/Artifact.md)
-* [Asgard](References/Asgard.md)
-* [Acyrologia](References/Acyrologia.md)
+* [Axiom](References/Axiom.md) *
+* [Alumni](References/Alumni.md) *
+* [Annex](References/Annex.md) *
+* [Arsenal](References/Arsenal.md) *
+* [Acme](References/Acme.md) *
+* [Anima](References/Anima.md) *
+* [Algorithm](References/Algorithm.md) *
+* [Artifact](References/Artifact.md) *
+* [Asgard](References/Asgard.md) *
+* [Acyrologia](References/Acyrologia.md) *
 * [Accords](References/Accords.md)
 * [Avalon](References/Avalon.md)
-* [Antelucan](References/Antelucan.md)
+* [Antelucan](References/Antelucan.md) *
 
 
 
