@@ -7,9 +7,9 @@ layout: default
 # Pop Culture References
 
 ### Navigation
-| Previous Book               | Following Book      | All Books                                          |
-| --------------------------- | ------------------- | -------------------------------------------------- |
-| [Acyrologia](Acyrologia.md) | [Avalon](Avalon.md) | [PopCultureReferences](../PopCultureReferences.md)                               |
+| Previous Book   | Following Book    | All Books                  |
+| ------------ | -------------| ----------------------- |
+| [Acyrologia](Acyrologia.md) | [Avalon](Avalon.md) | [Pop Culture References](../PopCultureReferences.md)                               |
 
 
 _References are sorted chronologically by chapter number._

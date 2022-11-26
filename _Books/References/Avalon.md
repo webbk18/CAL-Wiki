@@ -10,7 +10,7 @@ layout: default
 ### Navigation
 | Previous Book | Following Book | All Books |
 |---|---|---|
-| [Avalon](Avalon.md) | [Antelucan](Antelucan.md) [PopCultureReferences](../PopCultureReferences.md) |
+| [Avalon](Avalon.md) | [Antelucan](Antelucan.md) | [PopCultureReferences](../PopCultureReferences.md) |
 
 
 _References are sorted chronologically by chapter number._
