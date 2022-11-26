@@ -4,8 +4,22 @@ permalink: /References/Avalon/
 layout: default
 ---
 
+
+# Pop Culture References
+
+### Navigation
+| Previous Book | Following Book | All Books |
+|---|---|---|
+| [Avalon](Avalon.md) | [Antelucan](Antelucan.md) [PopCultureReferences](../PopCultureReferences.md) |
+
+
+_References are sorted chronologically by chapter number._
+
+### Pop Culture References
+
+
 | Chapter | Quote                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |     |
-| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1       | "To Alexandria, putting her technique together was akin to reading a furniture manual. A simple one."                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |     |
 | 2       | "The boys are going hard on their ‘Art Deco’ and ‘Radiator Buildings’ and ‘Massive Suspension Bridges.’ The last note I saw on my desk was something about a collaborative dam project with the Beavers. There was some joke about naming it ‘Hoover,’ but it escaped me as to why that was funny.”"                                                                                                                                                                                                                                                                                                                                                          |     |
 | 6       | "Artorian then scratched behind his ear. “Bugatti Sugar Glider variants. What… What does that mean?” He read on a few more lines, his confusion packing on. “Approval requests for improved hydraulic assisted joints, approval requests to name some of the Gliders: ‘Storm Rider,’ ‘Audible,’ and ‘Stardust.’ Strange…”"                                                                                                                                                                                                                                                                                                                                    |     |
@@ -50,6 +64,9 @@ layout: default
 | 37      | "Like a coyote that had run off a cliff, and was slowly becoming aware that gravity, working for Acme , was merely toying with him before letting the drop happen. Artorian mentally held up a tiny wooden help sign as a metaphorical roadrunner meep-meeped at him in passing."                                                                                                                                                                                                                                                                                                                                                                             |     |
 | 38      | "At least Torgue gave me my E.O.D. certification, even if he never told me what it was short for."                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |     |
 |         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |     |
+
+
+
 
 
 (244) 33 "Artorian’s mind encountered a slowly spinning rainbow error."
