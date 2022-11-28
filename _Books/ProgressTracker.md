@@ -5,43 +5,8 @@ layout: default
 ---
 # Progress Tracker
 ---
-| Book Info | Cover Images |
-| --------- | ------------ |
-|  - [ ] AA
-	- [ ] Axiom
-	- [ ] Alumni
-	- [ ] Annex
-	- [ ] Arsenal
-	- [ ] Acme
-	- [ ] Anima
-	- [ ] Algorithm
-	- [ ] Artifact
-	- [ ] Asgard
-	- [ ] Acyrolgia
-	- [ ] Accords
-	- [ ] Avalon
-	- [ ] Antelucan
-	- [ ] AA14
-	- [ ] AA15
-	- [ ] AA16
-	- [ ] AA17
-	- [ ] AA18
-	- [ ] AA19
-	- [ ] AA20
-	- [ ] AA21
-- [ ] DD
-	- [ ] Dungeon Born
-	- [ ] Dungeon Madness
-	- [ ] Dungeon Calamity
-	- [ ] Dungeon Desolation
-	- [ ] Dungeon Eternuim
-- [ ] CC
-- [ ] LL
-- [ ] WW
-- [ ] Standalone         |              |
 
 ## Book Info
-
 - [ ] AA
 	- [ ] Axiom
 	- [ ] Alumni
@@ -56,21 +21,103 @@ layout: default
 	- [ ] Accords
 	- [ ] Avalon
 	- [ ] Antelucan
-	- [ ] AA14
-	- [ ] AA15
-	- [ ] AA16
-	- [ ] AA17
-	- [ ] AA18
-	- [ ] AA19
-	- [ ] AA20
-	- [ ] AA21
+- [x] DD
+	- [x] Dungeon Born
+	- [x] Dungeon Madness
+	- [x] Dungeon Calamity
+	- [x] Dungeon Desolation
+	- [x] Dungeon Eternuim
+- [ ] CC
+	- [ ] Ritualist
+	- [ ] Regicide
+	- [ ] Rexus
+	- [ ] Raze
+	- [ ] Ruthless
+	- [ ] Inflame
+	- [ ] Invent
+	- [ ] Implode
+- [ ] LL
+	- [ ] Hunt
+- [x] WW
+	- [x] Biblimancer
+	- [x] Librohexer
+- [ ] Standalone
+	- [ ] Essence
+
+
+## Book Cover Images
+- [ ] AA
+	- [ ] Axiom
+	- [ ] Alumni
+	- [ ] Annex
+	- [ ] Arsenal
+	- [ ] Acme
+	- [ ] Anima
+	- [ ] Algorithm
+	- [ ] Artifact
+	- [ ] Asgard
+	- [ ] Acyrolgia
+	- [ ] Accords
+	- [ ] Avalon
+	- [ ] Antelucan
+- [x] DD
+	- [x] Dungeon Born
+	- [x] Dungeon Madness
+	- [x] Dungeon Calamity
+	- [x] Dungeon Desolation
+	- [x] Dungeon Eternuim
+- [ ] CC
+	- [ ] Ritualist
+	- [ ] Regicide
+	- [ ] Rexus
+	- [ ] Raze
+	- [ ] Ruthless
+	- [ ] Inflame
+	- [ ] Invent
+	- [ ] Implode
+- [ ] LL
+	- [ ] Hunt
+- [ ] WW
+	- [ ] Biblimancer
+	- [ ] Librohexer
+- [ ] Standalone
+	- [ ] Essence
+
+## Chapter Summaries
+- [ ] AA
+	- [ ] Axiom
+	- [ ] Alumni
+	- [ ] Annex
+	- [ ] Arsenal
+	- [ ] Acme
+	- [ ] Anima
+	- [ ] Algorithm
+	- [ ] Artifact
+	- [ ] Asgard
+	- [ ] Acyrolgia
+	- [ ] Accords
+	- [ ] Avalon
+	- [ ] Antelucan
 - [ ] DD
-	- [ ] Dungeon Born
+	- [ ] Dungeon Born - In Progress
 	- [ ] Dungeon Madness
 	- [ ] Dungeon Calamity
 	- [ ] Dungeon Desolation
 	- [ ] Dungeon Eternuim
 - [ ] CC
+	- [ ] Ritualist
+	- [ ] Regicide
+	- [ ] Rexus
+	- [ ] Raze
+	- [ ] Ruthless
+	- [ ] Inflame
+	- [ ] Invent
+	- [ ] Implode
 - [ ] LL
+	- [ ] Hunt
 - [ ] WW
+	- [ ] Biblimancer
+	- [ ] Librohexer  - In Progress
 - [ ] Standalone
+	- [ ] Essence
+
