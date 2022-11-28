@@ -11,8 +11,8 @@ layout: home
 
 
 
-[webbk18-Reading Tracker](_Books/webbk18-Reading%20Tracker.md)
-[Progress Tracker](_Books/Progress%20Tracker.md)
+[webbk18-ReadingTracker](_Books/webbk18-ReadingTracker.md)
+[ProgressTracker](_Books/ProgressTracker.md)
 
 
 
