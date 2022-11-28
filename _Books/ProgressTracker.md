@@ -6,7 +6,8 @@ layout: default
 # Progress Tracker
 ---
 
-## Book Info
+# Book Info
+---
 - [ ] AA
 	- [ ] Axiom
 	- [ ] Alumni
@@ -43,9 +44,11 @@ layout: default
 	- [x] Librohexer
 - [ ] Standalone
 	- [ ] Essence
+---
 
 
-## Book Cover Images
+# Book Cover Images
+---
 - [ ] AA
 	- [ ] Axiom
 	- [ ] Alumni
@@ -82,8 +85,11 @@ layout: default
 	- [ ] Librohexer
 - [ ] Standalone
 	- [ ] Essence
+---
 
-## Chapter Summaries
+
+# Chapter Summaries
+---
 - [ ] AA
 	- [ ] Axiom
 	- [ ] Alumni
@@ -120,4 +126,19 @@ layout: default
 	- [ ] Librohexer  - In Progress
 - [ ] Standalone
 	- [ ] Essence
+---
 
+
+# Info Pages
+---
+- [ ] Authors
+	- [ ] Dakota Krout
+	- [ ] Dennis Vanderkerken
+	- [ ] James Hunter
+	- [ ] Rohan Hublikar
+- [ ] Narrators
+	- [ ] Nick Phodehl
+	- [ ] Vikas Adam
+	- [ ] Luke Daniels
+	- [ ] Daniel Wisniewski
+---
