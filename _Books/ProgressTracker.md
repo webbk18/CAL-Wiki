@@ -5,7 +5,7 @@ layout: default
 ---
 # Progress Tracker
 ---
-Book Info
+## Book Info
 - [ ] AA
 	- [ ] Axiom
 	- [ ] Alumni
