@@ -7,7 +7,6 @@ layout: default
 ---
 
 # Book Info
----
 - [ ] AA
 	- [ ] Axiom
 	- [ ] Alumni
@@ -49,7 +48,6 @@ layout: default
 
 
 # Book Cover Images
----
 - [ ] AA
 	- [ ] Axiom
 	- [ ] Alumni
@@ -91,7 +89,6 @@ layout: default
 
 
 # Chapter Summaries
----
 - [ ] AA
 	- [ ] Axiom
 	- [ ] Alumni
@@ -133,7 +130,6 @@ layout: default
 
 
 # Info Pages
----
 - [ ] Authors
 	- [ ] Dakota Krout
 	- [ ] Dennis Vanderkerken
