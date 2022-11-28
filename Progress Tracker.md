@@ -1,7 +1,7 @@
 
 ---
 title: "Progress Tracker"
-permalink: /Lexicon/Progress Tracker/
+permalink: /Lexicon/ProgressTracker/
 layout: default
 ---
 # Progress Tracker
