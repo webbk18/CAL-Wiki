@@ -1,7 +1,6 @@
-
 ---
 title: "Progress Tracker"
-permalink: /Home/ProgressTracker/
+permalink: /Books/ProgressTracker/
 layout: default
 ---
 # Progress Tracker
