@@ -1,6 +1,6 @@
 ---
 title: "webbk18-Reading Tracker"
-permalink: /Books/webbk18-ReadingTracker/
+permalink: /Books/webbk18ReadingTracker/
 layout: default
 ---
 
