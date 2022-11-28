@@ -14,7 +14,7 @@ Water into water, both are impure forms
 
 A [Dungeon Core](DungeonCore.md) can use [Essence](Essence.md) to alter the world under their influence. 
 
-Sentient Creatures such as [Humans](Humans.md)], [Elves](Elves.md), [Dwarves](Dwarves) and [Orcs](Orcs.md) absorb Essence in a process called [Cultivation](Cultivation.md).
+Sentient Creatures such as [Humans](Humans.md)], [Elves](Elves.md), [Dwarves](Dwarves.md) and [Orcs](Orcs.md) absorb Essence in a process called [Cultivation](Cultivation.md).
 
 # Essence Types
 - Fire
