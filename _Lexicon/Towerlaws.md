@@ -5,7 +5,7 @@ layout: default
 ---
 
 !! Not Complete List !!
-
+*Plz floof we need AA13*
 
 Tier    Law
 - 1     Fire

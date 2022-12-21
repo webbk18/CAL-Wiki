@@ -9,5 +9,6 @@ layout: default
 
 
 ## Evolutions
-- [DireShroom](DireShroom.md) 
+- [Dire Shroom](DireShroom.md) 
 - One with healing benifits but a spike in the center. when stepped on it will imbed the spike and heal it into the body
+- [Dire Shroomish](DireShroomish.md)

@@ -14,11 +14,13 @@ layout: default
 - [Jake](_Characters/Jake.md)
 
 ## Divine Dungeon
+- [Adventurers Guild](_Characters/DivineDungeon/AdventurersGuild.md)
 - [Artorian](_Characters/DivineDungeon/Artorian.md)
 - [Cal](_Characters/DivineDungeon/Cal.md)
 - [Dale](_Characters/DivineDungeon/Dale.md)
 - [Dani](_Characters/DivineDungeon/Dani.md)
 - [Eternium](_Characters/ArtoriansArchives/Eternium.md)
+- [Mages Guild](_Lexicon/MagesGuild.md)
 - [Kantor](_Characters/DivineDungeon/Kantor.md)
 - [Tim](_Characters/DivineDungeon/Tim.md)
 - [The Master](_Characters/DivineDungeon/TheMaster.md)

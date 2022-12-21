@@ -17,6 +17,8 @@ layout: default
 - [Bane](_Bestiary/DireShroom.md)
 - [Dire Shroom](_Bestiary/DireShroom.md)
 - [Shroomish](_Bestiary/Shroomish.md)
+- [Blood Moss](_Bestiary/BloodMoss.md)
+- [MountainBunny](_Bestiary/MountainBunny.md)
 
 ## Lion's Lineage
 - 

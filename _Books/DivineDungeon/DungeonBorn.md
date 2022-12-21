@@ -23,12 +23,19 @@ When a threat he doesn’t fully comprehend bares its many teeth, Cal is determi
 #### Supporting Characters
 
 - [Kantor](../../_Characters/DivineDungeon/Kantor.md)
-- Sheephearders
+- Sheepherders
 	- Swarthy Man
 	- [Tim](../../_Characters/DivineDungeon/Tim.md)
 	- Angry Bearded Man
 	- Fourth Man
 	- Guy who falls into the pit
+-  Initial Scouting Party
+	- Elf
+	- Priest
+	- Human 2 
+	- Human 3
+- [Father Richard](../../_Characters/DivineDungeon/FatherRichard.md)
+- [Guild Leader Frank](../../_Characters/DivineDungeon/Frank.md)
 
 
 ## Book Info
@@ -80,4 +87,15 @@ When a threat he doesn’t fully comprehend bares its many teeth, Cal is determi
 2. Cal meets [Dani](../../_Characters/DivineDungeon/Dani.md) and she gives Cal his name. Cal learns how to use his [Essence](../../_Lexicon/Essence.md) and begins to expand his [Influence](../../_Lexicon/Influence.md). Cal Creates a [Shroomish](../../_Bestiary/Shroomish.md), and expands his essence to the mouth of the cave
 3. Cal makes his first [Dungeon Born](../../_Lexicon/DungeonBornC.md) Creatures, some more mushrooms. Dani teaches him how to expand his dungeon, and teaches him about black and white dungeon cores.
 4. Cal rapidly expands his dungeon while Dani is looking for herbs, causing chaos on the surface. Dani comes back with a [Silverwood Tree](../../_Lexicon/SilverwoodTree.md) Seed.  Cal makes his dungeon more dangerous adding traps and making the mushrooms and moss more dangerous.
-5. A Sheephearder party of five stumbles apon Cal's dungeon. An unnammed guy is the first casualty when he falls into a pit (pg 57). The Fourth Man is the second casualty getting eaten by [Dire Shroom](../../_Bestiary/DireShroom.md) Bane (pg 60). Next to die is the swarthy man when he inhales spores and then stumbles and gets a spike through the skull (pg 60).
+5. A Sheepherder party of five stumbles upon Cal's dungeon. An unnamed guy is the first casualty when he falls into a pit (pg 57). The Fourth Man is the second casualty getting eaten by [Dire Shroom](../../_Bestiary/DireShroom.md) Bane (pg 60). Next to die is the swarthy man when he inhales spores and then stumbles and gets a spike through the skull (pg 60).
+6. Cal Learns how to make his [Chi Spiral](../../_Lexicon/ChiSpiral.md) and learns more about essence. He discovers that one of his moss patches has developed the [Vampirism](../../_Lexicon/Vampirism.md) effect and he Creates a Moss-Mushroom Hybrid with that effect as his new boss, a [Dire Shroomish](../../_Bestiary/DireShroomish.md).
+7. Dale returns home, sells everything he has and buys the land the dungeon is on, and calls in the [Adventurers Guild](../../_Characters/DivineDungeon/AdventurersGuild.md). The four Guild members travel up to the dungeon lead by [Dale](../../_Characters/DivineDungeon/Dale.md) and the Guild members quickly clear the dungeon and the Elf identifies the [Silverwood Tree](../../_Lexicon/SilverwoodTree.md) in the boss room, and cast protective magic over the tree.
+8. Cal and Dani Freak out when the Guild shows up and are way higher level. Dani tells Cal A little bit about [Aura](../../_Lexicon/Aura.md) and Cal tells Dani that he was a Human, which is why He can use all essence types.
+9. Cal Grumpily resets his dungeon plants and mobs while Dani goes out and gets Flower seeds and some Herbs, which get rid of Cal's Dead body odor. Cal gets attacked by a [Mountain Bunny](../../_Bestiary/MountainBunny.md). 
+10. After a couple weeks of travel the four Adventurers Guild members reached a city and Spread the news of the dungeon. They each go to their respective leaders who all want to be first to establish claim over the dungeon.
+11. Cal uses his new knowledge of Bunnies to create a breeding pair of two males. Dani lures a female in and Cal creates a few copies.
+
+
+
+
+After a couple weeks of travel the four Adventurers Guild members reached a city and Spread the news of the dungeon. They each go to their respective leaders who all want to be first to establish claim over the dungeon. They go to the Elven Embassy almost causing a riot when the Silverwood tree was learned of. The elves prepared [Memory Stones](../../_Lexicon/MemoryStone.md) and sent several messengers to the Eleven Capital with plans to build a city at the Dungeon. The Group splits from there. The Priest goes to the Church where the Bishop inspects and prays over the pendant from the dungeon, which fills with a lot of Celestial Essence. The Bishop then says they must build a Church at the Dungeon and orders the Priest find [Father Richard](../../_Characters/DivineDungeon/FatherRichard.md). The Local Guild Leader, [Frank](../../_Characters/DivineDungeon/Frank.md) hears of the Dungeon passing it off then learns of the Silverwood Tree. He declares that the Adventurers Guild must make it to the dungeon first. Guild Master [Frank](../../_Characters/DivineDungeon/Frank.md) sets preparations in motion to take the mountain.

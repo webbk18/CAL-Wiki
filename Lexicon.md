@@ -6,11 +6,13 @@ layout: default
 ![lexicon](images/banners/lexicon.png)
 ---
 ## A
-- 
+- [Adventurers Guild](_Characters/DivineDungeon/AdventurersGuild.md)
+- [Aura](_Lexicon/Aura.md)
 
 ---
 ## B
 
+- [Bag of Holding](_Lexicon/BagofHolding.md)
 - [Beast](_Lexicon/Beast.md)
 - [Beast Core](_Lexicon/BeastCore.md)
 - [Bills Foppish Hat](_Lexicon/BillsFoppishHat.md)
@@ -18,6 +20,7 @@ layout: default
 ---
 ## C
 - [Cultivation](_Lexicon/Cultivation.md)
+- [Chi Spiral](_Lexicon/ChiSpiral.md)
 
 ---
 ## D
@@ -47,6 +50,7 @@ layout: default
 
 ---
 ## I
+- [Incantation](_Lexicon/Incantation.md)
 - [Influence](_Lexicon/Influence.md)
 - [Ink Lance](_Lexicon/InkLance.md)
 
@@ -65,8 +69,10 @@ layout: default
 ---
 ## M
 - [Mana](_Lexicon/Mana.md)
+- [Mages Guild](_Lexicon/MagesGuild.md)
 - [Mob](_Lexicon/DungeonMonster.md)
 - [Moss](_Lexicon/Moss.md)
+- [Memory Stone](_Lexicon/MemoryStone.md)
 
 ---
 ## N
@@ -103,7 +109,9 @@ layout: default
 
 ---
 ## V
+- [Vampirism](_Lexicon/Vampirism.md)
 - [Vikas Adam](_Lexicon/VikasAdam.md)
+- 
 
 ---
 ## W

@@ -7,4 +7,4 @@ layout: default
 ---
 Appendix Entry: Owner of the mountain the dungeon was found on, Dale is now a cultivator who attempts to not die on a regular basis.
 
-Referenced in chapter 5 of [DungeonBorn](../../_Books/DivineDungeon/DungeonBorn.md) as 'the young man' several times
+Referenced in chapter 5 of [DungeonBorn](../../_Books/DivineDungeon/DungeonBorn.md) as 'the young man' several times, and described as having a 'guiless, lightly bearded face' also he has brown eyes.

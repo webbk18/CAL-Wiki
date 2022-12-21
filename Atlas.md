@@ -16,6 +16,8 @@ layout: default
 - [The Shoe](_Atlas/CompletionistChronicles/TheShoe.md)
 
 ## Divine Dungeon
+- [TheChurch](_Atlas/DivineDungeon/TheChurch.md)
+- 
 
 ## Lion's Lineage
 

@@ -2,5 +2,6 @@
   "dataview",
   "obsidian-banners",
   "homepage",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-livesync"
 ]

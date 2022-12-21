@@ -16,14 +16,15 @@ layout: default
 ## Levels
 [Cultivation](../../_Lexicon/Cultivation.md)
 
-| Book | Chapter | Page | Rank |
-|------|---------|------|------|
-| [Dungeon Born](../../_Books/DivineDungeon/DungeonBorn.md) | Chapter 1 | Pg 1 | G0 |
-| [Dungeon Born](../../_Books/DivineDungeon/DungeonBorn.md) | Chapter 2 | Pg 12 | G1 |
-|[Dungeon Born](../../_Books/DivineDungeon/DungeonBorn.md) | Chapter 2 | Pg 22 | G2/G3 |
-| [Dungeon Born](../../_Books/DivineDungeon/DungeonBorn.md) | Chapter 2 | Pg 27 | G4 |
-| [Dungeon Born](../../_Books/DivineDungeon/DungeonBorn.md) | Chapter 2 | Pg 32 | G5 |
-| [DungeonBorn](../../_Books/DivineDungeon/DungeonBorn.md) | Chapter 4 | Pg 46 | F0 |
+| Book                                                      | Chapter   | Page  | Rank  |
+| --------------------------------------------------------- | --------- | ----- | ----- |
+| [Dungeon Born](../../_Books/DivineDungeon/DungeonBorn.md) | Chapter 1 | Pg 1  | G0    |
+| [Dungeon Born](../../_Books/DivineDungeon/DungeonBorn.md) | Chapter 2 | Pg 12 | G1    |
+| [Dungeon Born](../../_Books/DivineDungeon/DungeonBorn.md) | Chapter 2 | Pg 22 | G2/G3 |
+| [Dungeon Born](../../_Books/DivineDungeon/DungeonBorn.md) | Chapter 2 | Pg 27 | G4    |
+| [Dungeon Born](../../_Books/DivineDungeon/DungeonBorn.md) | Chapter 2 | Pg 32 | G5    |
+| [DungeonBorn](../../_Books/DivineDungeon/DungeonBorn.md)  | Chapter 4 | Pg 46 | F0    |
+| [DungeonBorn](../../_Books/DivineDungeon/DungeonBorn.md)  | Chaper 6  | Pg 64 | F8      |
 
 
 ## Hopes and Dreams
