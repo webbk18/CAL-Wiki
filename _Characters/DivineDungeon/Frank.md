@@ -1,6 +1,6 @@
 ---
 title: "Frank"
-permalink: /Lexicon/Frank/
+permalink: /Characters/Frank/
 layout: default
 ---
 Guild Master Frank

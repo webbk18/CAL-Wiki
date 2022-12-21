@@ -1,6 +1,6 @@
 ---
 title: "Dire Shroom"
-permalink: /Lexicon/Dire_Shroom/
+permalink: /Bestiary/Dire_Shroom/
 layout: default
 ---
 # Dire Shroom

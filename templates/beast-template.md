@@ -1,9 +1,9 @@
 ---
-title: "title"
-permalink: /Lexicon/entry/
+title: "<% tp.file.title %>"
+permalink: /Bestiary/<% tp.file.title %>/
 layout: default
 ---
-# Title
+# <% tp.file.title %>
 ---
 description
 

@@ -1,6 +1,6 @@
 ---
 title: "Eternium"
-permalink: /Lexicon/Eternium/
+permalink: /Characters/Eternium/
 layout: default
 ---
 Eternium

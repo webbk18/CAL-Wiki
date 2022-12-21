@@ -1,6 +1,6 @@
 ---
 title: "The Church"
-permalink: /Lexicon/Church/
+permalink: /Atlas/Church/
 layout: default
 ---
 The Church

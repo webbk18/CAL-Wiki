@@ -1,6 +1,6 @@
 ---
 title: "Zephyr"
-permalink: /Lexicon/Zephyr/
+permalink: /Characters/Zephyr/
 layout: default
 ---
 # Zephyr

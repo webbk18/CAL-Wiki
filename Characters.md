@@ -17,6 +17,7 @@ layout: default
 - [Adventurers Guild](_Characters/DivineDungeon/AdventurersGuild.md)
 - [Artorian](_Characters/DivineDungeon/Artorian.md)
 - [Cal](_Characters/DivineDungeon/Cal.md)
+- [Craig](_Characters/DivineDungeon/Craig.md)
 - [Dale](_Characters/DivineDungeon/Dale.md)
 - [Dani](_Characters/DivineDungeon/Dani.md)
 - [Eternium](_Characters/ArtoriansArchives/Eternium.md)

@@ -1,6 +1,6 @@
 ---
 title: "Dire Shroomish"
-permalink: /Lexicon/Dire_Shroomish/
+permalink: /Bestiary/Dire_Shroomish/
 layout: default
 ---
 Dire Shroomish

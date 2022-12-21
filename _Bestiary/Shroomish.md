@@ -1,6 +1,6 @@
 ---
 title: "Shroomish"
-permalink: /Lexicon/Shroomish/
+permalink: /Bestiary/Shroomish/
 layout: default
 ---
 # Shroomish

@@ -1,9 +1,9 @@
 ---
-title: "book title"
-permalink: /series/book/
+title: "<% tp.file.title %>"
+permalink: /series/<% tp.file.title %>/
 layout: default
 ---
-# Title
+# <% tp.file.title %>
 ---
 book blurb / description
 

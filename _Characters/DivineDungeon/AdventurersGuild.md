@@ -1,6 +1,6 @@
 ---
 title: "Adventurers Guild"
-permalink: /Lexicon/Adventurers_Guild/
+permalink: /Characters/Adventurers_Guild/
 layout: default
 ---
 # AdventurersGuild

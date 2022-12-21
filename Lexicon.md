@@ -8,6 +8,7 @@ layout: default
 ## A
 - [Adventurers Guild](_Characters/DivineDungeon/AdventurersGuild.md)
 - [Aura](_Lexicon/Aura.md)
+- [Affinity](_Lexicon/Affinity.md)
 
 ---
 ## B
@@ -19,6 +20,7 @@ layout: default
 
 ---
 ## C
+- [Corruption](_Lexicon/Corruption.md)
 - [Cultivation](_Lexicon/Cultivation.md)
 - [Chi Spiral](_Lexicon/ChiSpiral.md)
 

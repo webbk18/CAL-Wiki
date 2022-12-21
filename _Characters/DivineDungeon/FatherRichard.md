@@ -1,6 +1,6 @@
 ---
 title: "Father Richard"
-permalink: /Lexicon/Father_Richard/
+permalink: /Characters/Father_Richard/
 layout: default
 ---
 # Father Richard

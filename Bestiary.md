@@ -15,6 +15,7 @@ layout: default
 
 ## Divine Dungeon
 - [Bane](_Bestiary/DireShroom.md)
+- [Basher](_Bestiary/Basher.md)
 - [Dire Shroom](_Bestiary/DireShroom.md)
 - [Shroomish](_Bestiary/Shroomish.md)
 - [Blood Moss](_Bestiary/BloodMoss.md)

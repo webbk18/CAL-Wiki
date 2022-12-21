@@ -1,6 +1,6 @@
 ---
 title: "Blood Moss"
-permalink: /Lexicon/Blood_Moss/
+permalink: /Bestiary/Blood_Moss/
 layout: default
 ---
 # Blood Moss
