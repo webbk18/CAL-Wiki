@@ -21,6 +21,7 @@ layout: default
 - [Dani](_Characters/DivineDungeon/Dani.md)
 - [Eternium](_Characters/ArtoriansArchives/Eternium.md)
 - [Mages Guild](_Lexicon/MagesGuild.md)
+- [The Church](_Atlas/DivineDungeon/TheChurch.md)
 - [Kantor](_Characters/DivineDungeon/Kantor.md)
 - [Tim](_Characters/DivineDungeon/Tim.md)
 - [The Master](_Characters/DivineDungeon/TheMaster.md)
