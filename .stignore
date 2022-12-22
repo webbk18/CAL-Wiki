@@ -3,3 +3,7 @@
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/graph.json
+.obsidian/app.json
+.git/
+.gitignore.txt
+_config.yml

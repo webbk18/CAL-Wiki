@@ -1,0 +1,93 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "Books",
+      "color": {
+        "a": 1,
+        "rgb": 16768100
+      }
+    },
+    {
+      "query": "Characters",
+      "color": {
+        "a": 1,
+        "rgb": 7462994
+      }
+    },
+    {
+      "query": "Atlas",
+      "color": {
+        "a": 1,
+        "rgb": 14110945
+      }
+    },
+    {
+      "query": "Bestiary",
+      "color": {
+        "a": 1,
+        "rgb": 15443215
+      }
+    },
+    {
+      "query": "path:_Books",
+      "color": {
+        "a": 1,
+        "rgb": 16768100
+      }
+    },
+    {
+      "query": "path:_Characters",
+      "color": {
+        "a": 1,
+        "rgb": 7462994
+      }
+    },
+    {
+      "query": "path:_Atlas",
+      "color": {
+        "a": 1,
+        "rgb": 14110945
+      }
+    },
+    {
+      "query": "path:_Bestiary",
+      "color": {
+        "a": 1,
+        "rgb": 15443215
+      }
+    },
+    {
+      "query": "Lexicon",
+      "color": {
+        "a": 1,
+        "rgb": 3963100
+      }
+    },
+    {
+      "query": "path:_Lexicon",
+      "color": {
+        "a": 1,
+        "rgb": 3963100
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.2588386562181631,
+  "close": true
+}

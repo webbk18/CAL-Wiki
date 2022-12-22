@@ -6,7 +6,7 @@ layout: default
 # Dungeon Born
 ---
 **A powerful dungeon. A sheep-herder turned Noble. Their path to ascendance through cultivation.**
-
+webbk18#7704
 Conquering dungeons and using them to grow has long been the most efficient way to become a powerful adventurer. The only thing keeping the process from being easy is the Beasts that inhabit these places. Questions plague those entering this particular place of power: Where do the ‘rewards’ of weapons, armor, and heavy gold coins come from? Why is a fluffy bunny charging at me? For abyss-sake, why are there so many monsters?
 
 [Cal](../../_Characters/DivineDungeon/Cal.md) has all of the answers to these age-old questions for a very simple reason. He is a [Dungeon Core](../../_Lexicon/DungeonCore.md), a soul forced against his will into a magical stone. With the help of an energetic friend, [Cal](../../_Characters/DivineDungeon/Cal.md) grows a dungeon around himself to bring in new sources of power.
@@ -29,7 +29,7 @@ When a threat he doesn’t fully comprehend bares its many teeth, Cal is determi
 	- Angry Bearded Man
 	- Fourth Man
 	- Guy who falls into the pit
--  Initial Scouting Party
+-  Guild Scouting Party
 	- Elf
 	- Priest
 	- Human 2 
