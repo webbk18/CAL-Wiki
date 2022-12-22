@@ -66,10 +66,11 @@ Tier    Law
 - 55    Explosion
 - 66    Synergy
 - 79    Aurum
-- 98    Glory
+- 98    Glory ([Marie](../_Characters/ArtoriansArchives/Marie.md))
 - 98    Revelry
 - 98    Honor
-- 98    Valor
+- 98    Valor ([Henry](../_Characters/ArtoriansArchives/Henry.md))
+- 98    Berserker
 - 113    Art
 - 117    Luck
 - 555    Sun
