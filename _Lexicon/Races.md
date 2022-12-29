@@ -8,5 +8,6 @@ layout: default
 ## Sapient Races
 - [Humans](_Lexicon/Humans.md)
 - [Orcs](_Lexicon/Orcs.md)
-- [Elves](_Lexicon/Elves.md)
-- [Dwarves](_Lexicon/Dwarves.md)
+- [Elves](Elves.md)
+- [Dwarves](Dwarves.md)
+- [Goblins](Goblins.md)

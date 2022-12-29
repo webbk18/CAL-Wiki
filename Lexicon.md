@@ -6,6 +6,7 @@ layout: default
 ![lexicon](images/banners/lexicon.png)
 ---
 ## A
+- [A - Rank](CultivationRanks.md#A%20–)
 - [Adventurers Guild](_Characters/DivineDungeon/AdventurersGuild.md)
 - [Aura](_Lexicon/Aura.md)
 - [Affinity](_Lexicon/Affinity.md)
@@ -22,6 +23,7 @@ layout: default
 ## C
 - [Corruption](_Lexicon/Corruption.md)
 - [Cultivation](_Lexicon/Cultivation.md)
+- [CultivationRanks](CultivationRanks.md)
 - [Chi Spiral](_Lexicon/ChiSpiral.md)
 
 ---
@@ -96,7 +98,7 @@ layout: default
 
 ---
 ## R
-- [Races](Races.md)
+- [Races](_Lexicon/Races.md)
 
 ---
 ## S
