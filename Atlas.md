@@ -7,7 +7,11 @@ layout: default
 ---
 
 ## Artorian's Archives
+- [Alfheim](_Atlas/ArtoriansArchives/Alfheim.md)
 - [Skyspear Academy](_Atlas/ArtoriansArchives/SkyspearAcademy.md)
+- [Chasuble](_Atlas/ArtoriansArchives/Chasuble.md)
+- [Cal's Soul Space](_Atlas/ArtoriansArchives/CalSoulSpace.md)
+- [Eternium](_Atlas/ArtoriansArchives/EterniumLoc.md)
 
 
 ## Completionist Chronicles
@@ -16,7 +20,7 @@ layout: default
 - [The Shoe](_Atlas/CompletionistChronicles/TheShoe.md)
 
 ## Divine Dungeon
-- [TheChurch](_Atlas/DivineDungeon/TheChurch.md)
+- [The Church](_Atlas/DivineDungeon/TheChurch.md)
 - 
 
 ## Lion's Lineage

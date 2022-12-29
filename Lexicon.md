@@ -6,10 +6,12 @@ layout: default
 ![lexicon](images/banners/lexicon.png)
 ---
 ## A
-- [A - Rank](CultivationRanks.md#A%20–)
+- [A - Rank](_Lexicon/CultivationRanks.md#A%20–)
+- [Abyss](_Lexicon/Abyss.md)
 - [Adventurers Guild](_Characters/DivineDungeon/AdventurersGuild.md)
 - [Aura](_Lexicon/Aura.md)
 - [Affinity](_Lexicon/Affinity.md)
+- [Affinity Channel](_Lexicon/AffinityChannel.md)
 
 ---
 ## B
@@ -23,8 +25,9 @@ layout: default
 ## C
 - [Corruption](_Lexicon/Corruption.md)
 - [Cultivation](_Lexicon/Cultivation.md)
-- [CultivationRanks](CultivationRanks.md)
+- [CultivationRanks](_Lexicon/CultivationRanks.md)
 - [Chi Spiral](_Lexicon/ChiSpiral.md)
+- [Church, The ](_Lexicon/TheChurchOrg.md)
 
 ---
 ## D
@@ -99,6 +102,7 @@ layout: default
 ---
 ## R
 - [Races](_Lexicon/Races.md)
+- [Ranks - CC](_Lexicon/ccRanks.md)
 
 ---
 ## S
@@ -107,6 +111,7 @@ layout: default
 ---
 ## T
 - [Tower Laws](_Lexicon/Towerlaws.md)
+- [The Church](_Lexicon/TheChurchOrg.md)
 
 ---
 ## U

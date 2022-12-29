@@ -77,7 +77,7 @@ Tier    Law
 	 - Acceptance
 - 720    Chaos
 - 720    Madness
-- 720    Love ([Arty](../_Characters/DivineDungeon/Artorian.md))
+- 720    Love ([Arty](../_Characters/ArtoriansArchives/Artorian.md))
 - 720    Order ([Eternium](../_Characters/ArtoriansArchives/Eternium.md))
 - 721    Acme ([Cal](../_Characters/DivineDungeon/Cal.md))
 

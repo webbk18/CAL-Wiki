@@ -11,3 +11,4 @@ layout: default
 - [Elves](Elves.md)
 - [Dwarves](Dwarves.md)
 - [Goblins](Goblins.md)
+- [Wolfman](../Wolfman.md)

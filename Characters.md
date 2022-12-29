@@ -6,21 +6,27 @@ layout: default
 ![characters](images/banners/characters.png)
 ---
 ## Artorian's Archives
-- [Artorian](_Characters/DivineDungeon/Artorian.md)
+- [Artorian](_Characters/ArtoriansArchives/Artorian.md)
+- [Alhambra](_Characters/ArtoriansArchives/Alhambra.md)
+- [Amaterasu](Ember.md)
+- [Ammy](Ember.md)
+- [Ember](Ember.md)
 - [Garuda](_Characters/Garuda.md)
 - [Zephyr](_Characters/ArtoriansArchives/Zephyr.md)
+- [Adam](_Characters/ArtoriansArchives/Adam.md)
 
 ## Completionist Chronicles
 - [Jake](_Characters/Jake.md)
 
 ## Divine Dungeon
 - [Adventurers Guild](_Characters/DivineDungeon/AdventurersGuild.md)
-- [Artorian](_Characters/DivineDungeon/Artorian.md)
+- [Artorian](_Characters/ArtoriansArchives/Artorian.md)
 - [Cal](_Characters/DivineDungeon/Cal.md)
 - [Craig](_Characters/DivineDungeon/Craig.md)
 - [Dale](_Characters/DivineDungeon/Dale.md)
 - [Dani](_Characters/DivineDungeon/Dani.md)
 - [Eternium](_Characters/ArtoriansArchives/Eternium.md)
+- [Ember](Ember.md)
 - [Mages Guild](_Lexicon/MagesGuild.md)
 - [The Church](_Atlas/DivineDungeon/TheChurch.md)
 - [Kantor](_Characters/DivineDungeon/Kantor.md)
