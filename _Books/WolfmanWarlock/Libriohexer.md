@@ -69,6 +69,7 @@ Sam didn’t choose the path of a Wolfman Warlock out of a sense of duty, but as
 1. Ambush of the [Rabid Inquisitors](../../_Characters/WolfmanWarlock/RabidInquisitors.md), Sam Hits Level 10
 2. Description of [Narvik](../../_Atlas/WolfmanWarlock/Narvik.md) and the occupants 
 3. [Sam](../../_Characters/WolfmanWarlock/Sam.md) and his guild, [TheWolfpack](../../_Characters/WolfmanWarlock/TheWolfpack.md) get the news that [Narvik](../../_Atlas/WolfmanWarlock/Narvik.md) is moving to [The Forest of Chlorophyll Chaos](../../_Atlas/WolfmanWarlock/TheForestofChlorophyllChaos.md) and that they can't join the wolfmen there.
-5. Sam raises hits his Intelligence threshold and with the help of [Bill](../../_Characters/WolfmanWarlock/Bill.md) connects his mana to the pathways 
-6. [Irondown Burrows](../../_Atlas/WolfmanWarlock/IrondownBurrows.md) and how to protect themselves and the future base discussed
-7. The trip to the Dungeon and the start of the claiming
+4. Sam raises hits his Intelligence threshold and with the help of [Bill](../../_Characters/WolfmanWarlock/Bill.md) connects his mana to the pathways 
+5. [Irondown Burrows](../../_Atlas/WolfmanWarlock/IrondownBurrows.md) and how to protect themselves and the future base discussed
+6. The trip to the Dungeon and the start of the claiming
+

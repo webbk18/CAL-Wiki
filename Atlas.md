@@ -8,6 +8,7 @@ layout: default
 
 ## Artorian's Archives
 - [Alfheim](_Atlas/ArtoriansArchives/Alfheim.md)
+- [Asgard](_Atlas/ArtoriansArchives/Asgard.md)
 - [Skyspear Academy](_Atlas/ArtoriansArchives/SkyspearAcademy.md)
 - [Chasuble](_Atlas/ArtoriansArchives/Chasuble.md)
 - [Cal's Soul Space](_Atlas/ArtoriansArchives/CalSoulSpace.md)
