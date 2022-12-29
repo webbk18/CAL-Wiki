@@ -11,9 +11,12 @@ layout: default
 - [Amaterasu](_Characters/ArtoriansArchives/Ember.md)
 - [Ammy](_Characters/ArtoriansArchives/Ember.md)
 - [Amber](_Characters/DivineDungeon/Amber.md)
+- [Anders](_Characters/ArtoriansArchives/Anders.md)
+- [Astrea](_Characters/ArtoriansArchives/Astrea.md)
 - [Ember](_Characters/ArtoriansArchives/Ember.md)
 - [Garuda](_Characters/Garuda.md)
 - [Sunny](_Characters/ArtoriansArchives/Artorian.md)
+- [Jiivra](_Characters/ArtoriansArchives/Jiivra.md)
 - [Zephyr](_Characters/ArtoriansArchives/Zephyr.md)
 - [Adam](_Characters/ArtoriansArchives/Adam.md)
 

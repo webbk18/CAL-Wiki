@@ -14,6 +14,8 @@ layout: default
 - [Golem](_Bestiary/Golem.md)
 
 ## Divine Dungeon
+- [Assimilator](_Bestiary/Assimilator.md)
+- [Aranea](_Bestiary/Aranea.md)
 - [Bane](_Bestiary/DireShroom.md)
 - [Basher](_Bestiary/Basher.md)
 - [Dire Shroom](_Bestiary/DireShroom.md)

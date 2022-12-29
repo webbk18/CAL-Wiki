@@ -79,7 +79,7 @@ Tier    Law
 - 720    Madness
 - 720    Love ([Arty](../_Characters/ArtoriansArchives/Artorian.md))
 - 720    Order ([Eternium](../_Characters/ArtoriansArchives/Eternium.md))
-- 721    Acme ([Cal](../_Characters/DivineDungeon/Cal.md))
+- 721    [Acme](Acme.md) ([Cal](../_Characters/DivineDungeon/Cal.md))
 
 
 ### To sort / Verify
