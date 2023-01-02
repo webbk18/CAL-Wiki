@@ -107,6 +107,15 @@ Tier    Law
 | 2    | 5/6    |           |
 | 2    | 6/6    |           |
 
+| Tier 1 Laws      |     | 
+| --------- | --- |
+| Air       |    |
+| Celestial |   |
+| Earth     |     |
+| Fire      |     |
+| Infernal  |     |
+| Water     |     |
+
 ### To sort / Verify
 - 7- Bernoulli
 - Flame
