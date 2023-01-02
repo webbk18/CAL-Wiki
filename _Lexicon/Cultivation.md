@@ -5,7 +5,7 @@ layout: default
 ---
 # Cultivation 
 ---
-The act of absorbing [Essence](_Lexicon/Essence.md) often through meditation.
+The act of absorbing [Essence](Essence.md) often through meditation.
 
 ## Cultivation Levels
 From lowest to highest with 10 levels within each rank 0-9

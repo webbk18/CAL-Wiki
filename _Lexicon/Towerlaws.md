@@ -315,7 +315,7 @@ Tier    Law
 - 98 Revelry
 - 98 Honor
 - 98 Valor ([Henry](../_Characters/ArtoriansArchives/Henry.md))
-- 98 Berserkr
+- 98 Berserkr ([Aiden](../_Characters/ArtoriansArchives/AidenSilverfang.md))
 - 113 Art
 - 117 Luck
 - 555 Sun ([Ammy](../_Characters/ArtoriansArchives/Ember.md))
