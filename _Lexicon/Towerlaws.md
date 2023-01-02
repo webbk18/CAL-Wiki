@@ -27,7 +27,7 @@ Tier    Law
 - 3
 - 3
 - 4 Nature 
-- 4 Portals
+- 4 Portals ([Amber](../_Characters/DivineDungeon/Amber.md))
 - 4 Ice
 - 4 Shadows
 - 4 Darkness
@@ -311,6 +311,7 @@ Tier    Law
 - 55 Explosion
 - 66 Synergy
 - 79 Aurum
+- 97 Spiral (Ulam)
 - 98 Glory ([Marie](../_Characters/ArtoriansArchives/Marie.md))
 - 98 Revelry
 - 98 Honor
@@ -330,16 +331,16 @@ Tier    Law
 - 721 [Acme](Acme.md) ([Cal](../_Characters/DivineDungeon/Cal.md))
 
 
-| Tier 1 Laws | Character | Heavenly |
+| Tier 1 Laws | Characters | Heavenly |
 | ----------- | --------- | --- |
 | Air         |           | |
 | Celestial   |           | |
 | Earth       |           | |
-| Fire        |           | |
+| Fire        |           | Shaka |
 | Infernal    |           | | 
 | Water       |           | |
 
-| Tier 2 Laws      |   Character   | Heavenly |
+| Tier 2 Laws      |   Characters   | Heavenly |
 | --------- | --- |---|
 |    Effervescence    |   Minya | |
 | Chaos |   | |
@@ -348,7 +349,7 @@ Tier    Law
 |   |     | |
 |      |      |  |
 
-| Tier 3 Laws | Character | Heavenly |
+| Tier 3 Laws | Characters | Heavenly |
 | ----------- | --------- | -------- |
 | Force       |           |          |
 |             |           |          |
@@ -357,16 +358,16 @@ Tier    Law
 |             |           |          |
 |             |           |          |
 
-| Tier 4 Laws | Character | Heavenly |
+| Tier 4 Laws | Characters | Heavenly |
 | ----------- | --------- | -------- |
 | Darkness    |           |          |
 | Ice         |           |          |
 | Light       |           |          |
 | Nature      |           |          |
-| Portals     |    [Amber](../_Characters/DivineDungeon/Amber.md)       |          |
+| Portals     |    [Amber](../_Characters/DivineDungeon/Amber.md), Soni      |          |
 | Shadows            |           |          |
 
-| Tier 5 Laws   | Character | Heavenly |
+| Tier 5 Laws   | Characters | Heavenly |
 | ------------- | --------- | -------- |
 | Ambiguity     |           |          |
 | Annoyance     |           |          |
@@ -387,7 +388,7 @@ Tier    Law
 - Monachopsis
 - Moss
 - Blood , Everywhere
-- 
+-  Spiral - Ulam
 
 > "Don’t make nodes in the Tower unless it follows the pattern! Six per
 floor. It was six per floor!”
