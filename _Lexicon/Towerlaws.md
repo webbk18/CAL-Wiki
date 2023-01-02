@@ -14,6 +14,7 @@ Tier    Law
 - 1     Earth
 - 1     Celestial
 - 1     Infernal
+- 2     Effervescence (Minya)
 - 3     
 - 4    Nature 
 - 4    Portals
@@ -89,6 +90,8 @@ Tier    Law
 - 720    Love ([Arty](../_Characters/ArtoriansArchives/Artorian.md))
 - 721    [Acme](Acme.md) ([Cal](../_Characters/DivineDungeon/Cal.md))
 
+
+## Style 1
 | Tier | Number | Law       |
 | ---- | ------ | --------- |
 | 1    | 1/6    | Air       |
@@ -107,7 +110,8 @@ Tier    Law
 | 2    | 5/6    |           |
 | 2    | 6/6    |           |
 
-| Tier 1 Laws      |   Heavenly?  | 
+## Style 2
+| Tier 1 Laws      |   Character   | 
 | --------- | --- |
 | Air       |    |
 | Celestial |   |
@@ -115,6 +119,15 @@ Tier    Law
 | Fire      |     |
 | Infernal  |     |
 | Water     |     |
+
+| Tier 2 Laws      |   Character   | 
+| --------- | --- |
+|    Effervescence    |   Minya |
+|  |   |
+|      |     |
+|       |     |
+|   |     |
+|      |     |
 
 ### To sort / Verify
 - 7- Bernoulli
