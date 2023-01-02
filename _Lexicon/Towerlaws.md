@@ -92,7 +92,7 @@ Tier    Law
 - 14 Retribution
 - 14 Empathy
 - 14 Sympathy
-- 15
+- 15 Apathy
 - 15
 - 15
 - 15
