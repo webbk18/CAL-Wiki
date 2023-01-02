@@ -94,6 +94,7 @@ Tier    Law
 
 
 ## Style 1
+
 | Tier | Number | Law       |
 | ---- | ------ | --------- |
 | 1    | 1/6    | Air       |
@@ -113,6 +114,7 @@ Tier    Law
 | 2    | 6/6    |           |
 
 ## Style 2
+
 | Tier 1 Laws      |   Character   | 
 | --------- | --- |
 | Air       |    |
