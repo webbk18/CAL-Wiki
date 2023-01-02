@@ -80,14 +80,13 @@ Tier    Law
 - 117    Luck
 - 555    Sun
 	 - Acceptance
-- 720    Order
+- 720    Order ([Eternium](../_Characters/ArtoriansArchives/Eternium.md))
 - 720    Discord
 - 720    Chaos
 - 720    Entropy
 - 720    Madness
 - 720    Matter
 - 720    Love ([Arty](../_Characters/ArtoriansArchives/Artorian.md))
-- 720    Order ([Eternium](../_Characters/ArtoriansArchives/Eternium.md))
 - 721    [Acme](Acme.md) ([Cal](../_Characters/DivineDungeon/Cal.md))
 
 | Tier | Number | Law       |
@@ -118,7 +117,6 @@ Tier    Law
 - Death
 - Time
 	- Something about Flesh-Sculpting
-- Kenopsia
 - Monachopsis
 - Moss
 
