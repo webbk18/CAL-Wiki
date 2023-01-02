@@ -15,8 +15,8 @@ Tier    Law
 - 1 Celestial
 - 1 Infernal
 - 2 Effervescence (Minya)
+- 2 Chaos
 - 2 Lava
-- 2
 - 2
 - 2
 - 2
@@ -330,29 +330,7 @@ Tier    Law
 - 721 [Acme](Acme.md) ([Cal](../_Characters/DivineDungeon/Cal.md))
 
 
-## Style 1
-
-| Tier | Number | Law       |
-| ---- | ------ | --------- |
-| 1    | 1/6    | Air       |
-| 1    | 2/6    | Celestial | 
-| 1    | 3/6    | Earth       |
-| 1    | 4/6    | Fire         |
-| 1    | 5/6    |    Infernal       |
-| 1    | 6/6    |    Water       |
-
-| Tier | Number | Law       |
-| ---- | ------ | --------- |
-| 2    | 1/6    |        |
-| 2    | 2/6    |  | 
-| 2    | 3/6    |        |
-| 2    | 4/6    |          |
-| 2    | 5/6    |           |
-| 2    | 6/6    |           |
-
-## Style 2
-
-| Tier 1 Laws | Character | Ascended |
+| Tier 1 Laws | Character | Heavenly |
 | ----------- | --------- | --- |
 | Air         |           | |
 | Celestial   |           | |
@@ -361,20 +339,46 @@ Tier    Law
 | Infernal    |           | | 
 | Water       |           | |
 
-| Tier 2 Laws      |   Character   | 
-| --------- | --- |
-|    Effervescence    |   Minya |
-| Lava |   |
-|      |     |
-|       |     |
-|   |     |
-|      |     |
+| Tier 2 Laws      |   Character   | Heavenly |
+| --------- | --- |---|
+|    Effervescence    |   Minya | |
+| Chaos |   | |
+|   Lava  |     | |
+|       |     | |
+|   |     | |
+|      |      |  |
+
+| Tier 3 Laws | Character | Heavenly |
+| ----------- | --------- | -------- |
+| Force       |           |          |
+|             |           |          |
+|             |           |          |
+|             |           |          |
+|             |           |          |
+|             |           |          |
+
+| Tier 4 Laws | Character | Heavenly |
+| ----------- | --------- | -------- |
+| Darkness    |           |          |
+| Ice         |           |          |
+| Light       |           |          |
+| Nature      |           |          |
+| Portals     |    [Amber](../_Characters/DivineDungeon/Amber.md)       |          |
+| Shadows            |           |          |
+
+| Tier 5 Laws   | Character | Heavenly |
+| ------------- | --------- | -------- |
+| Ambiguity     |           |          |
+| Annoyance     |           |          |
+| Argumentation |           |          |
+| Contradiction |           |          |
+| Recursion     |           |          |
+| Sardonicism       |           |          |
+
 
 ### To sort / Verify
 - 7- Bernoulli
 - Flame
-- Infernal
-- Ice
 - Time
 - Holy Fire
 - Death
@@ -382,7 +386,8 @@ Tier    Law
 	- Something about Flesh-Sculpting
 - Monachopsis
 - Moss
-
+- Blood , Everywhere
+- 
 
 > "Don’t make nodes in the Tower unless it follows the pattern! Six per
 floor. It was six per floor!”
