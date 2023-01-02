@@ -90,6 +90,23 @@ Tier    Law
 - 720    Order ([Eternium](../_Characters/ArtoriansArchives/Eternium.md))
 - 721    [Acme](Acme.md) ([Cal](../_Characters/DivineDungeon/Cal.md))
 
+| Tier | Number | Law       |
+| ---- | ------ | --------- |
+| 1    | 1/6    | Air       |
+| 1    | 2/6    | Celestial | 
+| 1    | 3/6    | Earth       |
+| 1    | 4/6    | Fire         |
+| 1    | 5/6    |    Infernal       |
+| 1    | 6/6    |    Water       |
+
+| Tier | Number | Law       |
+| ---- | ------ | --------- |
+| 2    | 1/6    |        |
+| 2    | 2/6    |  | 
+| 2    | 3/6    |        |
+| 2    | 4/6    |          |
+| 2    | 5/6    |           |
+| 2    | 6/6    |           |
 
 ### To sort / Verify
 - 7- Bernoulli
