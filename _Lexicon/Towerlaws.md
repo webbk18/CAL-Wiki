@@ -8,87 +8,89 @@ layout: default
 *Plz floof we need AA13*
 
 Tier    Law
-- 1     Fire
-- 1     Water
-- 1     Air
-- 1     Earth
-- 1     Celestial
-- 1     Infernal
-- 2     Effervescence (Minya)
-- 3     
-- 4    Nature 
-- 4    Portals
-- 4    Ice
-- 4    Shadows
-- 4    Darkness
-- 4    Light
-- 5    Annoyance
-- 5    Ambiguity
-- 5    Recursion
-- 5    Sardonicism
-- 5    Argumentation
-- 5    Contradiction
-- 6    Pride
-- 6    Pedantry
-- 6    Snark
-- 6    Spite
-- 6    Laws
-- 6    Cultivation
-- 7    Calibration
-- 7    Metrology
-- 7    Barrier
-- 7    Corrosion
-- 7    Disease
-- 7    Onion
-- 12    Sleep
-- 12   Empyreal
-- 12   Knock (Ellis)
-- 12    Sonder
-- 12   Zeal
-- 12   Kenopsia
-- 13    Hunger
-- 13    Bone
-- 13    Violence
-- 13    Sand
-- 13    Annoyance
-- 13    Greed
-- 14    Redemption
-- 14    Compassion
-- 14    Devotion
-- 14    Retribution
-- 14    Empathy
--  14   Sympathy
-- 30    Acceleration
-- 31    Celebration
-- 41    Hitchhiking
-- 42    Knowledge
-- 42    Questions
-- 42    Answers
-- 42    Towel
-- 42    Probability
-- 42    Improbability
-- 47    Arbor
-- 47    Argent
-- 55    Explosion
-- 66    Synergy
-- 79    Aurum
-- 98    Glory ([Marie](../_Characters/ArtoriansArchives/Marie.md))
-- 98    Revelry
-- 98    Honor
-- 98    Valor ([Henry](../_Characters/ArtoriansArchives/Henry.md))
-- 98    Berserker
-- 113    Art
-- 117    Luck
-- 555    Sun
+- 1 Fire
+- 1 Water
+- 1 Air
+- 1 Earth
+- 1 Celestial
+- 1 Infernal
+- 2 Effervescence (Minya)
+- 2 Lava
+- 
+- 3 
+- 4 Nature 
+- 4 Portals
+- 4 Ice
+- 4 Shadows
+- 4 Darkness
+- 4 Light
+- 5 Annoyance
+- 5 Ambiguity
+- 5 Recursion
+- 5 Sardonicism
+- 5 Argumentation
+- 5 Contradiction
+- 6 Pride
+- 6 Pedantry
+- 6 Snark
+- 6 Spite
+- 6 Laws
+- 6 Cultivation
+- 7 Calibration
+- 7 Metrology
+- 7 Barrier
+- 7 Corrosion
+- 7 Disease
+- 7 Onion
+- 12 Sleep
+- 12 Empyreal
+- 12 Knock (Ellis)
+- 12 Sonder
+- 12 Zeal
+- 12 Kenopsia
+- 13 Hunger
+- 13 Bone
+- 13 Violence
+- 13 Sand
+- 13 Annoyance
+- 13 Greed
+- 14 Redemption
+- 14 Compassion
+- 14 Devotion
+- 14 Retribution
+- 14 Empathy
+-  14 Sympathy
+- 30 Acceleration
+- 31 Celebration
+- 41 Hitchhiking
+- 42 Knowledge
+- 42 Questions
+- 42 Answers
+- 42 Towel
+- 42 Probability
+- 42 Improbability
+- 47 Arbor
+- 47 Argent
+- 55 Explosion
+- 66 Synergy
+- 79 Aurum
+- 98 Glory ([Marie](../_Characters/ArtoriansArchives/Marie.md))
+- 98 Revelry
+- 98 Honor
+- 98 Valor ([Henry](../_Characters/ArtoriansArchives/Henry.md))
+- 98 Berserker
+- 113 Art
+- 117 Luck
+- 555 Sun
 	 - Acceptance
-- 720    Order ([Eternium](../_Characters/ArtoriansArchives/Eternium.md))
-- 720    Discord
-- 720    Chaos
-- 720    Entropy
-- 720    Madness
-- 720    Matter
-- 720    Love ([Arty](../_Characters/ArtoriansArchives/Artorian.md))
-- 721    [Acme](Acme.md) ([Cal](../_Characters/DivineDungeon/Cal.md))
+- 720 Order ([Eternium](../_Characters/ArtoriansArchives/Eternium.md))
+- 720 Discord
+- 720 Chaos
+- 720 Entropy
+- 720 Madness
+- 720 Matter
+- 720 Love ([Arty](../_Characters/ArtoriansArchives/Artorian.md))
+- 721 [Acme](Acme.md) ([Cal](../_Characters/DivineDungeon/Cal.md))
 
 
 ## Style 1
@@ -123,7 +125,7 @@ Tier    Law
 | Tier 2 Laws      |   Character   | 
 | --------- | --- |
 |    Effervescence    |   Minya |
-|  |   |
+| Lava |   |
 |      |     |
 |       |     |
 |   |     |
