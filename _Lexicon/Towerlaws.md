@@ -10,6 +10,10 @@ layout: default
 Tier    Law
 - 1     Fire
 - 1     Water
+- 1     Air
+- 1     Earth
+- 1     Celestial
+- 1     Infernal
 - 4    Nature 
 - 4    Portals
 - 4    Ice
