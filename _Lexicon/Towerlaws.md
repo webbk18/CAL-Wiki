@@ -79,7 +79,7 @@ Tier    Law
 - 12 Knock (Ellis)
 - 12 Sonder
 - 12 Zeal
-- 12 Kenopsia
+- 12 Kenopsia (Yuki)
 - 13 Hunger
 - 13 Bone
 - 13 Violence
@@ -315,10 +315,10 @@ Tier    Law
 - 98 Revelry
 - 98 Honor
 - 98 Valor ([Henry](../_Characters/ArtoriansArchives/Henry.md))
-- 98 Berserker
+- 98 Berserkr
 - 113 Art
 - 117 Luck
-- 555 Sun
+- 555 Sun ([Ammy](../_Characters/ArtoriansArchives/Ember.md))
 	 - Acceptance
 - 720 Order ([Eternium](../_Characters/ArtoriansArchives/Eternium.md))
 - 720 Discord
@@ -352,14 +352,14 @@ Tier    Law
 
 ## Style 2
 
-| Tier 1 Laws      |   Character   | 
-| --------- | --- |
-| Air       |    |
-| Celestial |   |
-| Earth     |     |
-| Fire      |     |
-| Infernal  |     |
-| Water     |     |
+| Tier 1 Laws | Character | Ascended |
+| ----------- | --------- | --- |
+| Air         |           | |
+| Celestial   |           | |
+| Earth       |           | |
+| Fire        |           | |
+| Infernal    |           | | 
+| Water       |           | |
 
 | Tier 2 Laws      |   Character   | 
 | --------- | --- |
