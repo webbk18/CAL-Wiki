@@ -36,6 +36,7 @@ layout: default
 - [Dungeon Born](_Lexicon/DungeonBornC.md)
 - [DungeonBoss](_Lexicon/DungeonBoss.md)
 - [Dungeon Core](_Lexicon/DungeonCore.md)
+- [Dungeon Tower Laws](CoreTowerLaws.md)
 - [Dungeon Monster](_Lexicon/DungeonMonster.md)
 
 ---

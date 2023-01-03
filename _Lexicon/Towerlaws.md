@@ -1,5 +1,5 @@
 ---
-title: "Tower Laws"
+title: "Cultivation Tower Laws"
 permalink: /Lexicon/Tower_Laws/
 layout: default
 ---
@@ -15,18 +15,19 @@ Tier    Law
 - 1 Celestial
 - 1 Infernal
 - 2 Effervescence (Minya)
-- 2 Chaos
+- 2 Plant
 - 2 Lava
-- 2
-- 2
-- 2
+- 2 Lightning
+	- 2 Remembrance 
+- 2 Metal
+- 2 Disenchantment
 - 3 Force
-- 3
-- 3
-- 3
-- 3
-- 3
-- 4 Nature 
+- 3 Hellfire
+- 3 Cursed Weapon
+- 3 Arrogance
+- 3 Nature (Chandra)
+- 3 Eruption
+- 4 
 - 4 Portals ([Amber](../_Characters/DivineDungeon/Amber.md))
 - 4 Ice
 - 4 Shadows
@@ -183,7 +184,7 @@ Tier    Law
 - 29
 - 29
 - 30 Acceleration
-- 30
+- 30 Copper
 - 30
 - 30
 - 30
@@ -324,10 +325,15 @@ Tier    Law
 - 720 Order ([Eternium](../_Characters/ArtoriansArchives/Eternium.md))
 - 720 Discord
 - 720 Chaos
+- 720 Creativity
 - 720 Entropy
 - 720 Madness
 - 720 Matter
 - 720 Love ([Arty](../_Characters/ArtoriansArchives/Artorian.md))
+- 720
+- 720
+- 720
+- 720
 - 721 [Acme](Acme.md) ([Cal](../_Characters/DivineDungeon/Cal.md))
 
 
@@ -389,6 +395,7 @@ Tier    Law
 - Moss
 - Blood , Everywhere
 -  Spiral - Ulam
+- remembrance (Deverash)
 
 > "Don’t make nodes in the Tower unless it follows the pattern! Six per
 floor. It was six per floor!”
