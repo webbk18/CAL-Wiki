@@ -48,8 +48,8 @@ cssclass: [dashboard]
 1. [Bibliomancer](_Books/WolfmanWarlock/Bibliomancer.md) (2019)
 2. [Libriohexer](_Books/WolfmanWarlock/Libriohexer.md) (2021)
 
-# [ExpandedUniverse](_Books/ExpandedUniverse/ExpandedUniverse.md)
-- [Essence](_Books/ExpandedUniverse/Essence.md) (2019)
+# [ExpandedUniverse](Books/ExpandedUniverse/ExpandedUniverse.md)
+- [Essence](Books/ExpandedUniverse/Essence.md) (2019)
 
 
 --- 
