@@ -13,6 +13,8 @@ layout: default
 - [Aura](_Lexicon/Aura.md)
 - [Affinity](_Lexicon/Affinity.md)
 - [Affinity Channel](_Lexicon/AffinityChannel.md)
+- [Array](_Lexicon/Array.md)
+- 
 
 ---
 ## B
@@ -48,6 +50,7 @@ layout: default
 ## F
 - [Fireball](_Lexicon/Fireball.md)
 - [FireShuriken](_Lexicon/FireShuriken.md)
+- [Formation](_Lexicon/Formation.md)
 
 ---
 ## G
@@ -109,6 +112,8 @@ layout: default
 ---
 ## S
 - [Silverwood Tree](_Lexicon/SilverwoodTree.md)
+- [Sigil](_Lexicon/Sigil.md)
+- [Script](_Lexicon/Script.md)
 
 ---
 ## T
