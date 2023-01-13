@@ -53,5 +53,5 @@ layout: default
 - [ ] 1. [Bibliomancer](_Books/WolfmanWarlock/Bibliomancer.md) (2019)
 
 
-# [ExpandedUniverse](../Books/ExpandedUniverse/ExpandedUniverse.md)
-- [ ]  [Essence](../Books/ExpandedUniverse/Essence.md) (2019)
+# [ExpandedUniverse](ExpandedUniverse/ExpandedUniverse.md)
+- [ ]  [Essence](ExpandedUniverse/Essence.md) (2019)
