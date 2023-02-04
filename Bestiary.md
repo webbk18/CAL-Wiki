@@ -8,7 +8,12 @@ layout: default
 
 
 ## Artorian's Archives
-- 
+- [Long](_Bestiary/AA/Long.md)
+- [Noodle Dragon](_Bestiary/AA/Long.md)
+- [Blanket](_Bestiary/AA/Blanket.md)
+- [Ratatoskr](_Bestiary/AA/Ratatoskr.md)
+- [Oni](_Bestiary/AA/Oni.md)
+- [Nyanderthal](_Bestiary/AA/Nyanderthal.md)
 
 ## Completionist Chronicles
 - [Golem](_Bestiary/Golem.md)

@@ -8,97 +8,127 @@ layout: default
 *Plz floof we need AA14*
 
 Tier    Law
-- 1 Fire
+- - 1 Celestial
+- 1 Infernal
+- 1 Fire - [Shaka](../_Characters/ArtoriansArchives/Shaka.md)
 - 1 Water
 - 1 Air
 - 1 Earth
-- 1 Celestial
-- 1 Infernal
-- 2 Effervescence (Minya)
-- 2 Plant
-- 2 Lava
+
 - 2 Lightning
 	- 2 Remembrance 
 - 2 Metal
+- 2 Effervescence (Minya)
+	- Cloud
+- 2 Plant
+	- Fungus
+	- Quicksand
+	- Mud
+- 2 Acid
+	- Hel-fire/Hell-fire/Heck-fire
 - 2 Disenchantment
-- 3 Force
-- 3 Hellfire
-- 3 Cursed Weapon
+- *2 Lava?*
+
+- 3 Poison
+- 3 Steam
+	- Force - *Two essence Variant*
+- 3 Curse
+	- Cursed Weapon
 - 3 Arrogance
-- 3 Nature (Chandra)
+- 3 Holy Fire - **Urtu**
 - 3 Eruption
-- 4 
+
+- 4 Nature (Chandra) *Three Essence Variant*
+	- Wood
+	- Animals
+	- Flowers
 - 4 Portals ([Amber](../_Characters/DivineDungeon/Amber.md))
 - 4 Ice
 - 4 Shadows
 - 4 Darkness
 - 4 Light
+
 - 5 Annoyance
 - 5 Ambiguity
 - 5 Recursion
 - 5 Sardonicism
 - 5 Argumentation
 - 5 Contradiction
-- 6 Pride
+
 - 6 Pedantry
+- 6 Pride
+	- Rainbow - Technically secondary node of **Light**
+	- Illusion
 - 6 Snark
 - 6 Spite
 - 6 Laws
 - 6 Cultivation
+
 - 7 Calibration
-- 7 Metrology
 - 7 Barrier
-- 7 Corrosion
 - 7 Disease
+- 7 Metrology
+- 7 Corrosion
 - 7 Onion
-- 8
-- 8
-- 8
-- 8
-- 8
-- 8
-- 9
-- 9
-- 9
-- 9
-- 9
-- 9
-- 10
-- 10
-- 10
-- 10
-- 10
-- 10
-- 11
-- 11
-- 11
-- 11
-- 11
-- 11
-- 12 Sleep
-- 12 Empyreal
+
+- 8 Sound
+- 8 Magnetism
+- 8 Gemstone
+	- Stone
+- 8 Pylon
+- 8 Color
+- 8 Refraction
+
+- 9 Cheese
+- 9 Bread
+- 9 Beer
+- 9 Sword
+- 9 Games
+- 9 Wine
+
+- 10 Analysis
+- 10 Mathematics
+- 10 Binary
+- 10 Geometry
+- 10 Topology
+- 10 Nuts
+
+- 11 Algorithm
+- 11 Logarithm
+- 11 Exponential
+- 11 Engineering
+- 11 Statistics
+- 11 Bolts
+
+- 12 Sleep - Sonmum
+- 12 Empyreal (Wo'ah The Wise)
 - 12 Knock (Ellis)
-- 12 Sonder
-- 12 Zeal
+- 12 Sonder *(Richard?)*
+- 12 Zeal *(Somnus?)*
 - 12 Kenopsia (Yuki)
+
 - 13 Hunger
 - 13 Bone
 - 13 Violence
+	- unknown
 - 13 Sand
 - 13 Annoyance
 - 13 Greed
+
 - 14 Redemption
 - 14 Compassion
 - 14 Devotion
 - 14 Retribution
 - 14 Empathy
 - 14 Sympathy
+
 - 15 Apathy
-- 15
-- 15
-- 15
-- 15
-- 15
+- 15 Sorrow
+- 15 Death (Bob)
+- 15 Force *Three Essence Variant*
+- 15 Blood
+- 15 Grief
+
 - 16
 - 16
 - 16
@@ -318,10 +348,13 @@ Tier    Law
 - 98 Honor
 - 98 Valor ([Henry](../_Characters/ArtoriansArchives/Henry.md))
 - 98 Berserkr ([Aiden](../_Characters/ArtoriansArchives/AidenSilverfang.md))
+- 104 Nature *Four Essence Variant*
 - 113 Art
 - 117 Luck
+- 304 Nature *Five Essence Variant*
 - 555 Sun ([Ammy](../_Characters/ArtoriansArchives/Ember.md))
 	 - Acceptance
+- 604 Nature *Six Essence Variant*
 - 720 Order ([Eternium](../_Characters/ArtoriansArchives/Eternium.md))
 - 720 Discord
 - 720 Chaos

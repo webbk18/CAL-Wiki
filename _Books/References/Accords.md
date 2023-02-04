@@ -9,7 +9,7 @@ layout: default
 ### Navigation
 | Previous Book   | Following Book    | All Books                  |
 | ------------ | -------------| ----------------------- |
-| [Acyrologia](Acyrologia.md) | [Avalon](Avalon.md) | [Pop Culture References](../PopCultureReferences.md)                               |
+| [Acyrologia](Acyrologia.md) | [Avalon](../ArtoriansArchives/Avalon.md) | [Pop Culture References](../PopCultureReferences.md)                               |
 
 
 _References are sorted chronologically by chapter number._

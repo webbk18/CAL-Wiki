@@ -11,8 +11,10 @@ layout: default
 - [Asgard](_Atlas/ArtoriansArchives/Asgard.md)
 - [Skyspear Academy](_Atlas/ArtoriansArchives/SkyspearAcademy.md)
 - [Chasuble](_Atlas/ArtoriansArchives/Chasuble.md)
+- [Crème de la Crème à la Edgar](_Atlas/ArtoriansArchives/CrèmedelaCrèmeàlaEdgar.md)
 - [Cal's Soul Space](_Atlas/ArtoriansArchives/CalSoulSpace.md)
 - [Eternium](_Atlas/ArtoriansArchives/EterniumLoc.md)
+- [Nidavellir](_Atlas/ArtoriansArchives/Nidavellir.md)
 
 
 ## Completionist Chronicles

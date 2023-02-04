@@ -34,7 +34,8 @@ layout: default
 
 ---
 ## D
-- [DakotaKrout](_Lexicon/DakotaKrout.md)
+- [Dakota Krout](_Lexicon/DakotaKrout.md)
+- [Dennis Vanderkerken](_Lexicon/DennisVanderkerken.md)
 - [Dungeon Born](_Lexicon/DungeonBornC.md)
 - [DungeonBoss](_Lexicon/DungeonBoss.md)
 - [Dungeon Core](_Lexicon/DungeonCore.md)
@@ -68,7 +69,8 @@ layout: default
 
 ---
 ## J
-- [JamesHunter](_Lexicon/JamesHunter.md)
+- [James Hunter](_Lexicon/JamesHunter.md)
+- [John Pirhalla](_Lexicon/JohnPirhalla.md)
 
 ---
 ## K
@@ -84,11 +86,13 @@ layout: default
 - [Mages Guild](_Lexicon/MagesGuild.md)
 - [Mob](_Lexicon/DungeonMonster.md)
 - [Moss](_Lexicon/Moss.md)
+- [M.F.B.T.](_Lexicon/M.F.B.T..md)
 - [Memory Stone](_Lexicon/MemoryStone.md)
 
 ---
 ## N
 - [Nick Podehl](_Lexicon/NickPodehl.md)
+- [Nyanderthal](_Bestiary/AA/Nyanderthal.md)
 
 ---
 ## O
@@ -112,6 +116,7 @@ layout: default
 ---
 ## S
 - [Silverwood Tree](_Lexicon/SilverwoodTree.md)
+- [Silverwood Bracelet](_Lexicon/SilverwoodBracelet.md)
 - [Sigil](_Lexicon/Sigil.md)
 - [Script](_Lexicon/Script.md)
 
