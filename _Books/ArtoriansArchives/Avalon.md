@@ -1,29 +1,49 @@
 ---
-title: "Avalon References"
-permalink: /Lexicon/Avalon/
+title: "Avalon"
+permalink: /Artorians_Archives/Avalon/
 layout: default
 ---
+# Avalon
+---
+book blurb / description
 
-# Pop Culture References
---- 
+## Characters
 
-### Navigation
-| Previous Book   | Following Book    | All Books                  |
-| ------------ | -------------| ----------------------- |
-| [Accords](../References/Accords.md) | [Antelucan](../References/Antelucan.md) | [Pop Culture References](../PopCultureReferences.md)                               |
+### Main Characters
+-   
 
+### Supporting Characters
+-  
 
-_References are sorted chronologically by chapter number._
+## Book Info
 
-### Pop Culture References
+| General Info |  |
+|---|---|
+| Author|  |
+| Narrator|  |
+| Publisher | |
+| |  |
 
-| Chapter | Quote                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| ------- | -------------------------------------------------------------------------------------------------------------------------- |
-|       |   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ||
+| Book Info |  |
+|---|---|
+| Series |  |
+| Book Number | book  |
+| Pages |  pages |
+| Audio Duration|  hours  minutes |
 
+| Previous Book | Following Book |
+|---|---|
+| [Accords](Accords.md) | [Antelucan](Antelucan.md) |
 
-### In-Universe References
+## Publication Information
 
-| Chapter | Quote                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| ------- | ----------------------------------------------------------------- |
-|        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Format | Published | ASIN ISBN |
+|---|---|---|
+|  |  |  |
+
+| Front Cover | Back Cover | Audiobook Cover |
+|---|---|---|
+| | |
+
+## Chapter Summaries
+1. 

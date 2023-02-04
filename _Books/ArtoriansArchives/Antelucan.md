@@ -35,17 +35,19 @@ book blurb / description
 
 | Previous Book | Following Book |
 |---|---|
-| [Avalon](../ArtoriansArchives/Avalon.md) | [AA14](../ArtoriansArchives/AA14.md) |
+| [Avalon](Avalon.md) | [AA14](../ArtoriansArchives/AA14.md) |
 
 ## Publication Information
 
-| Format | Published | ASIN ISBN |
+| Format | Published | ASIN / ISBN |
 |---|---|---|
-|  |  |  |
+| Ebook | January 11, 2023 | B0BL57PVHX |
+| Audiobook | January 11, 2023 | B0BPTG2CPS |
+| Paperback | January 11, 2023 | 978-1637661611 |
 
-| Front Cover | Back Cover | Audiobook Cover |
-|---|---|---|
-| | |
+| Front Cover                                                                      | Back Cover                                                                               | Audiobook Cover |
+| -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------- |
+| ![antelucan_cover](../../images/ArtoriansArchives/Antelucan/antelucan_cover.jpg) | ![antelucan_backcover](../../images/ArtoriansArchives/Antelucan/antelucan_backcover.jpg) | ![antelucan_audiocover](../../images/ArtoriansArchives/Antelucan/antelucan_audiocover.jpg)                |
 
 ## Chapter Summaries
 1. A Child sized [Artorian](../../_Characters/ArtoriansArchives/Artorian.md) wakes up in [Avalon](../../_Atlas/ArtoriansArchives/Avalon.md), and after getting his feet back under him he flirts with and through a diplay of public affection, embarrasses an equally smol [Ember](../../_Characters/ArtoriansArchives/Ember.md).
