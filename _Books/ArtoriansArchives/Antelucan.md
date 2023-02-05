@@ -56,5 +56,5 @@ book blurb / description
 4. [Shaka](../../_Characters/ArtoriansArchives/Shaka.md) Shows up as Artorians eats his puzzling noodles, and he shares the nodes of the first tier on the tower.
 5. Explanation of Tower Tiers two through ten.
 6. Explanation of Tower Tiers eleven through fifteen.
-7. We meet the [M.F.B.T.](../../_Lexicon/M.F.B.T..md) and Kronk.
+7. We meet the [MFBT](../../_Lexicon/MFBT.md) and Kronk.
 8. The layout of Avalon is explained and Ember's Master plan is revealed.

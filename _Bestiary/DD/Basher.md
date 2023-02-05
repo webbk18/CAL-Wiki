@@ -1,0 +1,24 @@
+---
+title: "Basher"
+permalink: /Bestiary/Basher/
+layout: default
+---
+# Title
+---
+Rabbits evolved in [Cal](_Characters/DivineDungeon/Cal.md)'s Dungeon.
+
+## Physical Description
+Rabbits with stronger muscles and skeletal structure and a nub on their skulls they use to bash each other in the head.
+
+## Loot
+- Usually a couple copper
+- Sometimes a Left Boot
+
+## Evolutions
+	*Bashers where fed Essence up to Rank F six*
+- [Opressors](Opressors.md)
+- Water yielded no results.
+- [Smasher](Smasher.md)
+- Fire only caused pain and suffering to the poor Basher.
+- [Impalers](Impalers.md)
+- [Glitterflit](Glitterflit.md)

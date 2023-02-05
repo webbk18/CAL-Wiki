@@ -6,3 +6,9 @@ layout: default
 # <% tp.file.title %>
 ---
 description
+
+## Physical Description
+
+
+## Loot
+- 

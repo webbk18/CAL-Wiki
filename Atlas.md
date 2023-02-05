@@ -24,7 +24,7 @@ layout: default
 
 ## Divine Dungeon
 - [The Church](_Atlas/DivineDungeon/TheChurch.md)
-- 
+- [Mountaindale](_Atlas/DivineDungeon/Mountaindale.md)
 
 ## Lion's Lineage
 

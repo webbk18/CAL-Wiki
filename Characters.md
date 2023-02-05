@@ -54,18 +54,22 @@ layout: default
 
 ## Divine Dungeon
 - [Adventurers Guild](_Characters/DivineDungeon/AdventurersGuild.md)
+- [Amber](_Characters/DivineDungeon/Amber.md)
 - [Artorian](_Characters/ArtoriansArchives/Artorian.md)
 - [Cal](_Characters/DivineDungeon/Cal.md)
 - [Craig](_Characters/DivineDungeon/Craig.md)
 - [Dale](_Characters/DivineDungeon/Dale.md)
 - [Dani](_Characters/DivineDungeon/Dani.md)
+- [Father Richard](_Characters/DivineDungeon/FatherRichard.md)
+- [Frank](_Characters/DivineDungeon/Frank.md)
+- [Hans](_Characters/DivineDungeon/Hans.md)
 - [Eternium](_Characters/ArtoriansArchives/Eternium.md)
 - [Ember](_Characters/ArtoriansArchives/Ember.md)
 - [Mages Guild](_Lexicon/MagesGuild.md)
 - [The Church](_Atlas/DivineDungeon/TheChurch.md)
 - [Kantor](_Characters/DivineDungeon/Kantor.md)
-- [Tim](_Characters/DivineDungeon/Tim.md)
 - [The Master](_Characters/DivineDungeon/TheMaster.md)
+- [Tim](_Characters/DivineDungeon/Tim.md)
 - [Xenocide](_Characters/DivineDungeon/Xenocide.md)
 
 ## Lion's Lineage

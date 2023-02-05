@@ -10,11 +10,10 @@ layout: default
 - [Abyss](_Lexicon/Abyss.md)
 - [Acme](_Lexicon/Acme.md)
 - [Adventurers Guild](_Characters/DivineDungeon/AdventurersGuild.md)
-- [Aura](_Lexicon/Aura.md)
 - [Affinity](_Lexicon/Affinity.md)
 - [Affinity Channel](_Lexicon/AffinityChannel.md)
 - [Array](_Lexicon/Array.md)
-- 
+- [Aura](_Lexicon/Aura.md) 
 
 ---
 ## B
@@ -26,21 +25,26 @@ layout: default
 
 ---
 ## C
+- [CCcores](_Lexicon/CCcores.md)
+- [ccRanks](_Lexicon/ccRanks.md)
+- [ChiSpiral](_Lexicon/ChiSpiral.md)
+- [Church, The ](_Lexicon/TheChurchOrg.md)
+- [CoreTowerLaws](_Lexicon/CoreTowerLaws.md)
 - [Corruption](_Lexicon/Corruption.md)
 - [Cultivation](_Lexicon/Cultivation.md)
-- [CultivationRanks](_Lexicon/CultivationRanks.md)
-- [Chi Spiral](_Lexicon/ChiSpiral.md)
-- [Church, The ](_Lexicon/TheChurchOrg.md)
+- [Cultivation Ranks](_Lexicon/CultivationRanks.md)
+- [Currency System](_Lexicon/CurrencySystem.md)
 
 ---
 ## D
 - [Dakota Krout](_Lexicon/DakotaKrout.md)
 - [Dennis Vanderkerken](_Lexicon/DennisVanderkerken.md)
 - [Dungeon Born](_Lexicon/DungeonBornC.md)
-- [DungeonBoss](_Lexicon/DungeonBoss.md)
+- [Dungeon Boss](_Lexicon/DungeonBoss.md)
 - [Dungeon Core](_Lexicon/DungeonCore.md)
 - [Dungeon Tower Laws](_Lexicon/CoreTowerLaws.md)
 - [Dungeon Monster](_Lexicon/DungeonMonster.md)
+- [Dwarves](_Lexicon/Dwarves.md)
 
 ---
 ## E
@@ -50,15 +54,19 @@ layout: default
 ---
 ## F
 - [Fireball](_Lexicon/Fireball.md)
-- [FireShuriken](_Lexicon/FireShuriken.md)
+- [Fire Shuriken](_Lexicon/FireShuriken.md)
 - [Formation](_Lexicon/Formation.md)
 
 ---
 ## G
-- 
+- [Gnomes](_Lexicon/Gnomes.md)
+- [Goblins](_Lexicon/Goblins.md)
+- [Guild Deal](_Lexicon/GuildDeal.md)
 
 ---
 ## H
+- [Healing](_Lexicon/Healing.md)
+- [Honed Steel Dagger](_Lexicon/HonedSteelDagger.md)
 - [Humans](_Lexicon/Humans.md)
 
 ---
@@ -66,6 +74,7 @@ layout: default
 - [Incantation](_Lexicon/Incantation.md)
 - [Influence](_Lexicon/Influence.md)
 - [Ink Lance](_Lexicon/InkLance.md)
+- [Inscriptions](_Lexicon/Inscriptions.md)
 
 ---
 ## J
@@ -78,20 +87,24 @@ layout: default
 
 ---
 ## L
-- 
+- [LionKingdom](_Lexicon/LionKingdom.md)
+- [LivingItem](_Lexicon/LivingItem.md)
 
 ---
 ## M
-- [Mana](_Lexicon/Mana.md)
 - [Mages Guild](_Lexicon/MagesGuild.md)
+- [Mana](_Lexicon/Mana.md)
+- [Mana Contract](_Lexicon/ManaContract.md)
+- [MemoryStone](_Lexicon/MemoryStone.md)
+- [MFBT](_Lexicon/MFBT.md)
 - [Mob](_Lexicon/DungeonMonster.md)
 - [Moss](_Lexicon/Moss.md)
-- [M.F.B.T.](_Lexicon/M.F.B.T..md)
-- [Memory Stone](_Lexicon/MemoryStone.md)
+- [MountaindalePress](_Lexicon/MountaindalePress.md)
 
 ---
 ## N
 - [Nick Podehl](_Lexicon/NickPodehl.md)
+- [Northmen](_Lexicon/Northmen.md)
 - [Nyanderthal](_Bestiary/AA/Nyanderthal.md)
 
 ---
@@ -103,6 +116,7 @@ layout: default
 ## P
 - [Paper Shuriken](_Lexicon/PaperShuriken.md)
 - [Papier-Mache Mage](_Lexicon/Papier-MacheMage.md)
+- [PhoenixKingdom](_Lexicon/PhoenixKingdom.md)
 
 ---
 ## Q
@@ -112,13 +126,14 @@ layout: default
 ## R
 - [Races](_Lexicon/Races.md)
 - [Ranks - CC](_Lexicon/ccRanks.md)
+- [Runes](_Lexicon/Runes.md)
 
 ---
 ## S
-- [Silverwood Tree](_Lexicon/SilverwoodTree.md)
-- [Silverwood Bracelet](_Lexicon/SilverwoodBracelet.md)
-- [Sigil](_Lexicon/Sigil.md)
 - [Script](_Lexicon/Script.md)
+- [Sigil](_Lexicon/Sigil.md)
+- [Silverwood Bracelet](_Lexicon/SilverwoodBracelet.md)
+- [Silverwood Tree](_Lexicon/SilverwoodTree.md)
 
 ---
 ## T
@@ -136,6 +151,7 @@ layout: default
 
 ---
 ## W
+- [Wisp](_Lexicon/Wisp.md)
 - [Wolfmen](_Lexicon/Wolfmen.md)
 
 ---

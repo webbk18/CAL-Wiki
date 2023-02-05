@@ -8,3 +8,7 @@ layout: default
 description
 
 ## Physical Description
+
+
+## Loot
+- 

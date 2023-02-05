@@ -5,6 +5,6 @@ layout: default
 ---
 # Dimi-tree
 ---
-[M.F.B.T.](../../_Lexicon/M.F.B.T..md)
+[MFBT](../../_Lexicon/MFBT.md)
 
 Half Dwarf, Half Giant
