@@ -6,6 +6,9 @@ layout: default
 # Cal
 ---
 
+[Dale](Dale.md)
+
+
 - Started life by being murdered by necromancers and as such hates them
 - Blue [Dungeon Core](../../_Lexicon/DungeonCore.md), normally only water attuned, looks like a roughly 1 carat diamond ; 6.5mm 
 - Named 'Cal' by [Dani](Dani.md) as he was surrounded by calcium at their meeting.
@@ -26,7 +29,9 @@ layout: default
 | [DungeonBorn](../../_Books/DivineDungeon/DungeonBorn.md)  | Chapter 4  | Pg 46  | F0    |
 | [DungeonBorn](../../_Books/DivineDungeon/DungeonBorn.md)  | Chaper 6   | Pg 64  | F8    |
 | [DungeonBorn](../../_Books/DivineDungeon/DungeonBorn.md)  | Chapter 13 | Pg 143 | F9    |
-| [DungeonBorn](../../_Books/DivineDungeon/DungeonBorn.md)  | Chapter 14 | Pg 158 | D0      |
+| [DungeonBorn](../../_Books/DivineDungeon/DungeonBorn.md)  | Chapter 14 | Pg 158 | D0    |
+| [DungeonBorn](../../_Books/DivineDungeon/DungeonBorn.md)  | Chapter 16 | Pg 197 | D1    |
+| [DungeonBorn](../../_Books/DivineDungeon/DungeonBorn.md)  | Chapter 16 | Pg 209 | D2      |
 
 
 ## Hopes and Dreams
@@ -62,4 +67,7 @@ layout: default
 	- Added more tunnels that connect to each other, traps or a room that didn't go deeper.
 		- Tunnels connect at opposite ends of rooms and have a sharp turn you can't see around. These tunnels go deeper or dead end eventually.
 		- Some of the dead-end tunnels have slabs of stone to trap people in with acid dips or downpours. The acid could explode if exposed to fire.
-	
+- Chapter 16 
+	- Second room on first floor has a dead end branch to the left and right branch leads to rest of the dungeon rooms and tunnels.
+	- Boss room on first floor has the stairway to the second floor
+	- Silverwood tree moved to floor two boss room

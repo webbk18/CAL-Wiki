@@ -16,6 +16,8 @@ A [Dungeon Core](DungeonCore.md) can use [Essence](Essence.md) to alter the worl
 
 Sentient Creatures such as [Humans](Humans.md)], [Elves](Elves.md), [Dwarves](Dwarves.md) and [Orcs](Orcs.md) absorb Essence in a process called [Cultivation](Cultivation.md).
 
+Cycling Essence through one's eyes allows them to Essence and how it is flowing.
+
 # Essence Types
 - Fire
 

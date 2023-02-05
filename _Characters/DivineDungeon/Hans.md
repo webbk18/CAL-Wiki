@@ -6,3 +6,7 @@ layout: default
 # Hans
 ---
 Wields Daggers, part of [[Dale]]'s party
+
+blonde?
+
+Fire

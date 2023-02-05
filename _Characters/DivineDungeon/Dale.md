@@ -10,8 +10,15 @@ Appendix Entry: Owner of the mountain the dungeon was found on, Dale is now a cu
 Referenced in chapter 5 of [DungeonBorn](../../_Books/DivineDungeon/DungeonBorn.md) as 'the young man' several times, and described as having a 'guiless, lightly bearded face' also he has brown eyes.
 
 
+Adventuring Party: 
+- [Craig](Craig.md)
+- [Hans](Hans.md)
+- [[Josh]]
+- [[Steve]]
+- Dale
+
 ## Levels
-[Cultivation](../../_Lexicon/Cultivation.md)
+[Cultivation](../../_Lexicon/Cultivation.md) Stone/Earth
 
 | Book                                                      | Chapter    | Page   | Rank  |
 | --------------------------------------------------------- | ---------- | ------ | ----- |

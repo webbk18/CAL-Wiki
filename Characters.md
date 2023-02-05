@@ -19,7 +19,7 @@ layout: default
 - [Astrea](_Characters/ArtoriansArchives/Astrea.md)
 - [Axon the Chronomancer](_Characters/ArtoriansArchives/AxontheChronomancer.md)
 - [Blanket](_Bestiary/AA/Blanket.md)
-- [[Blue]]
+- [Blue](_Characters/ArtoriansArchives/Blue.md)
 - [Coraxi](_Characters/ArtoriansArchives/Coraxi.md)
 - [C'towl O'malley](_Characters/ArtoriansArchives/CtowlOmalley.md)
 - [Don Modsognir](_Characters/ArtoriansArchives/DonModsognir.md)

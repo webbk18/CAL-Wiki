@@ -7,3 +7,7 @@ layout: default
 ---
 
 Monk
+
+Part of [Dale](Dale.md)'s Party
+
+Stone/Earth

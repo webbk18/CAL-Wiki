@@ -117,6 +117,7 @@ layout: default
 - [Paper Shuriken](_Lexicon/PaperShuriken.md)
 - [Papier-Mache Mage](_Lexicon/Papier-MacheMage.md)
 - [PhoenixKingdom](_Lexicon/PhoenixKingdom.md)
+- [PortalGuild](_Lexicon/PortalGuild.md)
 
 ---
 ## Q
@@ -134,6 +135,7 @@ layout: default
 - [Sigil](_Lexicon/Sigil.md)
 - [Silverwood Bracelet](_Lexicon/SilverwoodBracelet.md)
 - [Silverwood Tree](_Lexicon/SilverwoodTree.md)
+- [Spotter](_Lexicon/Spotter.md)
 
 ---
 ## T
