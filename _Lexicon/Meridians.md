@@ -13,4 +13,5 @@ The more meridians that are cleansed and opened, the stronger the body becomes.
 
 ## Meridians
 
-1) Heart - Strengthens heart, lungs, lower intestine and a few muscles in the arms. This increases endurance and healing.
+1) Heart - Yin - Strengthens heart, lungs, lower intestine and a few muscles in the arms. This increases endurance and healing. Paired with Lower Intestine Meridian
+2) Lower Intestine - Yang - Improves Hearing and DigestionPaired with Heart Meridian

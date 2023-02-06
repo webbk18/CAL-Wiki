@@ -6,7 +6,9 @@ layout: default
 # Mana
 Mana – A higher stage of Essence only able to be cultivated by those who have
 broken into at least the B-rankings and found the true name of something in the
-universe.---
+universe.
+
+Mana is unique to the person using it. It is the true name and power of *something* that influences reality in the way they want it to. When you first say a word in that 'Language' your [Essence](Essence.md) becomes a concept of reality that you have uttered.
 
 
 mercurial apex-neutral asset

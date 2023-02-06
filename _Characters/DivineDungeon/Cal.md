@@ -68,7 +68,15 @@ layout: default
 	- Added more tunnels that connect to each other, traps or a room that didn't go deeper.
 		- Tunnels connect at opposite ends of rooms and have a sharp turn you can't see around. These tunnels go deeper or dead end eventually.
 		- Some of the dead-end tunnels have slabs of stone to trap people in with acid dips or downpours. The acid could explode if exposed to fire.
-- Chapter 16 
+- Chapter 16 - 17
 	- Second room on first floor has a dead end branch to the left and right branch leads to rest of the dungeon rooms and tunnels.
 	- Boss room on first floor has the stairway to the second floor
 	- Silverwood tree moved to floor two boss room
+	- Accounting Tent near the top of the stairs.
+- Chapter 18
+	- Tunnels reconfigured to prevent people from retracing their steps.
+	- Cal creates his tunnel straight up to the Quartz made Father Richard; not quite directly under the boss room. Nearly 100 ft from boss room to surface
+	- Cal inscribed the Quartz with the Rune from the Holy Symbol, which causes Protection, increased Celestial energy and dissolving of infernal bonds.
+	- Gazebo-like structure made of thick granite with a spiral staircase with 380 steps that connects just off the Boss room. The door to the gazebo has been reinforced with a cursed earth inscription, and can only be opened from the inside. If someone tries to re-enter they will be crushed or suffocated with no exits.
+- Chapter 20
+	- Portal gets opened, twin obelisks the same as each other in reverse, as though mirrored.

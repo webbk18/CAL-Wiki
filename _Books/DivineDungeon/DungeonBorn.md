@@ -29,14 +29,19 @@ When a threat he doesn’t fully comprehend bares its many teeth, Cal is determi
 	- Angry Bearded Man
 	- Fourth Man
 	- Guy who falls into the pit
--  Guild Scouting Party
+-  Guild Scouting Party:
 	- Elf
 	- Priest
 	- Human 2 
 	- Human 3
 - [Father Richard](../../_Characters/DivineDungeon/FatherRichard.md)
 - [Guild Leader Frank](../../_Characters/DivineDungeon/Frank.md)
-
+- Dale's Adventuring Party: 
+	- [Craig](Craig.md)
+	- [Hans](Hans.md)
+	- [[Josh]]
+	- [[Steve]]
+- Accounting tent clerk
 
 ## Book Info
 
@@ -100,6 +105,10 @@ Prologue: The creation and death of [Cal](../../_Characters/DivineDungeon/Cal.md
 14. Dale meets [Father Richard](../../_Characters/DivineDungeon/FatherRichard.md) who takes some land to build a church on. Cal reaches a new Rank and expands the dungeon and adds new mobs and bosses.
 15. The Party finds the entrance to the dungeon closed and in the mean-time Dale opens his heart [Meridian](../../_Lexicon/Meridians.md). A finder tells the party that the door is made of Cursed Earth and not worth breaking down. Dale gets more traditional training and preparations for the [Portal Guild](../../_Lexicon/PortalGuild.md) are made.
 16. [[James]] immediately makes a fool of himself upon arrival, and after some negotiation, a deal was made between Dale and [Amber](../../_Characters/DivineDungeon/Amber.md). The dungeon opens back up and Dale and Co have good tussle with [Raile](../../_Bestiary/DD/Raile.md).
-17. 
+17. Dale's Party exits the dungeon and gives their report to the clerk at the accounting tent. Craig limits the guild members entering the second floor to D-rank minimum. Dale opens his Lower Intestine Meridian and then gets beat on by [Josh](../../_Characters/DivineDungeon/Josh.md) for an hour before bed.
+18. Cal does some dungeon improvements, and Dale and Father Richard have an early morning talk. Dale learns how to activate his holy symbol and how to bind it's activation to himself from the Father.
+19. Dale survives an assassination attempt by demonologist blade then survives being body slammed by Raile. Cal learns about Inverted runes and gets the rune from the demonologist blade.
+20. The Portal Guild successfully opens the portal, which starts a fight over who gets to go through first and over the destinations. Frank uses his Control over most of the group to end the fight. Dale and Hans have a discussion on Essence vs Mana.
+21. 
 
 
