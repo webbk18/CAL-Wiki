@@ -5,7 +5,7 @@ layout: default
 ---
 # Mountaindale
 ---
-A mountain that contains [Cal](../../_Characters/DivineDungeon/Cal.md)'s Dungeon that [Dale](../../_Characters/DivineDungeon/Dale.md) bought from both the [LionKingdom](../../_Lexicon/LionKingdom.md) and the [PhoenixKingdom](../../_Lexicon/PhoenixKingdom.md).
+A mountain that contains [Cal](../../_Characters/DivineDungeon/Cal.md)'s Dungeon that [Dale](../../_Characters/DivineDungeon/Dale.md) bought from both the [Lion Kingdom](../../_Lexicon/LionKingdom.md) and the [Phoenix Kingdom](../../_Lexicon/PhoenixKingdom.md).
 
 
 ## Layouts
@@ -16,3 +16,5 @@ A mountain that contains [Cal](../../_Characters/DivineDungeon/Cal.md)'s Dungeon
 - Chapter 15 - **Stone Slab**
 	- "They climbed up the stairs, quickly moving toward the large tent housing the upper echelon of the [Guild](../../_Characters/DivineDungeon/AdventurersGuild.md). They had to walk past the area which had been converted to glass..."
 	- Portal to be placed at the top of a small hill, displacing some tents.
+- Chapter 20
+	- Portal gets opened, twin obelisks the same as each other in reverse, as though mirrored.

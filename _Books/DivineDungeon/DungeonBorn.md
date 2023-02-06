@@ -42,6 +42,7 @@ When a threat he doesn’t fully comprehend bares its many teeth, Cal is determi
 	- [[Josh]]
 	- [[Steve]]
 - Accounting tent clerk
+- [Madame Chandra](../../_Characters/DivineDungeon/MadameChandra.md)
 
 ## Book Info
 
@@ -109,6 +110,7 @@ Prologue: The creation and death of [Cal](../../_Characters/DivineDungeon/Cal.md
 18. Cal does some dungeon improvements, and Dale and Father Richard have an early morning talk. Dale learns how to activate his holy symbol and how to bind it's activation to himself from the Father.
 19. Dale survives an assassination attempt by demonologist blade then survives being body slammed by Raile. Cal learns about Inverted runes and gets the rune from the demonologist blade.
 20. The Portal Guild successfully opens the portal, which starts a fight over who gets to go through first and over the destinations. Frank uses his Control over most of the group to end the fight. Dale and Hans have a discussion on Essence vs Mana.
-21. 
+21. Hans takes Dale for a meal at the [Pleasure House](../../_Atlas/DivineDungeon/PleasureHouse.md) in the [Lion Kingdom](../../_Lexicon/LionKingdom.md) Capitol. An under prepared team gets to the second floor boss room and only two limp out. 
+22. 
 
 
