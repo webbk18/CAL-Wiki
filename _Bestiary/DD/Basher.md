@@ -5,7 +5,8 @@ layout: default
 ---
 # Title
 ---
-Rabbits evolved in [Cal](_Characters/DivineDungeon/Cal.md)'s Dungeon.
+An evolved rabbit that attacks by head-butting enemies. They have a small horn on their head that the use to “bash” their enemies.
+
 
 ## Physical Description
 Rabbits with stronger muscles and skeletal structure and a nub on their skulls they use to bash each other in the head.

@@ -19,6 +19,7 @@ When a threat he doesn’t fully comprehend bares its many teeth, Cal is determi
 - [Cal](../../_Characters/DivineDungeon/Cal.md)
 - [Dale](../../_Characters/DivineDungeon/Dale.md)
 - [Dani](../../_Characters/DivineDungeon/Dani.md)
+- [Hans](Hans.md)
 
 #### Supporting Characters
 
@@ -36,13 +37,21 @@ When a threat he doesn’t fully comprehend bares its many teeth, Cal is determi
 	- Human 3
 - [Father Richard](../../_Characters/DivineDungeon/FatherRichard.md)
 - [Guild Leader Frank](../../_Characters/DivineDungeon/Frank.md)
-- Dale's Adventuring Party: 
+- Dale's F-ranks Adventuring Party: 
 	- [Craig](Craig.md)
 	- [Hans](Hans.md)
 	- [[Josh]]
 	- [[Steve]]
+	- [[Dale]]
 - Accounting tent clerk
 - [Madame Chandra](../../_Characters/DivineDungeon/MadameChandra.md)
+- Dale's D-ranks Adventuring Party: 
+	- [Adam](../../_Characters/ArtoriansArchives/Adam.md)
+	- [Hans](Hans.md)
+	- [[Rose]]
+	- [[Tom]]
+	- [Dale](../../_Characters/DivineDungeon/Dale.md)
+
 
 ## Book Info
 
@@ -87,6 +96,11 @@ When a threat he doesn’t fully comprehend bares its many teeth, Cal is determi
 |---|---|---|
 | ![dungeonborn_cover2](../../images/DivineDungeon/DungeonBorn/dungeonborn_cover2.jpg) | ![dungeonborn_backcover](../../images/DivineDungeon/DungeonBorn/dungeonborn_backcover.jpg) | ![dungeonborn_audiocover2](../../images/DivineDungeon/DungeonBorn/dungeonborn_audiocover2.jpg) |
 
+
+## Quotes
+- "I think… Mind you I am not certain, but I think ... I may have made Dale, um. Dungeon born."
+ “... Damn it, Cal…”
+
 ## Chapter Summaries
 Prologue: The creation and death of [Cal](../../_Characters/DivineDungeon/Cal.md) at the hands of Necromancers
 1. Cal's influence spreads as his puddle gets filled with rain, and he discovers [Moss](../../_Lexicon/Moss.md) and promptly kills the first patch he can touch. Cal meets [Kantor](../../_Characters/DivineDungeon/Kantor.md), a fellow [Dungeon Core](../../_Lexicon/DungeonCore.md)
@@ -111,6 +125,16 @@ Prologue: The creation and death of [Cal](../../_Characters/DivineDungeon/Cal.md
 19. Dale survives an assassination attempt by demonologist blade then survives being body slammed by Raile. Cal learns about Inverted runes and gets the rune from the demonologist blade.
 20. The Portal Guild successfully opens the portal, which starts a fight over who gets to go through first and over the destinations. Frank uses his Control over most of the group to end the fight. Dale and Hans have a discussion on Essence vs Mana.
 21. Hans takes Dale for a meal at the [Pleasure House](../../_Atlas/DivineDungeon/PleasureHouse.md) in the [Lion Kingdom](../../_Lexicon/LionKingdom.md) Capitol. An under prepared team gets to the second floor boss room and only two limp out. 
-22. 
+22. Dale's team clears the dungeon again but not before Steve takes a horn through the lower abdomen. The team finds one of the new Health potion fountains and heals him. Dani teaches Cal about Necromancy, and we see some of Cal's Rune experiments, one of which opened a rift into the Abyss. An under prepared team captures a [Glitterflit](../../_Bestiary/DD/Glitterflit.md) and activates Raile's [Avenger](../../_Lexicon/Avenger.md) ability.
+23. Dale learns what his new inverted [DemonologistBlade](../../_Lexicon/DemonologistBlade.md) does and Cal learns what the rune does that he stole from Craig.
+24.  Dale goes for another early morning walk and meets the [Dark Elves](../../_Lexicon/Elves.md) and they strike a deal for the [Silverwood Tree](../../_Lexicon/SilverwoodTree.md).  [Madame Chandra](../../_Characters/DivineDungeon/MadameChandra.md) makes it to [Mountaindale](../../_Atlas/DivineDungeon/Mountaindale.md) and Dale learns of the Elven Factions.
+25. We get a description of the Church that father Richard built and Father Richard forced Dale into the D-ranks over a period of two days. Two days that Hans was trapped in the practice room with Dale and Richard. *Six months of training for Dale* We meet [Rose](../../_Characters/DivineDungeon/Rose.md) and she gets added to Dales new team and Madame Chandra agrees to help Dale educate himself to better manage his growing town.
+26. Cal's Rune experiments looses a [Distortion Cat](../../_Bestiary/DD/DistortionCat.md) which clears out the dungeon on it's way out to the surface and eventually returns injured to Cal's boss room.
+27. We see the aftermath the Distortion Cat left. Dale builds up his new party and Frank declares the dungeon closed until a wall is built around the entrance. The party walks in before the dungeon is closed and [Rose](../../_Characters/DivineDungeon/Rose.md) cultivates for the first time.
+28. The team clears the first level and Hans tells them to turn around. They get back to the entrance to find a barrier spell in place, trapping them in. They agree to complete the dungeon to leave and end up fighting Cal's Alpha Squad.
+29. As the team goes deeper into the dungeon, things change from the dungeon trying to kill them to it giving them lots of weapons and poisons. The group enters the Boss room and finds the Distortion Cat. A difficult battle ensues.
+30. Dale takes a tentacle through the chest rendering him deadish despite his team's best efforts. Cal creates a Masterwork [Soul Gem](../../_Lexicon/SoulStone.md) and creates the necessary runes for it to work as Dale's Core/Center. The team chops up the cat and takes what they can.
+31. Dale had all his meridians opened simultaneously by the 'Silverwood Tree' (Cal). Dale is able to hear Cal's Inner voice and he thinks he is losing his mind. When they stop to cultivate, Dale finds out that All of his Affinity channels are open.
+32. **Epilogue** - 
 
 

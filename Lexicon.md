@@ -14,6 +14,7 @@ layout: default
 - [Affinity Channel](_Lexicon/AffinityChannel.md)
 - [Array](_Lexicon/Array.md)
 - [Aura](_Lexicon/Aura.md) 
+- [Avenger](_Lexicon/Avenger.md)
 
 ---
 ## B
@@ -21,14 +22,18 @@ layout: default
 - [Bag of Holding](_Lexicon/BagofHolding.md)
 - [Beast](_Lexicon/Beast.md)
 - [Beast Core](_Lexicon/BeastCore.md)
+- [Beggars Guild](_Lexicon/BeggarsGuild.md)
 - [Bills Foppish Hat](_Lexicon/BillsFoppishHat.md)
 
 ---
 ## C
 - [CCcores](_Lexicon/CCcores.md)
 - [ccRanks](_Lexicon/ccRanks.md)
+- [Celestial](_Lexicon/Celestial.md)
 - [ChiSpiral](_Lexicon/ChiSpiral.md)
+- [Church Deal](_Lexicon/ChurchDeal.md)
 - [Church, The ](_Lexicon/TheChurchOrg.md)
+- [Cleave](_Lexicon/Cleave.md)
 - [CoreTowerLaws](_Lexicon/CoreTowerLaws.md)
 - [Corruption](_Lexicon/Corruption.md)
 - [Cultivation](_Lexicon/Cultivation.md)
@@ -38,6 +43,8 @@ layout: default
 ---
 ## D
 - [Dakota Krout](_Lexicon/DakotaKrout.md)
+- [Dark Elf Deal](_Lexicon/DarkElfDeal.md)
+- [Demonologist Blade](_Lexicon/DemonologistBlade.md)
 - [Dennis Vanderkerken](_Lexicon/DennisVanderkerken.md)
 - [Dungeon Born](_Lexicon/DungeonBornC.md)
 - [Dungeon Boss](_Lexicon/DungeonBoss.md)
@@ -49,6 +56,7 @@ layout: default
 ---
 ## E
 - [Elves](_Lexicon/Elves.md)
+- [Enchantment](_Lexicon/Enchantment.md)
 - [Essence](_Lexicon/Essence.md)
 
 ---
@@ -66,6 +74,7 @@ layout: default
 ---
 ## H
 - [Healing](_Lexicon/Healing.md)
+- [Holy Symbol](_Lexicon/HolySymbol.md)
 - [Honed Steel Dagger](_Lexicon/HonedSteelDagger.md)
 - [Humans](_Lexicon/Humans.md)
 
@@ -74,7 +83,7 @@ layout: default
 - [Incantation](_Lexicon/Incantation.md)
 - [Influence](_Lexicon/Influence.md)
 - [Ink Lance](_Lexicon/InkLance.md)
-- [Inscriptions](_Lexicon/Inscriptions.md)
+- [Inscription](_Lexicon/Inscription.md)
 
 ---
 ## J
@@ -103,6 +112,7 @@ layout: default
 
 ---
 ## N
+- [Necromancy](_Lexicon/Necromancy.md)
 - [Nick Podehl](_Lexicon/NickPodehl.md)
 - [Northmen](_Lexicon/Northmen.md)
 - [Nyanderthal](_Bestiary/AA/Nyanderthal.md)
@@ -116,7 +126,9 @@ layout: default
 ## P
 - [Paper Shuriken](_Lexicon/PaperShuriken.md)
 - [Papier-Mache Mage](_Lexicon/Papier-MacheMage.md)
+- [Pattern](_Lexicon/Pattern.md)
 - [PhoenixKingdom](_Lexicon/PhoenixKingdom.md)
+- [Pleasure House Deal](_Lexicon/PleasureHouseDeal.md)
 - [PortalGuild](_Lexicon/PortalGuild.md)
 
 ---
@@ -126,6 +138,7 @@ layout: default
 ---
 ## R
 - [Races](_Lexicon/Races.md)
+- [Ranks - DD](_Lexicon/CultivationRanks.md)
 - [Ranks - CC](_Lexicon/ccRanks.md)
 - [Runes](_Lexicon/Runes.md)
 
@@ -135,6 +148,7 @@ layout: default
 - [Sigil](_Lexicon/Sigil.md)
 - [Silverwood Bracelet](_Lexicon/SilverwoodBracelet.md)
 - [Silverwood Tree](_Lexicon/SilverwoodTree.md)
+- [Soul Stone](_Lexicon/SoulStone.md)
 - [Spotter](_Lexicon/Spotter.md)
 
 ---

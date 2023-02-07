@@ -13,4 +13,6 @@ description
 - 
 
 ## Contract with [[Dale]] for use of land
-- Eight percent gross profit, free use for Dale, his goods and his close friends.
+- *Chapter 16 of [DungeonBorn](../_Books/DivineDungeon/DungeonBorn.md)*
+
+Eight percent gross profit, free use for Dale, his goods and his close friends.

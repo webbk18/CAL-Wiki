@@ -10,3 +10,10 @@ layout: default
 Memory Stones have been used to fast-track the learning of Skills, Cultivation Techniques and Fighting Styles. A high quality stone can be used more than once before becoming useless and crumbling.
 
 Higher Grade stones can be refined with [Mana](_Lexicon/Mana.md) and able to hold items in a sub-dimensional space nicknamed a '[Bag of Holding](_Lexicon/BagofHolding.md)' and are often attached to a bag to hide their identity.
+
+
+## Memory Stone Prices
+- Spoken and written languages are sold apart, 50 gold each
+- The finest number system, by the Dwarven Underkingdom is 100 gold
+	- adding, subtracting, dividing
+	- higher mathematics

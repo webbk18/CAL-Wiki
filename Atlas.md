@@ -23,8 +23,13 @@ layout: default
 - [The Shoe](_Atlas/CompletionistChronicles/TheShoe.md)
 
 ## Divine Dungeon
-- [The Church](_Atlas/DivineDungeon/TheChurch.md)
+- [Huine](_Atlas/DivineDungeon/Huine.md)
+- [Luminaria](_Atlas/DivineDungeon/Luminaria.md)
 - [Mountaindale](_Atlas/DivineDungeon/Mountaindale.md)
+- [Necromantic Fortress](_Atlas/DivineDungeon/NecromanticFortress.md)
+- [Pleasure House](_Atlas/DivineDungeon/PleasureHouse.md)
+- [Tal en' Ohta](_Atlas/DivineDungeon/TalenOhta.md)
+- [The Church](_Atlas/DivineDungeon/TheChurch.md)
 
 ## Lion's Lineage
 

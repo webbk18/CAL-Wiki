@@ -50,5 +50,15 @@ description
 - Chapter 21
 	- New Trap that is a Bridge in the tunnel system. On the bridge is a series of [Runes](Runes.md) across it that push acid away, and held the acid suspended on the sides of the bridge. stepping on a specific pressure-sensitive pattern at the midpoint would cause the suspended acid to flood the bridge.
 	- sparse Gems where added to the iron wall
-	- Health Potion cistern added to first floor right before boss room
-	- light potion cistern added to second floor at a dead end.
+		- Emeralds, Ruby, Lapis and rarely Diamond
+		- Banes also in wall
+	- Health Potion fountain added to first floor right before boss room
+	- light potion fountain added to second floor at a dead end.
+		- runes around the fountain that dissolve armor and clothing
+- Chapter 22
+	- Boss room has hidden tunnels that run around the room allowing the bashers to disappear and appear.
+	- Dead end room on the second floor as far from his core as possible is where cal tests Runes 'Horrible failure with a few successes room'
+- Chapter 26
+	- Boss room foor is now intricately patterned, the Runescript of hundreds of matching Runes deeply scoring the floor. the pattern ends perfectly at the entrance to the room the Runes are Essence refining and refine essence down to a liquid which drains into a tungsten tank under the [Silverwood Tree](SilverwoodTree.md) and has a hole in the top for evaporated essence to make it's way back to Cal's Core. First rune in the doorway has a radius of nearly six feet with the final one (inverted to allow for draining) being an inch in diameter.
+- Chapter 28 
+	- The hole Cal's Core is in gets narrower and lined with poison and spikes

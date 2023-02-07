@@ -5,6 +5,9 @@ layout: default
 ---
 # Dire Shroom
 ---
+An F-Ranked Boss Mob that is a giant mushroom. He can fire thorns and pull victims toward him with vines made of moss.
+
+
 [Cal](_Characters/DivineDungeon/Cal.md)'s First [DungeonBoss](_Lexicon/DungeonBoss.md). Dani named it 'Bane'
 
 ## Physical Description

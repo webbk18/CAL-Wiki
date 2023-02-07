@@ -103,7 +103,7 @@ Tier    Law
 - 12 Sleep - Sonmum
 - 12 Empyreal (Wo'ah The Wise)
 - 12 Knock (Ellis)
-- 12 Sonder *(Richard?)*
+- 12 Sonder [Father Richard](../_Characters/DivineDungeon/FatherRichard.md)
 - 12 Zeal *(Somnus?)*
 - 12 Kenopsia (Yuki)
 

@@ -16,6 +16,7 @@ layout: default
 - [Anansi](_Characters/ArtoriansArchives/Anansi.md)
 - [Anders](_Characters/ArtoriansArchives/Anders.md)
 - [Artorian](_Characters/ArtoriansArchives/Artorian.md)
+- [Astarte](_Characters/ArtoriansArchives/Astarte.md)
 - [Astrea](_Characters/ArtoriansArchives/Astrea.md)
 - [Axon the Chronomancer](_Characters/ArtoriansArchives/AxontheChronomancer.md)
 - [Blanket](_Bestiary/AA/Blanket.md)

@@ -39,6 +39,7 @@ layout: default
 - Terms
 
 ## Characters
+	*Charaters go into book folder based on first appearance chronologically*
 - People
 - Guilds
 

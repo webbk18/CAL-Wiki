@@ -20,5 +20,6 @@ Guild leader in [Mountaindale](../../_Atlas/DivineDungeon/Mountaindale.md) : [Fr
 
 If a non-guild member attacks a Guild member outside of self-defense they cannot join the Guild.
 
-
 Fighting with another guild member incurs a fee, protecting another earns you a bonus.
+
+Guild rules state that at the start of D-ranks you need to form a team of your own. You can have one person in the C-ranks for guidance but the rest need to also be in the D-ranks or high F-ranks.

@@ -8,3 +8,7 @@ layout: default
 description
 
 Owns the [Pleasure House](../../_Atlas/DivineDungeon/PleasureHouse.md)
+
+A-rank nine plant Mage
+
+She also spent a decade training the current Guild Master, Frank

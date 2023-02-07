@@ -8,7 +8,7 @@ layout: default
 # In Progress
 - [ ] 2. [Libriohexer](_Books/WolfmanWarlock/Libriohexer.md) (2021)
 - [ ] 1. [Dungeon Born](_Books/DivineDungeon/DungeonBorn.md) (2016)
-
+- [ ] 13. [Antelucan](_Books/ArtoriansArchives/Antelucan.md) (2023)
 
 
 
@@ -26,7 +26,7 @@ layout: default
 - [ ] 10. [Acyrologia](_Books/ArtoriansArchives/Acyrologia.md) (2022)
 - [ ] 11. [Accords](_Books/ArtoriansArchives/Accords.md) (2022)
 - [ ] 12. [Avalon](_Books/ArtoriansArchives/Avalon.md) (2022)
-- [ ] 13. [Antelucan](_Books/ArtoriansArchives/Antelucan.md) (2023)
+
 
 # [Completionist Chronicles](_Books/CompletionistChronicles/CompletionistChronicles.md)
 - [ ] 1. [Ritualist](_Books/CompletionistChronicles/Ritualist.md) (2018)

@@ -11,7 +11,7 @@ A race of willowy humanoids with pointy ears. There are five main types:
 time as merchants, artists, or thinkers. Rich beyond any need to actually
 work, their King is an S-ranked expert, and their cities shine with light
 and wealth. They like to think of themselves as ‘above’ other Elves, thus
-‘High’ Elves.
+‘High’ Elves.  [[Luminaria]]
 
 - Wood Elves: Wood Elves live more simply than High Elves, but have
 greater connection to the earth and the elements. They are ruled by a
@@ -30,7 +30,7 @@ live, only where they can go to get in contact with them. Dark Elves also
 have a dark reputation as Assassins and mercenaries for the other
 races. The worst of their lot are ‘Moon Elves’, the best-known Assassins
 of any race. These are the Elves that Dale made a deal with for land and
-protection.
+protection. [Huine](../_Atlas/DivineDungeon/Huine.md)
 
 - Sea: The Sea Elves live on boats their entire lives. They facilitate trade
 between all the races of Elves and man, trying not to take sides in

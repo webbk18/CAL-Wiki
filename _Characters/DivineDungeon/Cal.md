@@ -5,6 +5,8 @@ layout: default
 ---
 # Cal
 ---
+The heart of the Dungeon, Cal was a human murdered by Necromancers. After being forced into a soul gem, his identity was stripped as time passed. Now accompanied by Dani, he works to become stronger without attracting too much attention to himself .
+
 
 [Dale](Dale.md)
 
@@ -33,7 +35,7 @@ layout: default
 | [DungeonBorn](../../_Books/DivineDungeon/DungeonBorn.md)  | Chapter 16 | Pg 197 | D1    |
 | [DungeonBorn](../../_Books/DivineDungeon/DungeonBorn.md)  | Chapter 16 | Pg 209 | D2    |
 | [DungeonBorn](../../_Books/DivineDungeon/DungeonBorn.md)  | Chapter 21 | Pg 269 | D3      |
-
+| [DungeonBorn](../../_Books/DivineDungeon/DungeonBorn.md)  | Chapter 31 | Pg 396 | D5     |
 
 ## Hopes and Dreams
 - Learn how to fly

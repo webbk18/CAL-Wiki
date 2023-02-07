@@ -11,3 +11,7 @@ A person’s affinity denotes what element they need to cultivate Essence from. 
 Fire and Water form a Steam Affinity
 Water and Earth form a Plant Affinity
 Fire Water and Earth form a Soot Affinity
+
+
+
+Celestial and Infernal form a Chaos Affinity

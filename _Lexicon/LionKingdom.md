@@ -7,6 +7,8 @@ layout: default
 ---
 description
 
+
+Elves gave the king his cultivation techique when his kingdom was a small town.
 # -- Cities --
 ## Capitol
 - Capitol is adjacent to the ocean

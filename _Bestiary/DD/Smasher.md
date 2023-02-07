@@ -5,7 +5,7 @@ layout: default
 ---
 # Smasher
 ---
-description
+A Basher upgraded with Earth Essence, it has no special abilities, but is coated with thick armor made from stone. While the armor slows it, it also makes the Smasher a deadly battering ram.
 
 
 	*Bashers where fed Essence up to Rank F six*

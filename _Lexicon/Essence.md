@@ -19,6 +19,7 @@ Sentient Creatures such as [Humans](Humans.md)], [Elves](Elves.md), [Dwarves](Dw
 Cycling Essence through one's eyes allows them to Essence and how it is flowing.
 
 # Essence Types
+- All - flows through Diamond
 - Fire
 
 - Water
@@ -30,7 +31,7 @@ Cycling Essence through one's eyes allows them to Essence and how it is flowing.
 		- Tungsten
 		- Iron
 		- 
-- Celestial
+- Celestial - flows through Topaz
 - Infernal
 
 
