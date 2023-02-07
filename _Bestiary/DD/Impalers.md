@@ -5,7 +5,7 @@ layout: default
 ---
 # Impalers
 ---
-A Basher upgraded with [Infernal](../../_Characters/DivineDungeon/Infernal.md) Essence, it has a sharpened horn on its head. At higher rankings, it gains the ability to coat that horn with  
+A Basher upgraded with [Infernal](../../_Lexicon/Infernal.md) Essence, it has a sharpened horn on its head. At higher rankings, it gains the ability to coat that horn with  
 Hellfire.
 
 	*Bashers where fed Essence up to Rank F six*

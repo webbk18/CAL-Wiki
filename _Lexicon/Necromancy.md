@@ -5,7 +5,7 @@ layout: default
 ---
 # Necromancer
 ---
-An [Infernal](../_Characters/DivineDungeon/Infernal.md) Essence cultivator who can raise and control the dead and [Demons](../_Bestiary/Demon.md).
+An [Infernal](Infernal.md) Essence cultivator who can raise and control the dead and [Demons](../_Bestiary/Demon.md).
 
 
 They hoard and protect all knowledge pertaining to them.

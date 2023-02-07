@@ -7,7 +7,7 @@ layout: default
 
 # In Progress
 - [ ] 2. [Libriohexer](_Books/WolfmanWarlock/Libriohexer.md) (2021)
-- [ ] 1. [Dungeon Born](_Books/DivineDungeon/DungeonBorn.md) (2016)
+- [ ] 2. [Dungeon Madness](_Books/DivineDungeon/DungeonMadness.md) (2017)
 - [ ] 13. [Antelucan](_Books/ArtoriansArchives/Antelucan.md) (2023)
 
 
@@ -39,8 +39,8 @@ layout: default
 - [ ] 9. [Implode](_Books/CompletionistChronicles/Implode.md) (2022)
 
 # [Divine Dungeon](_Books/DivineDungeon/DivineDungeon.md)
+- [x] 1. [Dungeon Born](_Books/DivineDungeon/DungeonBorn.md) (2016)
 
-- [ ] 2. [Dungeon Madness](_Books/DivineDungeon/DungeonMadness.md) (2017)
 - [ ] 3. [Dungeon Calamity](_Books/DivineDungeon/DungeonCalamity.md) (2017)
 - [ ] 4. [Dungeon Desolation](_Books/DivineDungeon/DungeonDesolation.md) (2018)
 - [ ] 5. [Dungeon Eternium](_Books/DivineDungeon/DungeonEternium.md) (2019)

@@ -5,7 +5,7 @@ layout: default
 ---
 # Rose
 ---
-A Half-Elf ranger that joined Dale’s team. She has opposing affinities for [Celestial](../../_Lexicon/Celestial.md) and [Infernal](Infernal.md) Essence.
+A Half-Elf ranger that joined Dale’s team. She has opposing affinities for [Celestial](../../_Lexicon/Celestial.md) and [Infernal](../../_Lexicon/Infernal.md) Essence.
 
 [Madame Chandra](MadameChandra.md)'s Granddaughter
 

@@ -6,7 +6,7 @@ layout: default
 # Dungeon Born
 ---
 **A powerful dungeon. A sheep-herder turned Noble. Their path to ascendance through cultivation.**
-webbk18#7704
+
 Conquering dungeons and using them to grow has long been the most efficient way to become a powerful adventurer. The only thing keeping the process from being easy is the Beasts that inhabit these places. Questions plague those entering this particular place of power: Where do the ‘rewards’ of weapons, armor, and heavy gold coins come from? Why is a fluffy bunny charging at me? For abyss-sake, why are there so many monsters?
 
 [Cal](../../_Characters/DivineDungeon/Cal.md) has all of the answers to these age-old questions for a very simple reason. He is a [Dungeon Core](../../_Lexicon/DungeonCore.md), a soul forced against his will into a magical stone. With the help of an energetic friend, [Cal](../../_Characters/DivineDungeon/Cal.md) grows a dungeon around himself to bring in new sources of power.
@@ -20,6 +20,7 @@ When a threat he doesn’t fully comprehend bares its many teeth, Cal is determi
 - [Dale](../../_Characters/DivineDungeon/Dale.md)
 - [Dani](../../_Characters/DivineDungeon/Dani.md)
 - [Hans](Hans.md)
+- [Father Richard](../../_Characters/DivineDungeon/FatherRichard.md)
 
 #### Supporting Characters
 
@@ -35,8 +36,10 @@ When a threat he doesn’t fully comprehend bares its many teeth, Cal is determi
 	- Priest
 	- Human 2 
 	- Human 3
-- [Father Richard](../../_Characters/DivineDungeon/FatherRichard.md)
-- [Guild Leader Frank](../../_Characters/DivineDungeon/Frank.md)
+- [Frank](../../_Characters/DivineDungeon/Frank.md)
+- [Amber](../../_Characters/DivineDungeon/Amber.md)
+- [James](../../_Characters/DivineDungeon/James.md)
+- [Brianna](../../_Characters/DivineDungeon/Brianna.md)
 - Dale's F-ranks Adventuring Party: 
 	- [Craig](Craig.md)
 	- [Hans](Hans.md)
@@ -45,6 +48,7 @@ When a threat he doesn’t fully comprehend bares its many teeth, Cal is determi
 	- [[Dale]]
 - Accounting tent clerk
 - [Madame Chandra](../../_Characters/DivineDungeon/MadameChandra.md)
+- [The Master](../../_Characters/DivineDungeon/TheMaster.md)
 - Dale's D-ranks Adventuring Party: 
 	- [Adam](../../_Characters/ArtoriansArchives/Adam.md)
 	- [Hans](Hans.md)
@@ -135,6 +139,6 @@ Prologue: The creation and death of [Cal](../../_Characters/DivineDungeon/Cal.md
 29. As the team goes deeper into the dungeon, things change from the dungeon trying to kill them to it giving them lots of weapons and poisons. The group enters the Boss room and finds the Distortion Cat. A difficult battle ensues.
 30. Dale takes a tentacle through the chest rendering him deadish despite his team's best efforts. Cal creates a Masterwork [Soul Gem](../../_Lexicon/SoulStone.md) and creates the necessary runes for it to work as Dale's Core/Center. The team chops up the cat and takes what they can.
 31. Dale had all his meridians opened simultaneously by the 'Silverwood Tree' (Cal). Dale is able to hear Cal's Inner voice and he thinks he is losing his mind. When they stop to cultivate, Dale finds out that All of his Affinity channels are open.
-32. **Epilogue** - 
+32. **Epilogue** - We learn a little bit about the creation of Cal and of a Necromantic Hideout.
 
 
