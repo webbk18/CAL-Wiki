@@ -30,7 +30,7 @@ South of the Phantom Mountains is a swamp that is the border between the Lion an
 			- Library
 			- Garden
 		- Circular Practice room 20ft in diameter with thick and enchanted walls to hold in spells and block outside influences. Also blocks sound and hold in heat to a preset temperature. Oh and a strong lock.
-	- Pleasure house is four stories tall and made of gleaming walnut trees. The higher up you go the better and more expensive the food gets. Each floor has it's own kitchen and wait staff.
+	- [Pleasure House](PleasureHouse.md) is four stories tall and made of gleaming walnut trees. The higher up you go the better and more expensive the food gets. Each floor has it's own kitchen and wait staff.
 - Chapter 27
 	- Wall is built around the entrance to the dungeon to prevent monster breakouts in the future.
 

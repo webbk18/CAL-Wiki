@@ -68,5 +68,9 @@ Madness threatens the land, and it is coming for them
 |---|---|---|
 | ![dungeonmadness_cover2](../../images/DivineDungeon/DungeonMadness/dungeonmadness_cover2.jpg) | ![dungeonmadness_backcover](../../images/DivineDungeon/DungeonMadness/dungeonmadness_backcover.jpg) | ![dungeonmadness_audiocover2](../../images/DivineDungeon/DungeonMadness/dungeonmadness_audiocover2.jpg)
 
+## Quotes
+- 
+
 ## Chapter Summaries
+**Prologue** - 
 1. 

@@ -45,5 +45,8 @@ book blurb / description
 |---|---|---|
 | | |
 
+## Quotes
+- 
+
 ## Chapter Summaries
 1. 
