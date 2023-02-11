@@ -12,7 +12,7 @@ book blurb / description
 ## Characters
 
 ### Main Characters
--   [Artorian](../../_Characters/ArtoriansArchives/Artorian.md)
+- [Artorian](../../_Characters/ArtoriansArchives/Artorian.md)
 - [Ember](../../_Characters/ArtoriansArchives/Ember.md)
 
 ### Supporting Characters
