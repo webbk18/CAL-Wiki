@@ -13,7 +13,6 @@ book blurb / description
 
 ### Main Characters
 -   [Artorian](../../_Characters/ArtoriansArchives/Artorian.md)
-- [Ember](../../_Characters/ArtoriansArchives/Ember.md)
 
 ### Supporting Characters
 -  
@@ -59,3 +58,4 @@ book blurb / description
 6. Explanation of Tower Tiers eleven through fifteen.
 7. We meet the [MFBT](../../_Lexicon/MFBT.md) and Kronk.
 8. The layout of Avalon is explained and Ember's Master plan is revealed.
+9. 
