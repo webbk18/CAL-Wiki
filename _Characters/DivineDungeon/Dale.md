@@ -9,7 +9,7 @@ Appendix Entry: Owner of the mountain the dungeon was found on, Dale is now a cu
 
 Referenced in chapter 5 of [DungeonBorn](../../_Books/DivineDungeon/DungeonBorn.md) as 'the young man' several times, and described as having a 'guiless, lightly bearded face' also he has brown eyes. 21yrs old in chapter 25
 
-husky young man, looks like he transformed fat to muscle with hard work. Common look for the area, brown hair with a well trimmed beard and mustache and brown eyes
+husky young man, looks like he transformed fat to muscle with hard work. Common look for the area, brown hair with a well trimmed beard and mustache and brown eyes.
 
 
 F-ranks Adventuring Party: 
