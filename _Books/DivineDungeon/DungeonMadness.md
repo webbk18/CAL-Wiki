@@ -9,11 +9,11 @@ layout: default
 
 Both [Cal](../../_Characters/DivineDungeon/Cal.md) and [Dale](../../_Characters/DivineDungeon/Dale.md) have become stronger, each in spite of the other.
 
-The dungeon—Cal—knows exactly how much their power has increased and is working daily to become exponentially more powerful. His schemes are becoming more complex and his dungeon—his body—more deadly.
+The dungeon, Cal, knows exactly how much their power has increased and is working daily to become exponentially more powerful. His schemes are becoming more complex and his dungeon, his body, more deadly.
 
-Dale works to subvert the plans of the dungeon, but his opponent is onto him. Hearing a voice in his head distracts him in critical moments requiring him to fight his mind even as he battles deadly creatures. Unbeknownst to both, their fight is not with each other—it’s for the continuation of their lives.
+Dale works to subvert the plans of the dungeon, but his opponent is onto him. Hearing a voice in his head distracts him in critical moments requiring him to fight his mind even as he battles deadly creatures. Unbeknownst to both, their fight is not with each other - it’s for the continuation of their lives.
 
-Madness threatens the land, and it is coming for them
+Madness threatens the land, and it is coming for them.
 
 ## Characters
 
