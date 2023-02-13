@@ -34,6 +34,8 @@ South of the Phantom Mountains is a swamp that is the border between the Lion an
 - Chapter 27
 	- Wall is built around the entrance to the dungeon to prevent monster breakouts in the future.
 
+
+* *Cafeteria 
 ## Deals for Land use
 - [Adventurers Guild Deal](../../_Lexicon/GuildDeal.md)
 - [Church Deal](../../_Lexicon/ChurchDeal.md)
