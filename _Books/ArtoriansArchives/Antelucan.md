@@ -16,7 +16,7 @@ book blurb / description
 - [Ember](../../_Characters/ArtoriansArchives/Ember.md)
 
 ### Supporting Characters
--  
+-  Shaka
 
 ## Book Info
 
