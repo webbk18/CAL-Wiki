@@ -13,7 +13,7 @@ book blurb / description
 -   
 
 ### Supporting Characters
--  
+-  [[Odin]]
 
 ## Book Info
 
