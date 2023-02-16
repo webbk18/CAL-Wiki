@@ -14,6 +14,8 @@ book blurb / description
 
 ### Supporting Characters
 -  [[Odin]]
+- [Marie](../../_Characters/ArtoriansArchives/Marie.md)
+- [Henry](../../_Characters/ArtoriansArchives/Henry.md)
 
 ## Book Info
 
