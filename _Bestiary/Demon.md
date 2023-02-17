@@ -18,3 +18,8 @@ Demons are cunning and intelligent  and do everything they can to please their m
 
 
 Can be summoned with a [DemonologistBlade](../_Lexicon/DemonologistBlade.md)
+
+- [[Soni]]
+- [[Ludere]]
+- [[Caro]]
+- 
