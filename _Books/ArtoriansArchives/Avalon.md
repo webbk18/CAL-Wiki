@@ -10,8 +10,7 @@ book blurb / description
 ## Characters
 
 ### Main Characters
--   
-
+-   [Artorian](../../_Characters/ArtoriansArchives/Artorian.md)
 ### Supporting Characters
 -  [[Odin]]
 - [Marie](../../_Characters/ArtoriansArchives/Marie.md)
