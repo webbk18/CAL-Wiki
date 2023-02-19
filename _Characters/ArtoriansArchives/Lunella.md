@@ -11,3 +11,5 @@ Village Matron of [Avalon](../../_Atlas/ArtoriansArchives/Avalon.md)
 Sister is [Astrea](Astrea.md)
 
 Wears the Village Matron robes of the Finest Lapis spider silk, and sandals that are most comfortable in existence.
+
+Refused the route of the cultivator to live a simple, mundane and normal life in Cal

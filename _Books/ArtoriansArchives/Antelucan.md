@@ -59,3 +59,5 @@ book blurb / description
 6. Explanation of Tower Tiers eleven through fifteen.
 7. We meet the [MFBT](../../_Lexicon/MFBT.md) and Kronk.
 8. The layout of Avalon is explained and Ember's Master plan is revealed.
+9. Ember helps Artorian come to terms with living the mortal life again and slowing down.
+10. 
