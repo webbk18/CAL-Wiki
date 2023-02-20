@@ -16,7 +16,10 @@ Organized in Square Subdivisions that form a circle separated into three section
 ### Districts 
 	clockwise
 - C'towls
+	- Palm trees and bushes become more abundant approaching the Basher section
+	- Stone arch over the 20 meter wide walkway with Bashers on the C'towl side
 - Bashers
+	- Stone arch over the 20 meter wide walkway with C'towl on the Basher side
 - Faith
 - Goblins
 - Wood Elves
