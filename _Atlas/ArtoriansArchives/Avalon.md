@@ -18,8 +18,11 @@ Organized in Square Subdivisions that form a circle separated into three section
 - C'towls
 	- Palm trees and bushes become more abundant approaching the Basher section
 	- Stone arch over the 20 meter wide walkway with Bashers on the C'towl side
+	- Palm trees, Tall bushes and a civilization of cat nooks and scratch towers
 - Bashers
 	- Stone arch over the 20 meter wide walkway with C'towl on the Basher side
+	- natural open plain with tall grass, occasional trees and openings to burrows
+	- smells like a place with low precipitation and humidity, much wind and sudden changes in temperature.
 - Faith
 - Goblins
 - Wood Elves
