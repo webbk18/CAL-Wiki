@@ -20,7 +20,8 @@ layout: default
 	- [ ] Acyrolgia
 	- [ ] Accords
 	- [ ] Avalon
-	- [ ] Antelucan
+	- [x] Antelucan
+	- [ ] Arcoplex
 - [x] DD
 	- [x] Dungeon Born
 	- [x] Dungeon Madness
@@ -61,7 +62,8 @@ layout: default
 	- [ ] Acyrolgia
 	- [ ] Accords
 	- [ ] Avalon
-	- [ ] Antelucan
+	- [x] Antelucan
+	- [ ] Arcoplex
 - [x] DD
 	- [x] Dungeon Born
 	- [x] Dungeon Madness
@@ -103,8 +105,9 @@ layout: default
 	- [ ] Accords
 	- [ ] Avalon
 	- [ ] Antelucan
+	- [ ] Arcoplex
 - [ ] DD
-	- [ ] Dungeon Born - In Progress
+	- [x] Dungeon Born
 	- [ ] Dungeon Madness
 	- [ ] Dungeon Calamity
 	- [ ] Dungeon Desolation
