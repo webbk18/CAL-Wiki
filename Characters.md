@@ -58,7 +58,9 @@ layout: default
 - [Zephyr](_Characters/ArtoriansArchives/Zephyr.md)
 
 ## Completionist Chronicles
+- [Elon Musk](_Characters/CompletionistChronicles/ElonMusk.md)
 - [Jake](_Characters/Jake.md)
+- 
 
 ## Divine Dungeon
 - [Adventurers Guild](_Characters/DivineDungeon/AdventurersGuild.md)
