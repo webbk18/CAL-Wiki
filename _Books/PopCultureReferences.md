@@ -12,7 +12,7 @@ layout: default
 --- 
 * [Axiom](References/Axiom.md) *
 * [Alumni](References/Alumni.md) *
-* [Ann[Arsenal](References/Arsenal.md)ex](References/Annex.md) *
+* [Annex](References/Annex.md)*
 * [Arsenal](References/Arsenal.md) *
 * [Acme](References/Acme.md) *
 * [Anima](References/Anima.md) *
@@ -22,7 +22,7 @@ layout: default
 * [Acyrologia](References/Acyrologia.md) *
 * [Accords](References/Accords.md)
 * [Avalon](References/Avalon.md)
-* [Antelucan](References/Antelucan.md) *
+* [Antelucan](References/Antelucan.md)
 
 
 

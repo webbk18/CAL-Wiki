@@ -14,6 +14,7 @@ The main character of the Artorian's Archives series. He cares a lot for those h
 
 
 Blue Eyes (Chp 3 [Antelucan](../../_Books/ArtoriansArchives/Antelucan.md))
+Pink Eyes (Chp 11 [Antelucan](../../_Books/References/Antelucan.md))
 ## Aliases
 - Sunny
 - Tsu

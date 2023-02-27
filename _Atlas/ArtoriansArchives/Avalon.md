@@ -14,7 +14,7 @@ Organized in Square Subdivisions that form a circle separated into three section
 3) Separate and distinct 'pie slices' divide up the outer ring.
 
 ### Districts 
-	clockwise
+	clockwise, don't know cardinals yet 
 - C'towls
 	- Palm trees and bushes become more abundant approaching the Basher section
 	- Stone arch over the 20 meter wide walkway with Bashers on the C'towl side
@@ -23,7 +23,13 @@ Organized in Square Subdivisions that form a circle separated into three section
 	- Stone arch over the 20 meter wide walkway with C'towl on the Basher side
 	- natural open plain with tall grass, occasional trees and openings to burrows
 	- smells like a place with low precipitation and humidity, much wind and sudden changes in temperature.
+	- Segment is larger than the rest by a "good bit"
 - Faith
+	- In a Caldera to protect from the harsh winds of the region
+		- Caldera is an impact crater from the first heavenly that managed to fully physically manifest inside Cal's Soul space. She did so in the sky forgetting gravity was a thing, screeched like a distressed coyote the whole way down and pancaked the ground then offered a meek 'ow'
+	- inner sides of the caldera are riddled with narrow walkways
+	- lake in the middle of the caldera covered in green lily pads, massive ones
+	- Sisters of the Paw , Godhand Clan Glitterflits 
 - Goblins
 - Wood Elves
 - Wisps
@@ -36,5 +42,4 @@ Organized in Square Subdivisions that form a circle separated into three section
 - Humanized Beasts
 - Beasts!
 
-
-![](../../images/AvalonMap.png)
+![](../../images/AA13AvalonMap.png)

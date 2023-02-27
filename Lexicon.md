@@ -24,6 +24,7 @@ layout: default
 - [Beast Core](_Lexicon/BeastCore.md)
 - [Beggars Guild](_Lexicon/BeggarsGuild.md)
 - [Bills Foppish Hat](_Lexicon/BillsFoppishHat.md)
+- [Book of Lucia](_Lexicon/BookofLucia.md)
 
 ---
 ## C
@@ -81,6 +82,7 @@ layout: default
 ---
 ## I
 - [Incantation](_Lexicon/Incantation.md)
+- [Incarnates](_Lexicon/Incarnates.md)
 - [Influence](_Lexicon/Influence.md)
 - [Ink Lance](_Lexicon/InkLance.md)
 - [Inscription](_Lexicon/Inscription.md)
@@ -163,7 +165,7 @@ layout: default
 ## V
 - [Vampirism](_Lexicon/Vampirism.md)
 - [Vikas Adam](_Lexicon/VikasAdam.md)
-- 
+- [Vital Energy](_Lexicon/VitalEnergy.md)
 
 ---
 ## W

@@ -5,10 +5,10 @@ layout: default
 ---
 
 !! Not Complete List !!
-*Plz floof we need AA14*
+*Plz floof we need AA14,15,16,17,18*
 
 Tier    Law
-- - 1 Celestial
+- 1 Celestial
 - 1 Infernal
 - 1 Fire - [Shaka](../_Characters/ArtoriansArchives/Shaka.md)
 - 1 Water
@@ -16,7 +16,7 @@ Tier    Law
 - 1 Earth
 
 - 2 Lightning
-	- 2 Remembrance 
+	- Remembrance 
 - 2 Metal
 - 2 Effervescence (Minya)
 	- Cloud
@@ -113,7 +113,7 @@ Tier    Law
 	- unknown
 - 13 Sand
 - 13 Annoyance
-- 13 Greed
+- 13 Greed (Barry's Fake Tier)
 
 - 14 Redemption
 - 14 Compassion
@@ -159,8 +159,8 @@ Tier    Law
 - 20
 - 20
 - 20
-- 21
-- 21
+- 21 Destruction
+- 21 
 - 21
 - 21
 - 21
@@ -207,7 +207,7 @@ Tier    Law
 - 28
 - 28
 - 28
-- 29
+- 29 Aeris
 - 29
 - 29
 - 29
@@ -362,7 +362,7 @@ Tier    Law
 - 720 Entropy
 - 720 Madness
 - 720 Matter
-- 720 Love ([Arty](../_Characters/ArtoriansArchives/Artorian.md))
+- 720 Love ([Arty](../_Characters/ArtoriansArchives/Artorian.md)) Scilla?
 - 720
 - 720
 - 720
@@ -422,6 +422,7 @@ Tier    Law
 - Time
 - Holy Fire
 - Death
+- Exsistence
 - Time
 	- Something about Flesh-Sculpting
 - Monachopsis
