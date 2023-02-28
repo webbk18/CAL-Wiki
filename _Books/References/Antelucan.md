@@ -9,7 +9,7 @@ layout: default
 ### Navigation
 | Previous Book   | Following Book    | All Books                  |
 | ------------ | -------------| ----------------------- |
-| [Acyrologia](Acyrologia.md) | [AA14](AA14.md) | [Pop Culture References](../PopCultureReferences.md)                               |
+| [Acyrologia](Acyrologia.md) | [Arcoplex](Arcoplex.md) | [Pop Culture References](../PopCultureReferences.md)                               |
 
 
 _References are sorted chronologically by chapter number._

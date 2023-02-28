@@ -36,7 +36,7 @@ book blurb / description
 
 | Previous Book | Following Book |
 |---|---|
-| [Avalon](Avalon.md) | [AA14](../ArtoriansArchives/AA14.md) |
+| [Avalon](Avalon.md) | [Arcoplex](Arcoplex.md) |
 
 ## Publication Information
 

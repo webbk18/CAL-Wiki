@@ -1,6 +1,6 @@
 ---
-title: "AA14"
-permalink: /Lexicon/AA14/
+title: "Arcoplex"
+permalink: /Lexicon/Arcoplex/
 layout: default
 ---
 
