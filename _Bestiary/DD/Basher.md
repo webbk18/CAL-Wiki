@@ -17,9 +17,9 @@ Rabbits with stronger muscles and skeletal structure and a nub on their skulls t
 
 ## Evolutions
 *Bashers where fed Essence up to Rank F six*
-- [Opressors](Opressors.md)
+- Wind - [Opressors](Opressors.md)
 - Water yielded no results.
-- [Smasher](Smasher.md)
+- Earth -  [Smasher](Smasher.md)
 - Fire only caused pain and suffering to the poor Basher.
-- [Impalers](Impalers.md)
-- [Glitterflit](Glitterflit.md)
+- Infernal - [Impalers](Impalers.md)
+- Celestial - [Glitterflit](Glitterflit.md)
