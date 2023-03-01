@@ -16,7 +16,7 @@ Rabbits with stronger muscles and skeletal structure and a nub on their skulls t
 - Sometimes a Left Boot
 
 ## Evolutions
-	*Bashers where fed Essence up to Rank F six*
+*Bashers where fed Essence up to Rank F six*
 - [Opressors](Opressors.md)
 - Water yielded no results.
 - [Smasher](Smasher.md)
